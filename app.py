@@ -180,8 +180,7 @@ def inject_custom_css(font_scale="標準"):
     """
     st.markdown(css, unsafe_allow_html=True)
 
-# Load questions data
-@st.cache_data
+# Load questions data (Always load fresh, no cache)
 def load_questions():
     json_path = os.path.join(os.path.dirname(__file__), "questions.json")
     if not os.path.exists(json_path):
@@ -191,6 +190,20 @@ def load_questions():
         return json.load(f)
 
 # Verification code generator
+def prepare_shuffled_questions(raw_questions):
+    """Dynamically shuffles choices and recalculates answer_index to guarantee even A/B/C/D distribution."""
+    shuffled_list = []
+    for q in raw_questions:
+        q_copy = dict(q)
+        choices = list(q["choices"])
+        correct_text = choices[q["answer_index"]]
+        # Shuffle choices randomly
+        random.shuffle(choices)
+        q_copy["choices"] = choices
+        q_copy["answer_index"] = choices.index(correct_text)
+        shuffled_list.append(q_copy)
+    return shuffled_list
+
 def generate_verification_code(student_id, student_class, score, total):
     raw = f"{student_id}_{student_class}_{score}_{total}_CARE_2026_SECRET"
     h = hashlib.sha256(raw.encode("utf-8")).hexdigest()[:8].upper()
@@ -264,6 +277,7 @@ def main():
         selected_topic_id = topic_choice[0]
         
     start_button = st.sidebar.button("🚀 演習を開始する / リセット", type="primary", use_container_width=True)
+    st.sidebar.caption("✅ システム版: v6（高コントラスト改修版） (動的シャッフル・キャッシュ完全排除)")
     
     # Initialize Quiz Session
     if "quiz_active" not in st.session_state or start_button:
@@ -271,11 +285,12 @@ def main():
         if selected_mode.startswith("1."):
             pool = list(questions_data)
             random.shuffle(pool)
-            quiz_qs = pool[:10]
+            quiz_qs = prepare_shuffled_questions(pool[:10])
         elif selected_mode.startswith("2."):
-            quiz_qs = [q for q in questions_data if q["topic_id"] == selected_topic_id]
+            filtered = [q for q in questions_data if q["topic_id"] == selected_topic_id]
+            quiz_qs = prepare_shuffled_questions(filtered)
         else:
-            quiz_qs = list(questions_data)
+            quiz_qs = prepare_shuffled_questions(questions_data)
             
         st.session_state["quiz_questions"] = quiz_qs
         st.session_state["current_idx"] = 0
