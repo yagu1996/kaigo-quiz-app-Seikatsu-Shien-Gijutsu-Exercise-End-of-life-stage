@@ -14,6 +14,7 @@ import random
 import datetime
 import hashlib
 import os
+import re
 
 # Page config
 st.set_page_config(
@@ -522,7 +523,8 @@ def render_results_screen(quiz_qs, student_class, student_id, student_name):
             with st.expander(f"第 {q_idx + 1} 問：{re.sub(r'<rt>.*?</rt>', '', re.sub(r'<.*?>', '', q['question']))[:35]}..."):
                 st.markdown(f"<div style='font-size: 1.15rem; font-weight: 700; line-height: 2.1;'>{q['question']}</div>", unsafe_allow_html=True)
                 user_ans = user_answers.get(q_idx)
-                st.markdown(f"**あなたの回答：** 選択肢 {choice_labels[user_ans]} ❌")
+                user_ans_label = choice_labels[user_ans] if (user_ans is not None and 0 <= user_ans < len(choice_labels)) else "未回答"
+                st.markdown(f"**あなたの回答：** 選択肢 {user_ans_label} ❌")
                 st.markdown(f"**正解：** 選択肢 {choice_labels[q['answer_index']]} ⭕")
                 st.markdown(f"**【解説】：** {q['explanation']}", unsafe_allow_html=True)
                 st.markdown(f"**🔑 重要語句：** {q['keyword']}", unsafe_allow_html=True)

@@ -20,12 +20,12 @@
     "topic_name": "<ruby>終末期<rt>しゅうまつき</rt></ruby>・<ruby>人生<rt>じんせい</rt></ruby>の<ruby>最終<rt>さいしゅう</rt></ruby><ruby>段階<rt>だんかい</rt></ruby>におけるケアの<ruby>意義<rt>いぎ</rt></ruby>と<ruby>意思<rt>いし</rt></ruby><ruby>決定<rt>けってい</rt></ruby><ruby>支援<rt>しえん</rt></ruby>",
     "question": "「<ruby>終末期<rt>しゅうまつき</rt></ruby>ケア・ターミナルケア」の<ruby>対象<rt>たいしょう</rt></ruby>となる<ruby>時期<rt>じき</rt></ruby>についての<ruby>説明<rt>せつめい</rt></ruby>として<ruby>適切<rt>てきせつ</rt></ruby>なものはどれか。",
     "choices": [
-      "<ruby>進行<rt>しんこう</rt></ruby>すると<ruby>死<rt>し</rt></ruby>にいたる<ruby>病気<rt>びょうき</rt></ruby>の<ruby>終末期<rt>しゅうまつき</rt></ruby>で、<ruby>医学的<rt>いがくてき</rt></ruby><ruby>知見<rt>ちけん</rt></ruby>からも<ruby>避<rt>さ</rt></ruby>けられない<ruby>死<rt>し</rt></ruby>が<ruby>明確<rt>めいかく</rt></ruby>に<ruby>予測<rt>よそく</rt></ruby>できる<ruby>時期<rt>じき</rt></ruby>",
-      "<ruby>介護<rt>かいご</rt></ruby><ruby>保険<rt>ほけん</rt></ruby>の<ruby>要介護<rt>ようかいご</rt></ruby><ruby>認定<rt>にんてい</rt></ruby>を<ruby>初<rt>はじ</rt></ruby>めて<ruby>受<rt>う</rt></ruby>けた<ruby>直後<rt>ちょくご</rt></ruby>のすべての<ruby>時期<rt>じき</rt></ruby>",
       "<ruby>本人<rt>ほんにん</rt></ruby>の<ruby>生前<rt>せいぜん</rt></ruby>の<ruby>希望<rt>きぼう</rt></ruby>に<ruby>関<rt>かか</rt></ruby>わらず、<ruby>施設<rt>しせつ</rt></ruby>へ<ruby>入所<rt>にゅうしょ</rt></ruby>した<ruby>日<rt>ひ</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>まる<ruby>期間<rt>きかん</rt></ruby>",
-      "<ruby>身体的<rt>しんたいてき</rt></ruby>な<ruby>自立度<rt>じりつど</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く、<ruby>病状<rt>びょうじょう</rt></ruby>が<ruby>完全<rt>かんぜん</rt></ruby>に<ruby>治癒<rt>ちゆ</rt></ruby>した<ruby>直後<rt>ちょくご</rt></ruby>の<ruby>時期<rt>じき</rt></ruby>"
+      "<ruby>身体的<rt>しんたいてき</rt></ruby>な<ruby>自立度<rt>じりつど</rt></ruby>が<ruby>高<rt>たか</rt></ruby>く、<ruby>病状<rt>びょうじょう</rt></ruby>が<ruby>完全<rt>かんぜん</rt></ruby>に<ruby>治癒<rt>ちゆ</rt></ruby>した<ruby>直後<rt>ちょくご</rt></ruby>の<ruby>時期<rt>じき</rt></ruby>",
+      "<ruby>進行<rt>しんこう</rt></ruby>すると<ruby>死<rt>し</rt></ruby>にいたる<ruby>病気<rt>びょうき</rt></ruby>の<ruby>終末期<rt>しゅうまつき</rt></ruby>で、<ruby>医学的<rt>いがくてき</rt></ruby><ruby>知見<rt>ちけん</rt></ruby>からも<ruby>避<rt>さ</rt></ruby>けられない<ruby>死<rt>し</rt></ruby>が<ruby>明確<rt>めいかく</rt></ruby>に<ruby>予測<rt>よそく</rt></ruby>できる<ruby>時期<rt>じき</rt></ruby>",
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>保険<rt>ほけん</rt></ruby>の<ruby>要介護<rt>ようかいご</rt></ruby><ruby>認定<rt>にんてい</rt></ruby>を<ruby>初<rt>はじ</rt></ruby>めて<ruby>受<rt>う</rt></ruby>けた<ruby>直後<rt>ちょくご</rt></ruby>のすべての<ruby>時期<rt>じき</rt></ruby>"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "explanation": "<ruby>教科書<rt>きょうかしょ</rt></ruby>の<ruby>表<rt>ひょう</rt></ruby>6-2において、<ruby>終末期<rt>しゅうまつき</rt></ruby>ケア・ターミナルケアは「<ruby>進行<rt>しんこう</rt></ruby>すると<ruby>死<rt>し</rt></ruby>にいたる<ruby>病気<rt>びょうき</rt></ruby>の<ruby>終末期<rt>しゅうまつき</rt></ruby>で、<ruby>医学的<rt>いがくてき</rt></ruby><ruby>知見<rt>ちけん</rt></ruby>のもと<ruby>避<rt>さ</rt></ruby>けられない<ruby>死<rt>し</rt></ruby>が<ruby>明確<rt>めいかく</rt></ruby>に<ruby>予測<rt>よそく</rt></ruby>できる<ruby>時期<rt>じき</rt></ruby>（おもにがん<ruby>患者<rt>かんじゃ</rt></ruby>を<ruby>対象<rt>たいしょう</rt></ruby>とし、<ruby>余命<rt>よめい</rt></ruby>はおおむね6か<ruby>月<rt>げつ</rt></ruby>）」とされています。",
     "keyword": "<ruby>終末期<rt>しゅうまつき</rt></ruby>ケアの<ruby>対象<rt>たいしょう</rt></ruby><ruby>時期<rt>じき</rt></ruby>"
   },
@@ -35,12 +35,12 @@
     "topic_name": "<ruby>終末期<rt>しゅうまつき</rt></ruby>・<ruby>人生<rt>じんせい</rt></ruby>の<ruby>最終<rt>さいしゅう</rt></ruby><ruby>段階<rt>だんかい</rt></ruby>におけるケアの<ruby>意義<rt>いぎ</rt></ruby>と<ruby>意思<rt>いし</rt></ruby><ruby>決定<rt>けってい</rt></ruby><ruby>支援<rt>しえん</rt></ruby>",
     "question": "「エンドオブライフ・ケア」の<ruby>特徴<rt>とくちょう</rt></ruby>として、<ruby>教科書<rt>きょうかしょ</rt></ruby>に<ruby>記載<rt>きさい</rt></ruby>されている<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>な<ruby>記述<rt>きじゅつ</rt></ruby>はどれか。",
     "choices": [
-      "<ruby>身体的<rt>しんたいてき</rt></ruby><ruby>状況<rt>じょうきょう</rt></ruby>による<ruby>医学的<rt>いがくてき</rt></ruby><ruby>判断<rt>はんだん</rt></ruby>だけでなく、<ruby>本人<rt>ほんにん</rt></ruby>がどのような<ruby>治療法<rt>ちりょうほう</rt></ruby>を<ruby>選択<rt>せんたく</rt></ruby>するのかにもよる",
-      "<ruby>医師<rt>いし</rt></ruby>が<ruby>単独<rt>たんどく</rt></ruby>で<ruby>余命<rt>よめい</rt></ruby>3か<ruby>月<rt>げつ</rt></ruby>と<ruby>判定<rt>はんてい</rt></ruby>した<ruby>場合<rt>ばあい</rt></ruby>にのみ<ruby>適用<rt>てきよう</rt></ruby>される",
       "<ruby>本人<rt>ほんにん</rt></ruby>の<ruby>意思<rt>いし</rt></ruby>は<ruby>考慮<rt>こうりょ</rt></ruby>せず、<ruby>家族<rt>かぞく</rt></ruby>の<ruby>経済的<rt>けいざいてき</rt></ruby><ruby>事情<rt>じじょう</rt></ruby>のみによって<ruby>決定<rt>けってい</rt></ruby>される",
+      "<ruby>医師<rt>いし</rt></ruby>が<ruby>単独<rt>たんどく</rt></ruby>で<ruby>余命<rt>よめい</rt></ruby>3か<ruby>月<rt>げつ</rt></ruby>と<ruby>判定<rt>はんてい</rt></ruby>した<ruby>場合<rt>ばあい</rt></ruby>にのみ<ruby>適用<rt>てきよう</rt></ruby>される",
+      "<ruby>身体的<rt>しんたいてき</rt></ruby><ruby>状況<rt>じょうきょう</rt></ruby>による<ruby>医学的<rt>いがくてき</rt></ruby><ruby>判断<rt>はんだん</rt></ruby>だけでなく、<ruby>本人<rt>ほんにん</rt></ruby>がどのような<ruby>治療法<rt>ちりょうほう</rt></ruby>を<ruby>選択<rt>せんたく</rt></ruby>するのかにもよる",
       "<ruby>病院<rt>びょういん</rt></ruby>の<ruby>集中<rt>しゅうちゅう</rt><ruby>治療室<rt>ちりょうしつ</rt></ruby>でのみ<ruby>行<rt>おこな</rt></ruby>われる<ruby>延命<rt>えんめい</rt><ruby>治療<rt>ちりょう</rt></ruby>をさす"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "explanation": "エンドオブライフ・ケアの<ruby>対象<rt>たいしょう</rt></ruby>となる<ruby>時期<rt>じき</rt></ruby>は、<ruby>身体的<rt>しんたいてき</rt></ruby><ruby>状況<rt>じょうきょう</rt></ruby>による<ruby>医学的<rt>いがくてき</rt></ruby><ruby>判断<rt>はんだん</rt></ruby>だけでなく、<ruby>本人<rt>ほんにん</rt></ruby>がどのような<ruby>治療法<rt>ちりょうほう</rt></ruby>を<ruby>選択<rt>せんたく</rt></ruby>するのかによっても<ruby>左右<rt>さゆう</rt></ruby>されます。",
     "keyword": "エンドオブライフ・ケア"
   },
@@ -50,12 +50,12 @@
     "topic_name": "<ruby>終末期<rt>しゅうまつき</rt></ruby>・<ruby>人生<rt>じんせい</rt></ruby>の<ruby>最終<rt>さいしゅう</rt></ruby><ruby>段階<rt>だんかい</rt></ruby>におけるケアの<ruby>意義<rt>いぎ</rt></ruby>と<ruby>意思<rt>いし</rt></ruby><ruby>決定<rt>けってい</rt></ruby><ruby>支援<rt>しえん</rt></ruby>",
     "question": "<ruby>筋萎縮性側索硬化症<rt>きんいしゅくせいそくさくこうかしょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>の<ruby>人工<rt>じんこう</rt></ruby><ruby>呼吸器<rt>こきゅうき</rt></ruby><ruby>装着<rt>そうちゃく</rt></ruby>や、<ruby>高齢<rt>こうれい</rt></ruby>で<ruby>口<rt>くち</rt></ruby>から<ruby>食<rt>た</rt></ruby>べられなくなった<ruby>際<rt>さい</rt></ruby>の<ruby>経管<rt>けいかん</rt></ruby><ruby>栄養<rt>えいよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>の<ruby>選択<rt>せんたく</rt></ruby>について、<ruby>教科書<rt>きょうかしょ</rt></ruby>が<ruby>伝<rt>つた</rt></ruby>えている<ruby>本質<rt>ほんしつ</rt></ruby>はどれか。",
     "choices": [
-      "<ruby>治療法<rt>ちりょうほう</rt></ruby>の<ruby>選択<rt>せんたく</rt></ruby>によって、その<ruby>後<rt>ご</rt></ruby>も<ruby>人生<rt>じんせい</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>くこともあれば、<ruby>死<rt>し</rt></ruby>が<ruby>差<rt>さ</rt></ruby>し<ruby>迫<rt>せま</rt></ruby>ったものにもなるという<ruby>重大<rt>じゅうだい</rt></ruby>な<ruby>選択<rt>せんたく</rt></ruby>である",
-      "<ruby>介護福祉職<rt>かいごふくししょく</rt></ruby>が<ruby>本人<rt>ほんにん</rt></ruby>に<ruby>代<rt>か</rt></ruby>わってどちらか<ruby>一方<rt>いっぽう</rt></ruby>を<ruby>義務的<rt>ぎむてき</rt></ruby>に<ruby>決定<rt>けってい</rt></ruby>しなければならない",
+      "<ruby>医師<rt>いし</rt></ruby>の<ruby>指示<rt>しじ</rt></ruby>さえあれば、<ruby>本人<rt>ほんにん</rt></ruby>や<ruby>家族<rt>かぞく</rt></ruby>と<ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>う<ruby>必要<rt>ひつよう</rt></ruby>はない",
       "いかなる<ruby>場合<rt>ばあい</rt></ruby>も<ruby>経管<rt>けいかん</rt></ruby><ruby>栄養<rt>えいよう</rt></ruby><ruby>法<rt>ほう</rt></ruby>を<ruby>選択<rt>せんたく</rt></ruby>することが<ruby>法律<rt>ほうりつ</rt></ruby>で<ruby>義務<rt>ぎむ</rt></ruby>づけられている",
-      "<ruby>医師<rt>いし</rt></ruby>の<ruby>指示<rt>しじ</rt></ruby>さえあれば、<ruby>本人<rt>ほんにん</rt></ruby>や<ruby>家族<rt>かぞく</rt></ruby>と<ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>う<ruby>必要<rt>ひつよう</rt></ruby>はない"
+      "<ruby>介護福祉職<rt>かいごふくししょく</rt></ruby>が<ruby>本人<rt>ほんにん</rt></ruby>に<ruby>代<rt>か</rt></ruby>わってどちらか<ruby>一方<rt>いっぽう</rt></ruby>を<ruby>義務的<rt>ぎむてき</rt></ruby>に<ruby>決定<rt>けってい</rt></ruby>しなければならない",
+      "<ruby>治療法<rt>ちりょうほう</rt></ruby>の<ruby>選択<rt>せんたく</rt></ruby>によって、その<ruby>後<rt>ご</rt></ruby>も<ruby>人生<rt>じんせい</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>くこともあれば、<ruby>死<rt>し</rt></ruby>が<ruby>差<rt>さ</rt></ruby>し<ruby>迫<rt>せま</rt></ruby>ったものにもなるという<ruby>重大<rt>じゅうだい</rt></ruby>な<ruby>選択<rt>せんたく</rt></ruby>である"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "explanation": "<ruby>治療<rt>ちりょう</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う<ruby>場合<rt>ばあい</rt></ruby>は<ruby>死<rt>し</rt></ruby>は<ruby>身近<rt>みぢか</rt></ruby>なものとはなりませんが、<ruby>行<rt>おこな</rt></ruby>わないことを<ruby>選択<rt>せんたく</rt></ruby>した<ruby>場合<rt>ばあい</rt></ruby>は<ruby>死<rt>し</rt></ruby>は<ruby>差<rt>さ</rt></ruby>し<ruby>迫<rt>せま</rt></ruby>ったものとなります。このように<ruby>本人<rt>ほんにん</rt></ruby>の<ruby>選択<rt>せんたく</rt></ruby>が<ruby>人生<rt>じんせい</rt></ruby>に<ruby>直結<rt>ちょっけつ</rt></ruby>する<ruby>重大<rt>じゅうだい</rt></ruby>な<ruby>局面<rt>きょくめん</rt></ruby>となります。",
     "keyword": "<ruby>治療法<rt>ちりょうほう</rt></ruby>の<ruby>選択<rt>せんたく</rt></ruby>"
   },
@@ -66,9 +66,9 @@
     "question": "アドバンス・ケア・プランニングについての<ruby>説明<rt>せつめい</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものはどれか。",
     "choices": [
       "もしものときのために、みずからが<ruby>望<rt>のぞ</rt></ruby>む<ruby>人生<rt>じんせい</rt></ruby>の<ruby>最終<rt>さいしゅう</rt></ruby><ruby>段階<rt>だんかい</rt></ruby>における<ruby>医療<rt>いりょう</rt></ruby>・ケアについて<ruby>前<rt>まえ</rt></ruby>もって<ruby>考<rt>かんが</rt></ruby>え、チームとくり<ruby>返<rt>かえ</rt></ruby>し<ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>い<ruby>共有<rt>きょうゆう</rt></ruby>する<ruby>取<rt>と</rt></ruby>り<ruby>組<rt>く</rt></ruby>み",
-      "<ruby>本人<rt>ほんにん</rt></ruby>が<ruby>意識<rt>いしき</rt></ruby>を<ruby>失<rt>うしな</rt></ruby>った<ruby>後<rt>のち</rt></ruby>に、<ruby>施設<rt>しせつ</rt></ruby>の<ruby>職員<rt>しょくいん</rt></ruby>だけで<ruby>今後<rt>こんご</rt></ruby>の<ruby>方針<rt>ほうしん</rt></ruby>を1<ruby>回<rt>かい</rt></ruby>で<ruby>決<rt>き</rt></ruby>めてしまうこと",
+      "<ruby>葬儀<rt>そうぎ</rt></ruby>の<ruby>費用<rt>ひよう</rt></ruby>や<ruby>遺産<rt>いさん</rt></ruby><ruby>相続<rt>そうぞく</rt></ruby>の<ruby>配分<rt>はいぶん</rt></ruby>だけを<ruby>弁護士<rt>べんごし</rt></ruby>と<ruby>決<rt>き</rt></ruby>めておく<ruby>手続<rt>てつづ</rt></ruby>き",
       "<ruby>一度<rt>いちど</rt></ruby><ruby>作成<rt>さくせい</rt></ruby>した<ruby>文書<rt>ぶんしょ</rt></ruby>は、その<ruby>後<rt>ご</rt></ruby>いかなる<ruby>理由<rt>りゆう</rt></ruby>があっても<ruby>決<rt>けっ</rt></ruby>して<ruby>変更<rt>へんこう</rt></ruby>してはならないという<ruby>契約<rt>けいやく</rt></ruby>",
-      "<ruby>葬儀<rt>そうぎ</rt></ruby>の<ruby>費用<rt>ひよう</rt></ruby>や<ruby>遺産<rt>いさん</rt></ruby><ruby>相続<rt>そうぞく</rt></ruby>の<ruby>配分<rt>はいぶん</rt></ruby>だけを<ruby>弁護士<rt>べんごし</rt></ruby>と<ruby>決<rt>き</rt></ruby>めておく<ruby>手続<rt>てつづ</rt></ruby>き"
+      "<ruby>本人<rt>ほんにん</rt></ruby>が<ruby>意識<rt>いしき</rt></ruby>を<ruby>失<rt>うしな</rt></ruby>った<ruby>後<rt>のち</rt></ruby>に、<ruby>施設<rt>しせつ</rt></ruby>の<ruby>職員<rt>しょくいん</rt></ruby>だけで<ruby>今後<rt>こんご</rt></ruby>の<ruby>方針<rt>ほうしん</rt></ruby>を1<ruby>回<rt>かい</rt></ruby>で<ruby>決<rt>き</rt></ruby>めてしまうこと"
     ],
     "answer_index": 0,
     "explanation": "アドバンス・ケア・プランニングは、<ruby>本人<rt>ほんにん</rt></ruby>の<ruby>意思<rt>いし</rt></ruby>を<ruby>尊重<rt>そんちょう</rt></ruby>した<ruby>医療<rt>いりょう</rt></ruby>およびケアを<ruby>提供<rt>ていきょう</rt></ruby>し、<ruby>最期<rt>さいご</rt></ruby>までその<ruby>人<rt>ひと</rt></ruby>らしく<ruby>尊厳<rt>そんげん</rt></ruby>ある<ruby>生<rt>い</rt></ruby>き<ruby>方<rt>かた</rt></ruby>を<ruby>実現<rt>じつげん</rt></ruby>するため、くり<ruby>返<rt>かえ</rt></ruby>し<ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>い<ruby>共有<rt>きょうゆう</rt></ruby>するプロセスです。",
@@ -81,9 +81,9 @@
     "question": "アドバンス・ケア・プランニングを<ruby>進<rt>すす</rt></ruby>めるうえで、<ruby>最<rt>もっと</rt></ruby>も<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>原則<rt>げんそく</rt></ruby>はどれか。",
     "choices": [
       "<ruby>主体<rt>しゅたい</rt></ruby>はあくまで<ruby>本人<rt>ほんにん</rt></ruby>であり、<ruby>本人<rt>ほんにん</rt></ruby>の<ruby>意思<rt>いし</rt></ruby>は<ruby>変化<rt>へんか</rt></ruby>する<ruby>可能性<rt>かのうせい</rt></ruby>があるためくり<ruby>返<rt>かえ</rt></ruby>し<ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>う",
-      "<ruby>家族<rt>かぞく</rt></ruby>の<ruby>意向<rt>いこう</rt></ruby>を<ruby>本人<rt>ほんにん</rt></ruby>の<ruby>意思<rt>いし</rt></ruby>よりも<ruby>優先<rt>ゆうせん</rt></ruby>させて<ruby>方針<rt>ほうしん</rt></ruby>を<ruby>決定<rt>けってい</rt></ruby>する",
+      "<ruby>介護福祉職<rt>かいごふくししょく</rt></ruby>は<ruby>関与<rt>かんよ</rt></ruby>せず、<ruby>医師<rt>いし</rt></ruby>と<ruby>看護師<rt>かんごし</rt></ruby>だけにすべてを<ruby>任<rt>まか</rt></ruby>せる",
       "<ruby>一度<rt>いちど</rt></ruby><ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>って<ruby>合意<rt>ごうい</rt></ruby>したら、その<ruby>後<rt>ご</rt></ruby>は<ruby>二度<rt>にど</rt></ruby>と<ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>いをしてはならない",
-      "<ruby>介護福祉職<rt>かいごふくししょく</rt></ruby>は<ruby>関与<rt>かんよ</rt></ruby>せず、<ruby>医師<rt>いし</rt></ruby>と<ruby>看護師<rt>かんごし</rt></ruby>だけにすべてを<ruby>任<rt>まか</rt></ruby>せる"
+      "<ruby>家族<rt>かぞく</rt></ruby>の<ruby>意向<rt>いこう</rt></ruby>を<ruby>本人<rt>ほんにん</rt></ruby>の<ruby>意思<rt>いし</rt></ruby>よりも<ruby>優先<rt>ゆうせん</rt></ruby>させて<ruby>方針<rt>ほうしん</rt></ruby>を<ruby>決定<rt>けってい</rt></ruby>する"
     ],
     "answer_index": 0,
     "explanation": "アドバンス・ケア・プランニングの<ruby>主体<rt>しゅたい</rt></ruby>はあくまで<ruby>本人<rt>ほんにん</rt></ruby>です。<ruby>本人<rt>ほんにん</rt></ruby>の<ruby>意思<rt>いし</rt></ruby>は<ruby>病状<rt>びょうじょう</rt></ruby>や<ruby>心境<rt>しんきょう</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>により<ruby>変<rt>か</rt></ruby>わる<ruby>可能性<rt>かのうせい</rt></ruby>があるため、<ruby>一度<rt>いちど</rt></ruby>で<ruby>終<rt>お</rt></ruby>わらせずくり<ruby>返<rt>かえ</rt></ruby>し<ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>うことが<ruby>極<rt>きわ</rt></ruby>めて<ruby>重要<rt>じゅうよう</rt></ruby>です。",
@@ -95,12 +95,12 @@
     "topic_name": "<ruby>終末期<rt>しゅうまつき</rt></ruby>・<ruby>人生<rt>じんせい</rt></ruby>の<ruby>最終<rt>さいしゅう</rt></ruby><ruby>段階<rt>だんかい</rt></ruby>におけるケアの<ruby>意義<rt>いぎ</rt></ruby>と<ruby>意思<rt>いし</rt></ruby><ruby>決定<rt>けってい</rt></ruby><ruby>支援<rt>しえん</rt></ruby>",
     "question": "「<ruby>事前<rt>じぜん</rt></ruby><ruby>指示<rt>しじ</rt></ruby>」についての<ruby>説明<rt>せつめい</rt></ruby>として<ruby>適切<rt>てきせつ</rt></ruby>なものはどれか。",
     "choices": [
-      "<ruby>判断<rt>はんだん</rt></ruby><ruby>能力<rt>のうりょく</rt></ruby>のある<ruby>人<rt>ひと</rt></ruby>が、<ruby>意思<rt>いし</rt></ruby><ruby>決定<rt>けってい</rt></ruby><ruby>能力<rt>のうりょく</rt></ruby>を<ruby>失<rt>うしな</rt></ruby>った<ruby>際<rt>さい</rt></ruby>に<ruby>自分<rt>じぶん</rt></ruby>に<ruby>行<rt>おこな</rt></ruby>われる<ruby>医療<rt>いりょう</rt></ruby><ruby>行為<rt>こうい</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>意向<rt>いこう</rt></ruby>を<ruby>前<rt>まえ</rt></ruby>もって<ruby>示<rt>しめ</rt></ruby>すこと",
       "<ruby>医師<rt>いし</rt></ruby>が<ruby>患者<rt>かんじゃ</rt></ruby>に<ruby>対<rt>たい</rt></ruby>して、あらかじめ<ruby>治療<rt>ちりょう</rt></ruby>のスケジュールを<ruby>一方的<rt>いっぽうてき</rt></ruby>に<ruby>命令<rt>めいれい</rt></ruby>すること",
       "<ruby>介護<rt>かいご</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>の<ruby>施設長<rt>しせつちょう</rt></ruby>が、<ruby>全<rt>すべ</rt></ruby>ての<ruby>利用者<rt>りようしゃ</rt></ruby>に<ruby>対<rt>たい</rt></ruby>して<ruby>同<rt>おな</rt></ruby>じ<ruby>介護<rt>かいご</rt></ruby>メニューを<ruby>義務<rt>ぎむ</rt></ruby>づけること",
-      "<ruby>家族<rt>かぞく</rt></ruby>が<ruby>本人<rt>ほんにん</rt></ruby>に<ruby>無断<rt>むだん</rt></ruby>で<ruby>財産<rt>ざいさん</rt></ruby>の<ruby>処分<rt>しょぶん</rt></ruby><ruby>方法<rt>ほうほう</rt></ruby>を<ruby>決<rt>き</rt></ruby>めておくこと"
+      "<ruby>家族<rt>かぞく</rt></ruby>が<ruby>本人<rt>ほんにん</rt></ruby>に<ruby>無断<rt>むだん</rt></ruby>で<ruby>財産<rt>ざいさん</rt></ruby>の<ruby>処分<rt>しょぶん</rt></ruby><ruby>方法<rt>ほうほう</rt></ruby>を<ruby>決<rt>き</rt></ruby>めておくこと",
+      "<ruby>判断<rt>はんだん</rt></ruby><ruby>能力<rt>のうりょく</rt></ruby>のある<ruby>人<rt>ひと</rt></ruby>が、<ruby>意思<rt>いし</rt></ruby><ruby>決定<rt>けってい</rt></ruby><ruby>能力<rt>のうりょく</rt></ruby>を<ruby>失<rt>うしな</rt></ruby>った<ruby>際<rt>さい</rt></ruby>に<ruby>自分<rt>じぶん</rt></ruby>に<ruby>行<rt>おこな</rt></ruby>われる<ruby>医療<rt>いりょう</rt></ruby><ruby>行為<rt>こうい</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>意向<rt>いこう</rt></ruby>を<ruby>前<rt>まえ</rt></ruby>もって<ruby>示<rt>しめ</rt></ruby>すこと"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "explanation": "<ruby>事前<rt>じぜん</rt></ruby><ruby>指示<rt>しじ</rt></ruby>は、<ruby>判断<rt>はんだん</rt></ruby><ruby>能力<rt>のうりょく</rt></ruby>があるうちに、<ruby>将来<rt>しょうらい</rt></ruby><ruby>判断<rt>はんだん</rt></ruby><ruby>能力<rt>のうりょく</rt></ruby>を<ruby>失<rt>うしな</rt></ruby>った<ruby>場合<rt>ばあい</rt></ruby>の<ruby>医療<rt>いりょう</rt></ruby><ruby>行為<rt>こうい</rt></ruby>への<ruby>希望<rt>きぼう</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>したり、<ruby>代理人<rt>だいりにん</rt></ruby>を<ruby>指名<rt>しめい</rt></ruby>しておくことです。",
     "keyword": "<ruby>事前<rt>じぜん</rt></ruby><ruby>指示<rt>しじ</rt></ruby>"
   },
@@ -110,12 +110,12 @@
     "topic_name": "<ruby>終末期<rt>しゅうまつき</rt></ruby>・<ruby>人生<rt>じんせい</rt></ruby>の<ruby>最終<rt>さいしゅう</rt></ruby><ruby>段階<rt>だんかい</rt></ruby>におけるケアの<ruby>意義<rt>いぎ</rt></ruby>と<ruby>意思<rt>いし</rt></ruby><ruby>決定<rt>けってい</rt></ruby><ruby>支援<rt>しえん</rt></ruby>",
     "question": "<ruby>医療<rt>いりょう</rt></ruby><ruby>行為<rt>こうい</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>医療職<rt>いりょうしょく</rt></ruby>への<ruby>指示<rt>しじ</rt></ruby>を、<ruby>本人<rt>ほんにん</rt></ruby>が<ruby>文書<rt>ぶんしょ</rt></ruby>で<ruby>示<rt>しめ</rt></ruby>したものを<ruby>何<rt>なに</rt></ruby>とよぶか。",
     "choices": [
+      "デスカンファレンス",
       "リビングウィル",
-      "バイタルサイン",
       "ケアプラン",
-      "デスカンファレンス"
+      "バイタルサイン"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "explanation": "<ruby>医療<rt>いりょう</rt></ruby><ruby>行為<rt>こうい</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>医療職<rt>いりょうしょく</rt></ruby>への<ruby>指示<rt>しじ</rt></ruby>を<ruby>文書<rt>ぶんしょ</rt></ruby>で<ruby>示<rt>しめ</rt></ruby>したものを「リビングウィル」といいます。",
     "keyword": "リビングウィル"
   },
@@ -125,12 +125,12 @@
     "topic_name": "<ruby>終末期<rt>しゅうまつき</rt></ruby>・<ruby>人生<rt>じんせい</rt></ruby>の<ruby>最終<rt>さいしゅう</rt></ruby><ruby>段階<rt>だんかい</rt></ruby>におけるケアの<ruby>意義<rt>いぎ</rt></ruby>と<ruby>意思<rt>いし</rt></ruby><ruby>決定<rt>けってい</rt></ruby><ruby>支援<rt>しえん</rt></ruby>",
     "question": "<ruby>心肺<rt>しんぱい</rt></ruby><ruby>停止<rt>ていし</rt></ruby>の<ruby>際<rt>さい</rt></ruby>に<ruby>心肺<rt>しんぱい</rt></ruby><ruby>蘇生<rt>そせい</rt></ruby><ruby>法<rt>ほう</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>わないことについての<ruby>説明<rt>せつめい</rt></ruby>として<ruby>適切<rt>てきせつ</rt></ruby>なものはどれか。",
     "choices": [
-      "<ruby>患者<rt>かんじゃ</rt></ruby><ruby>本人<rt>ほんにん</rt></ruby>または<ruby>意思<rt>いし</rt></ruby><ruby>決定<rt>けってい</rt></ruby>を<ruby>推定<rt>すいてい</rt></ruby>できる<ruby>者<rt>もの</rt></ruby>の<ruby>意思<rt>いし</rt></ruby><ruby>決定<rt>けってい</rt></ruby>に<ruby>沿<rt>そ</rt></ruby>い、<ruby>医師<rt>いし</rt></ruby>からの<ruby>十分<rt>じゅうぶん</rt></ruby>な<ruby>説明<rt>せつめい</rt></ruby>と<ruby>合意<rt>ごうい</rt></ruby>に<ruby>基<rt>もと</rt></ruby>づいて<ruby>指示<rt>しじ</rt></ruby>される",
       "<ruby>介護福祉職<rt>かいごふくししょく</rt></ruby>が<ruby>独断<rt>どくだん</rt></ruby>で<ruby>判断<rt>はんだん</rt></ruby>し、<ruby>医師<rt>いし</rt></ruby>や<ruby>看護師<rt>かんごし</rt></ruby>に<ruby>報告<rt>ほうこく</rt></ruby>せずに<ruby>決定<rt>けってい</rt></ruby>する",
-      "<ruby>救急隊<rt>きゅうきゅうたい</rt></ruby>が<ruby>現場<rt>げんば</rt></ruby>に<ruby>到着<rt>とうちゃく</rt></ruby>した<ruby>時点<rt>じてん</rt></ruby>で、<ruby>隊員<rt>たいいん</rt></ruby>の<ruby>多数決<rt>たすうけつ</rt></ruby>によって<ruby>決定<rt>けってい</rt></ruby>される",
-      "<ruby>同意書<rt>どういしょ</rt></ruby>や<ruby>診療録<rt>しんりょうろく</rt></ruby>への<ruby>記載<rt>きさい</rt></ruby>は<ruby>一切<rt>いっさい</rt></ruby><ruby>不要<rt>ふよう</rt></ruby>である"
+      "<ruby>患者<rt>かんじゃ</rt></ruby><ruby>本人<rt>ほんにん</rt></ruby>または<ruby>意思<rt>いし</rt></ruby><ruby>決定<rt>けってい</rt></ruby>を<ruby>推定<rt>すいてい</rt></ruby>できる<ruby>者<rt>もの</rt></ruby>の<ruby>意思<rt>いし</rt></ruby><ruby>決定<rt>けってい</rt></ruby>に<ruby>沿<rt>そ</rt></ruby>い、<ruby>医師<rt>いし</rt></ruby>からの<ruby>十分<rt>じゅうぶん</rt></ruby>な<ruby>説明<rt>せつめい</rt></ruby>と<ruby>合意<rt>ごうい</rt></ruby>に<ruby>基<rt>もと</rt></ruby>づいて<ruby>指示<rt>しじ</rt></ruby>される",
+      "<ruby>同意書<rt>どういしょ</rt></ruby>や<ruby>診療録<rt>しんりょうろく</rt></ruby>への<ruby>記載<rt>きさい</rt></ruby>は<ruby>一切<rt>いっさい</rt></ruby><ruby>不要<rt>ふよう</rt></ruby>である",
+      "<ruby>救急隊<rt>きゅうきゅうたい</rt></ruby>が<ruby>現場<rt>げんば</rt></ruby>に<ruby>到着<rt>とうちゃく</rt></ruby>した<ruby>時点<rt>じてん</rt></ruby>で、<ruby>隊員<rt>たいいん</rt></ruby>の<ruby>多数決<rt>たすうけつ</rt></ruby>によって<ruby>決定<rt>けってい</rt></ruby>される"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "explanation": "<ruby>心肺<rt>しんぱい</rt></ruby><ruby>停止<rt>ていし</rt></ruby><ruby>時<rt>じ</rt></ruby>に<ruby>心肺<rt>しんぱい</rt></ruby><ruby>蘇生<rt>そせい</rt></ruby><ruby>法<rt>ほう</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>わない<ruby>意思<rt>いし</rt></ruby><ruby>表示<rt>ひょうじ</rt></ruby>をＤＮＡＲといい、<ruby>医師<rt>いし</rt></ruby>からの<ruby>十分<rt>じゅうぶん</rt></ruby>な<ruby>説明<rt>せつめい</rt></ruby>のもと<ruby>本人<rt>ほんにん</rt></ruby>や<ruby>家族<rt>かぞく</rt></ruby>が<ruby>判断<rt>はんだん</rt></ruby>し、<ruby>同意書<rt>どういしょ</rt></ruby>や<ruby>診療録<rt>しんりょうろく</rt></ruby>への<ruby>記載<rt>きさい</rt></ruby>を<ruby>経<rt>へ</rt></ruby>て<ruby>医師<rt>いし</rt></ruby>が<ruby>指示<rt>しじ</rt></ruby>を<ruby>出<rt>だ</rt></ruby>します。",
     "keyword": "ＤＮＡＲ"
   },
@@ -140,12 +140,12 @@
     "topic_name": "<ruby>終末期<rt>しゅうまつき</rt></ruby>・<ruby>人生<rt>じんせい</rt></ruby>の<ruby>最終<rt>さいしゅう</rt></ruby><ruby>段階<rt>だんかい</rt></ruby>におけるケアの<ruby>意義<rt>いぎ</rt></ruby>と<ruby>意思<rt>いし</rt></ruby><ruby>決定<rt>けってい</rt></ruby><ruby>支援<rt>しえん</rt></ruby>",
     "question": "<ruby>清水<rt>しみず</rt></ruby><ruby>哲郎<rt>てつろう</rt></ruby>が<ruby>提唱<rt>ていしょう</rt></ruby>した「<ruby>情報<rt>じょうほう</rt></ruby><ruby>共有<rt>きょうゆう</rt></ruby>―<ruby>合意<rt>ごうい</rt></ruby>モデル」において、<ruby>最<rt>もっと</rt></ruby>も<ruby>重視<rt>じゅうし</rt></ruby>される<ruby>考<rt>かんが</rt></ruby>え<ruby>方<rt>かた</rt></ruby>はどれか。",
     "choices": [
-      "<ruby>本人<rt>ほんにん</rt></ruby>・<ruby>家族<rt>かぞく</rt></ruby>と<ruby>医療<rt>いりょう</rt></ruby>・ケアチームが<ruby>双方<rt>そうほう</rt></ruby>の<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>共有<rt>きょうゆう</rt></ruby>し、<ruby>合意<rt>ごうい</rt></ruby>をめざすプロセスを<ruby>経<rt>へ</rt></ruby>て<ruby>本人<rt>ほんにん</rt></ruby>の<ruby>意思<rt>いし</rt></ruby><ruby>決定<rt>けってい</rt></ruby>を<ruby>支<rt>ささ</rt></ruby>える",
       "<ruby>専門職<rt>せんもんしょく</rt></ruby>が<ruby>考<rt>かんが</rt></ruby>えた<ruby>治療<rt>ちりょう</rt><ruby>計画<rt>けいかく</rt></ruby>を、<ruby>本人<rt>ほんにん</rt></ruby>にそのまま<ruby>承諾<rt>しょうだく</rt></ruby>させることだけを<ruby>求<rt>もと</rt></ruby>める",
-      "<ruby>本人<rt>ほんにん</rt></ruby>にすべての<ruby>判断<rt>はんだん</rt></ruby>を<ruby>丸投<rt>まるな</rt></ruby>げし、<ruby>専門職<rt>せんもんしょく</rt></ruby>は<ruby>助言<rt>じょげん</rt></ruby>を<ruby>控<rt>ひか</rt></ruby>える",
-      "<ruby>家族<rt>かぞく</rt></ruby>の<ruby>意見<rt>いけん</rt></ruby>のみを<ruby>集約<rt>しゅうやく</rt></ruby>し、<ruby>本人<rt>ほんにん</rt></ruby>には<ruby>病名<rt>びょうめい</rt></ruby>も<ruby>知<rt>し</rt></ruby>らせないようにする"
+      "<ruby>本人<rt>ほんにん</rt></ruby>・<ruby>家族<rt>かぞく</rt></ruby>と<ruby>医療<rt>いりょう</rt></ruby>・ケアチームが<ruby>双方<rt>そうほう</rt></ruby>の<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>共有<rt>きょうゆう</rt></ruby>し、<ruby>合意<rt>ごうい</rt></ruby>をめざすプロセスを<ruby>経<rt>へ</rt></ruby>て<ruby>本人<rt>ほんにん</rt></ruby>の<ruby>意思<rt>いし</rt></ruby><ruby>決定<rt>けってい</rt></ruby>を<ruby>支<rt>ささ</rt></ruby>える",
+      "<ruby>家族<rt>かぞく</rt></ruby>の<ruby>意見<rt>いけん</rt></ruby>のみを<ruby>集約<rt>しゅうやく</rt></ruby>し、<ruby>本人<rt>ほんにん</rt></ruby>には<ruby>病名<rt>びょうめい</rt></ruby>も<ruby>知<rt>し</rt></ruby>らせないようにする",
+      "<ruby>本人<rt>ほんにん</rt></ruby>にすべての<ruby>判断<rt>はんだん</rt></ruby>を<ruby>丸投<rt>まるな</rt></ruby>げし、<ruby>専門職<rt>せんもんしょく</rt></ruby>は<ruby>助言<rt>じょげん</rt></ruby>を<ruby>控<rt>ひか</rt></ruby>える"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "explanation": "「<ruby>情報<rt>じょうほう</rt></ruby><ruby>共有<rt>きょうゆう</rt></ruby>―<ruby>合意<rt>ごうい</rt></ruby>モデル」では、<ruby>医療<rt>いりょう</rt></ruby>・ケアチームからの<ruby>病状<rt>びょうじょう</rt></ruby><ruby>説明<rt>せつめい</rt></ruby>と、<ruby>本人<rt>ほんにん</rt></ruby>・<ruby>家族<rt>かぞく</rt></ruby>からの<ruby>生<rt>い</rt></ruby>き<ruby>方<rt>かた</rt></ruby>や<ruby>価値観<rt>かちかん</rt></ruby>の<ruby>共有<rt>きょうゆう</rt></ruby>をお<ruby>互<rt>たが</rt></ruby>いに<ruby>行<rt>おこな</rt></ruby>い、<ruby>関係者<rt>かんけいしゃ</rt></ruby>の<ruby>合意<rt>ごうい</rt></ruby>のもとで<ruby>本人<rt>ほんにん</rt></ruby>の<ruby>意思<rt>いし</rt></ruby><ruby>決定<rt>けってい</rt></ruby>を<ruby>支<rt>ささ</rt></ruby>えます。",
     "keyword": "<ruby>情報<rt>じょうほう</rt></ruby><ruby>共有<rt>きょうゆう</rt></ruby>―<ruby>合意<rt>ごうい</rt></ruby>モデル"
   },
@@ -156,9 +156,9 @@
     "question": "<ruby>全人的<rt>ぜんじんてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>（トータルペイン）の<ruby>概念<rt>がいねん</rt></ruby>を<ruby>提唱<rt>ていしょう</rt></ruby>した<ruby>人物<rt>じんぶつ</rt></ruby>として<ruby>適切<rt>てきせつ</rt></ruby>なものはどれか。",
     "choices": [
       "シシリー・ソンダース",
-      "キューブラー・ロス",
+      "ナイチンゲール",
       "フロイト",
-      "ナイチンゲール"
+      "キューブラー・ロス"
     ],
     "answer_index": 0,
     "explanation": "<ruby>全人的<rt>ぜんじんてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>（トータルペイン）の<ruby>概念<rt>がいねん</rt></ruby>は、イギリスの<ruby>医師<rt>いし</rt></ruby>でありホスピス<ruby>運動<rt>うんどう</rt></ruby>の<ruby>創始<rt>そうし</rt></ruby><ruby>者<rt>しゃ</rt></ruby>であるシシリー・ソンダースによって<ruby>提唱<rt>ていしょう</rt></ruby>されました。",
@@ -170,12 +170,12 @@
     "topic_name": "<ruby>全人的<rt>ぜんじんてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>の<ruby>理解<rt>りかい</rt></ruby>とケア",
     "question": "<ruby>全人的<rt>ぜんじんてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>を<ruby>構成<rt>こうせい</rt></ruby>する4つの<ruby>要素<rt>ようそ</rt></ruby>の<ruby>組<rt>く</rt></ruby>み<ruby>合<rt>あ</rt></ruby>わせとして、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものはどれか。",
     "choices": [
-      "<ruby>身体的<rt>しんたいてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>・<ruby>精神的<rt>せいしんてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>・<ruby>社会的<rt>しゃかいてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>・スピリチュアルペイン",
-      "<ruby>経済的<rt>けいざいてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>・<ruby>法的<rt>ほうてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>・<ruby>環境的<rt>かんきょうてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>・<ruby>遺伝的<rt>いでんてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>",
+      "<ruby>一次的<rt>いちじてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>・<ruby>二次的<rt>にじてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>・<ruby>三次的<rt>さんじてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>・<ruby>末期的<rt>まっきてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>",
       "<ruby>年齢的<rt>ねんれいてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>・<ruby>職業的<rt>しょくぎょうてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>・<ruby>地域的<rt>ちいきてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>・<ruby>政治的<rt>せいじてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>",
-      "<ruby>一次的<rt>いちじてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>・<ruby>二次的<rt>にじてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>・<ruby>三次的<rt>さんじてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>・<ruby>末期的<rt>まっきてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>"
+      "<ruby>経済的<rt>けいざいてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>・<ruby>法的<rt>ほうてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>・<ruby>環境的<rt>かんきょうてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>・<ruby>遺伝的<rt>いでんてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>",
+      "<ruby>身体的<rt>しんたいてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>・<ruby>精神的<rt>せいしんてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>・<ruby>社会的<rt>しゃかいてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>・スピリチュアルペイン"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "explanation": "<ruby>全人的<rt>ぜんじんてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>（トータルペイン）は、<ruby>身体的<rt>しんたいてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>、<ruby>精神的<rt>せいしんてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>、<ruby>社会的<rt>しゃかいてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>、スピリチュアルペイン（<ruby>霊的<rt>れいてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>）の4つの<ruby>要素<rt>ようそ</rt></ruby>からなり、お<ruby>互<rt>たが</rt></ruby>いに<ruby>影響<rt>えいきょう</rt></ruby>し<ruby>合<rt>あ</rt></ruby>っています。",
     "keyword": "<ruby>全人的<rt>ぜんじんてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>の4<ruby>要素<rt>ようそ</rt></ruby>"
   },
@@ -185,12 +185,12 @@
     "topic_name": "<ruby>全人的<rt>ぜんじんてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>の<ruby>理解<rt>りかい</rt></ruby>とケア",
     "question": "<ruby>身体的<rt>しんたいてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>の<ruby>具体例<rt>ぐたいれい</rt></ruby>として<ruby>適切<rt>てきせつ</rt></ruby>なものはどれか。",
     "choices": [
-      "<ruby>病気<rt>びょうき</rt></ruby>にともなう<ruby>激<rt>はげ</rt></ruby>しい<ruby>痛<rt>いた</rt></ruby>みや<ruby>呼吸困難<rt>こきゅうこんなん</rt></ruby>、<ruby>全身<rt>ぜんしん</rt></ruby>の<ruby>倦怠感<rt>けんたいかん</rt></ruby>",
       "<ruby>治療費<rt>ちりょうひ</rt></ruby>の<ruby>支払<rt>しはら</rt></ruby>いや<ruby>仕事<rt>しごと</rt></ruby>を<ruby>休<rt>やす</rt></ruby>むことへの<ruby>不安<rt>ふあん</rt></ruby>",
+      "<ruby>家族<rt>かぞく</rt></ruby>との<ruby>人間<rt>にんげん</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>や<ruby>遺産<rt>いさん</rt></ruby><ruby>相続<rt>そうぞく</rt></ruby>をめぐるトラブル",
       "<ruby>死<rt>し</rt></ruby>への<ruby>恐<rt>おそ</rt></ruby>れや、<ruby>過去<rt>かこ</rt></ruby>の<ruby>罪<rt>つみ</rt></ruby>の<ruby>意識<rt>いしき</rt></ruby>へのなやみ",
-      "<ruby>家族<rt>かぞく</rt></ruby>との<ruby>人間<rt>にんげん</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>や<ruby>遺産<rt>いさん</rt></ruby><ruby>相続<rt>そうぞく</rt></ruby>をめぐるトラブル"
+      "<ruby>病気<rt>びょうき</rt></ruby>にともなう<ruby>激<rt>はげ</rt></ruby>しい<ruby>痛<rt>いた</rt></ruby>みや<ruby>呼吸困難<rt>こきゅうこんなん</rt></ruby>、<ruby>全身<rt>ぜんしん</rt></ruby>の<ruby>倦怠感<rt>けんたいかん</rt></ruby>"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "explanation": "<ruby>身体的<rt>しんたいてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>には、がんなどの<ruby>病変<rt>びょうへん</rt></ruby>や<ruby>全身<rt>ぜんしん</rt></ruby><ruby>衰弱<rt>すいじゃく</rt></ruby>にともなう<ruby>痛<rt>いた</rt></ruby>み、<ruby>呼吸困難<rt>こきゅうこんなん</rt></ruby>、だるさ（<ruby>倦怠感<rt>けんたいかん</rt></ruby>）、<ruby>嘔気<rt>おうき</rt></ruby>などが<ruby>含<rt>ふく</rt></ruby>まれます。",
     "keyword": "<ruby>身体的<rt>しんたいてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>"
   },
@@ -200,12 +200,12 @@
     "topic_name": "<ruby>全人的<rt>ぜんじんてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>の<ruby>理解<rt>りかい</rt></ruby>とケア",
     "question": "<ruby>精神的<rt>せいしんてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>の<ruby>具体例<rt>ぐたいれい</rt></ruby>として、<ruby>教科書<rt>きょうかしょ</rt></ruby>に<ruby>挙<rt>あ</rt></ruby>げられているものはどれか。",
     "choices": [
-      "<ruby>死<rt>し</rt></ruby>に<ruby>対<rt>たい</rt></ruby>する<ruby>不安<rt>ふあん</rt></ruby>やいらだち、<ruby>孤独感<rt>こどくかん</rt></ruby>、おそれ、うつ<ruby>状態<rt>じょうたい</rt></ruby>、<ruby>怒<rt>いか</rt></ruby>り",
+      "<ruby>自分<rt>じぶん</rt></ruby>の<ruby>人生<rt>じんせい</rt></ruby>の<ruby>意味<rt>いみ</rt></ruby>についての<ruby>哲学的<rt>てつがくてき</rt></ruby>な<ruby>問<rt>と</rt></ruby>い",
       "<ruby>点滴<rt>てんてき</rt></ruby>の<ruby>針<rt>はり</rt></ruby>を<ruby>刺<rt>さ</rt></ruby>した<ruby>部位<rt>ぶい</rt></ruby>の<ruby>局所的<rt>きょくしょてき</rt></ruby>なはれと<ruby>痛<rt>いた</rt></ruby>み",
-      "<ruby>入院<rt>にゅういん</rt></ruby><ruby>費<rt>ひ</rt></ruby>の<ruby>不足<rt>ふそく</rt></ruby>による<ruby>経済的<rt>けいざいてき</rt></ruby>な<ruby>困窮<rt>こんきゅう</rt></ruby>",
-      "<ruby>自分<rt>じぶん</rt></ruby>の<ruby>人生<rt>じんせい</rt></ruby>の<ruby>意味<rt>いみ</rt></ruby>についての<ruby>哲学的<rt>てつがくてき</rt></ruby>な<ruby>問<rt>と</rt></ruby>い"
+      "<ruby>死<rt>し</rt></ruby>に<ruby>対<rt>たい</rt></ruby>する<ruby>不安<rt>ふあん</rt></ruby>やいらだち、<ruby>孤独感<rt>こどくかん</rt></ruby>、おそれ、うつ<ruby>状態<rt>じょうたい</rt></ruby>、<ruby>怒<rt>いか</rt></ruby>り",
+      "<ruby>入院<rt>にゅういん</rt></ruby><ruby>費<rt>ひ</rt></ruby>の<ruby>不足<rt>ふそく</rt></ruby>による<ruby>経済的<rt>けいざいてき</rt></ruby>な<ruby>困窮<rt>こんきゅう</rt></ruby>"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "explanation": "<ruby>精神的<rt>せいしんてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>とは、<ruby>死<rt>し</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>することによる<ruby>不安<rt>ふあん</rt></ruby>、いらだち、<ruby>孤独感<rt>こどくかん</rt></ruby>、おそれ、うつ<ruby>状態<rt>じょうたい</rt></ruby>、<ruby>怒<rt>いか</rt></ruby>りといった<ruby>心理的<rt>しんりてき</rt></ruby>なつらさをさします。",
     "keyword": "<ruby>精神的<rt>せいしんてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>"
   },
@@ -217,8 +217,8 @@
     "choices": [
       "<ruby>仕事<rt>しごと</rt></ruby>や<ruby>経済<rt>けいざい</rt></ruby>、<ruby>家庭内<rt>かていない</rt></ruby>の<ruby>人間<rt>にんげん</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>、<ruby>遺産<rt>いさん</rt></ruby><ruby>相続<rt>そうぞく</rt></ruby>、<ruby>療養<rt>りょうよう</rt></ruby><ruby>場所<rt>ばしょ</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>不安<rt>ふあん</rt></ruby>",
       "<ruby>呼吸困難<rt>こきゅうこんなん</rt></ruby>による<ruby>息苦<rt>いきぐる</rt></ruby>しさ",
-      "<ruby>死生観<rt>しせいかん</rt></ruby>や<ruby>苦<rt>くる</rt></ruby>しみの<ruby>意味<rt>いみ</rt></ruby>についてのなやみ",
-      "<ruby>薬<rt>くすり</rt></ruby>の<ruby>副作用<rt>ふくさよう</rt></ruby>による<ruby>便秘<rt>べんぴ</rt></ruby>や<ruby>吐<rt>は</rt></ruby>き<ruby>気<rt>け</rt></ruby>"
+      "<ruby>薬<rt>くすり</rt></ruby>の<ruby>副作用<rt>ふくさよう</rt></ruby>による<ruby>便秘<rt>べんぴ</rt></ruby>や<ruby>吐<rt>は</rt></ruby>き<ruby>気<rt>け</rt></ruby>",
+      "<ruby>死生観<rt>しせいかん</rt></ruby>や<ruby>苦<rt>くる</rt></ruby>しみの<ruby>意味<rt>いみ</rt></ruby>についてのなやみ"
     ],
     "answer_index": 0,
     "explanation": "<ruby>社会的<rt>しゃかいてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>とは、<ruby>仕事<rt>しごと</rt></ruby>や<ruby>経済<rt>けいざい</rt></ruby><ruby>面<rt>めん</rt></ruby>の<ruby>問題<rt>もんだい</rt></ruby>、<ruby>家庭内<rt>かていない</rt></ruby>の<ruby>人間<rt>にんげん</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>、<ruby>遺産<rt>いさん</rt></ruby><ruby>相続<rt>そうぞく</rt></ruby>、<ruby>療養<rt>りょうよう</rt></ruby><ruby>場所<rt>ばしょ</rt></ruby>の<ruby>確保<rt>かくほ</rt></ruby>など、<ruby>社会<rt>しゃかい</rt></ruby>や<ruby>人<rt>ひと</rt></ruby>とのつながりにおけるつらさをさします。",
@@ -230,12 +230,12 @@
     "topic_name": "<ruby>全人的<rt>ぜんじんてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>の<ruby>理解<rt>りかい</rt></ruby>とケア",
     "question": "スピリチュアルペイン（<ruby>霊的<rt>れいてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>）についての<ruby>説明<rt>せつめい</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものはどれか。",
     "choices": [
-      "<ruby>死<rt>し</rt></ruby>を<ruby>前<rt>まえ</rt></ruby>にして<ruby>自身<rt>じしん</rt></ruby>の<ruby>人生<rt>じんせい</rt></ruby>の<ruby>意味<rt>いみ</rt></ruby>や<ruby>苦<rt>くる</rt></ruby>しみの<ruby>意味<rt>いみ</rt></ruby>を<ruby>問<rt>と</rt></ruby>い、やり<ruby>残<rt>のこ</rt></ruby>したことへの<ruby>無念<rt>むねん</rt></ruby>さなどを<ruby>抱<rt>いだ</rt></ruby>くつらさ",
-      "<ruby>身体<rt>からだ</rt></ruby>を<ruby>動<rt>うご</rt></ruby>かした<ruby>時<rt>とき</rt></ruby>に<ruby>生<rt>しょう</rt></ruby>じる<ruby>筋肉<rt>きんにく</rt></ruby>や<ruby>関節<rt>かんせつ</rt></ruby>の<ruby>痛<rt>いた</rt></ruby>みのこと",
+      "<ruby>施設<rt>しせつ</rt></ruby>の<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>味付<rt>あじつ</rt></ruby>けが<ruby>自分<rt>じぶん</rt></ruby>の<ruby>好<rt>この</rt></ruby>みに<ruby>合<rt>あ</rt></ruby>わないことによる<ruby>不満<rt>ふまん</rt></ruby>",
       "<ruby>国民<rt>こくみん</rt></ruby><ruby>健康<rt>けんこう</rt></ruby><ruby>保険<rt>ほけん</rt></ruby>の<ruby>保険料<rt>ほけんりょう</rt></ruby>が<ruby>支払<rt>しはら</rt></ruby>えないことによる<ruby>不安<rt>ふあん</rt></ruby>のこと",
-      "<ruby>施設<rt>しせつ</rt></ruby>の<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>味付<rt>あじつ</rt></ruby>けが<ruby>自分<rt>じぶん</rt></ruby>の<ruby>好<rt>この</rt></ruby>みに<ruby>合<rt>あ</rt></ruby>わないことによる<ruby>不満<rt>ふまん</rt></ruby>"
+      "<ruby>死<rt>し</rt></ruby>を<ruby>前<rt>まえ</rt></ruby>にして<ruby>自身<rt>じしん</rt></ruby>の<ruby>人生<rt>じんせい</rt></ruby>の<ruby>意味<rt>いみ</rt></ruby>や<ruby>苦<rt>くる</rt></ruby>しみの<ruby>意味<rt>いみ</rt></ruby>を<ruby>問<rt>と</rt></ruby>い、やり<ruby>残<rt>のこ</rt></ruby>したことへの<ruby>無念<rt>むねん</rt></ruby>さなどを<ruby>抱<rt>いだ</rt></ruby>くつらさ",
+      "<ruby>身体<rt>からだ</rt></ruby>を<ruby>動<rt>うご</rt></ruby>かした<ruby>時<rt>とき</rt></ruby>に<ruby>生<rt>しょう</rt></ruby>じる<ruby>筋肉<rt>きんにく</rt></ruby>や<ruby>関節<rt>かんせつ</rt></ruby>の<ruby>痛<rt>いた</rt></ruby>みのこと"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "explanation": "スピリチュアルペインは、「<ruby>自分<rt>じぶん</rt></ruby>の<ruby>人生<rt>じんせい</rt></ruby>にはどんな<ruby>意味<rt>いみ</rt></ruby>があったのか」「なぜ<ruby>自分<rt>じぶん</rt></ruby>だけがこんな<ruby>目<rt>め</rt></ruby>にあうのか」といった<ruby>人生<rt>じんせい</rt></ruby>の<ruby>意味<rt>いみ</rt></ruby>への<ruby>問<rt>と</rt></ruby>いや<ruby>罪<rt>つみ</rt></ruby>の<ruby>意識<rt>いしき</rt></ruby>、やり<ruby>残<rt>のこ</rt></ruby>したことへの<ruby>無念<rt>むねん</rt></ruby>さなどから<ruby>生<rt>しょう</rt></ruby>じる<ruby>根源的<rt>こんげんてき</rt></ruby>な<ruby>苦痛<rt>くつう</rt></ruby>です。",
     "keyword": "スピリチュアルペイン"
   },
@@ -245,12 +245,12 @@
     "topic_name": "<ruby>全人的<rt>ぜんじんてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>の<ruby>理解<rt>りかい</rt></ruby>とケア",
     "question": "<ruby>社会的<rt>しゃかいてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>（<ruby>医療費<rt>いりょうひ</rt></ruby>の<ruby>問題<rt>もんだい</rt></ruby>や<ruby>療養<rt>りょうよう</rt></ruby><ruby>場所<rt>ばしょ</rt></ruby>の<ruby>問題<rt>もんだい</rt></ruby>など）の<ruby>解決<rt>かいけつ</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>介護福祉職<rt>かいごふくししょく</rt></ruby>が<ruby>特<rt>とく</rt></ruby>に<ruby>密接<rt>みっせつ</rt></ruby>に<ruby>連携<rt>れんけい</rt></ruby>すべき<ruby>専門職<rt>せんもんしょく</rt></ruby>はどれか。",
     "choices": [
-      "<ruby>医療<rt>いりょう</rt></ruby>ソーシャルワーカーなどの<ruby>相談<rt>そうだん</rt></ruby><ruby>援助<rt>えんじょ</rt></ruby><ruby>職<rt>しょく</rt></ruby>",
       "<ruby>薬剤師<rt>やくざいし</rt></ruby>",
+      "<ruby>医療<rt>いりょう</rt></ruby>ソーシャルワーカーなどの<ruby>相談<rt>そうだん</rt></ruby><ruby>援助<rt>えんじょ</rt></ruby><ruby>職<rt>しょく</rt></ruby>",
       "<ruby>歯科<rt>しか</rt></ruby><ruby>衛生<rt>えいせい</rt></ruby><ruby>士<rt>し</rt></ruby>",
       "<ruby>調理員<rt>ちょうりいん</rt></ruby>"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "explanation": "<ruby>社会的<rt>しゃかいてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>に<ruby>対<rt>たい</rt></ruby>しては、<ruby>社会<rt>しゃかい</rt></ruby><ruby>保障<rt>ほしょう</rt></ruby><ruby>制度<rt>せいど</rt></ruby>や<ruby>経済的<rt>けいざいてき</rt></ruby><ruby>支援<rt>しえん</rt></ruby>、<ruby>退院<rt>たいいん</rt></ruby><ruby>調整<rt>ちょうせい</rt></ruby>に<ruby>詳<rt>くわ</rt></ruby>しい<ruby>医療<rt>いりょう</rt></ruby>ソーシャルワーカーやケアマネジャーなどの<ruby>相談<rt>そうだん</rt></ruby><ruby>援助<rt>えんじょ</rt></ruby><ruby>職<rt>しょく</rt></ruby>と<ruby>連携<rt>れんけい</rt></ruby>して<ruby>支援<rt>しえん</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>います。",
     "keyword": "<ruby>社会的<rt>しゃかいてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>への<ruby>多職種<rt>たしょくしゅ</rt></ruby><ruby>連携<rt>れんけい</rt></ruby>"
   },
@@ -260,12 +260,12 @@
     "topic_name": "<ruby>全人的<rt>ぜんじんてき</rt></ruby><ruby>苦痛<rt>くつう</rt></ruby>の<ruby>理解<rt>りかい</rt></ruby>とケア",
     "question": "スピリチュアルペインを<ruby>抱<rt>いだ</rt></ruby>く<ruby>利用者<rt>りようしゃ</rt></ruby>に<ruby>対<rt>たい</rt></ruby>する<ruby>介護福祉職<rt>かいごふくししょく</rt></ruby>のかかわりとして、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものはどれか。",
     "choices": [
-      "<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>語<rt>かた</rt></ruby>りに<ruby>耳<rt>みみ</rt></ruby>を<ruby>傾<rt>かたむ</rt></ruby>け、その<ruby>思<rt>おも</rt></ruby>いに<ruby>寄<rt>よ</rt></ruby>り<ruby>添<rt>そ</rt></ruby>い、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>人生<rt>じんせい</rt></ruby>を<ruby>肯定的<rt>こうていてき</rt></ruby>にとらえられるよう<ruby>支<rt>ささ</rt></ruby>える",
       "「そんなことを<ruby>考<rt>かんが</rt></ruby>えても<ruby>無駄<rt>むだ</rt></ruby>ですよ」と<ruby>話題<rt>わだい</rt></ruby>を<ruby>強引<rt>ごういん</rt></ruby>に<ruby>変<rt>か</rt></ruby>える",
-      "<ruby>特定<rt>とくてい</rt></ruby>の<ruby>宗教<rt>しゅうきょう</rt></ruby>を<ruby>強引<rt>ごういん</rt></ruby>に<ruby>勧<rt>すす</rt></ruby>めて<ruby>信仰<rt>しんこう</rt></ruby>させる",
-      "<ruby>苦痛<rt>くつう</rt></ruby>の<ruby>訴<rt>うった</rt></ruby>えを<ruby>聞<rt>き</rt></ruby>こえないふりをして<ruby>部屋<rt>へや</rt></ruby>から<ruby>立<rt>た</rt></ruby>ち<ruby>去<rt>さ</rt></ruby>る"
+      "<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>語<rt>かた</rt></ruby>りに<ruby>耳<rt>みみ</rt></ruby>を<ruby>傾<rt>かたむ</rt></ruby>け、その<ruby>思<rt>おも</rt></ruby>いに<ruby>寄<rt>よ</rt></ruby>り<ruby>添<rt>そ</rt></ruby>い、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>人生<rt>じんせい</rt></ruby>を<ruby>肯定的<rt>こうていてき</rt></ruby>にとらえられるよう<ruby>支<rt>ささ</rt></ruby>える",
+      "<ruby>苦痛<rt>くつう</rt></ruby>の<ruby>訴<rt>うった</rt></ruby>えを<ruby>聞<rt>き</rt></ruby>こえないふりをして<ruby>部屋<rt>へや</rt></ruby>から<ruby>立<rt>た</rt></ruby>ち<ruby>去<rt>さ</rt></ruby>る",
+      "<ruby>特定<rt>とくてい</rt></ruby>の<ruby>宗教<rt>しゅうきょう</rt></ruby>を<ruby>強引<rt>ごういん</rt></ruby>に<ruby>勧<rt>すす</rt></ruby>めて<ruby>信仰<rt>しんこう</rt></ruby>させる"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "explanation": "スピリチュアルペインに<ruby>対<rt>たい</rt></ruby>しては、<ruby>利用者<rt>りようしゃ</rt></ruby>が<ruby>生<rt>い</rt></ruby>きてきた<ruby>物語<rt>ものがたり</rt></ruby>や<ruby>語<rt>かた</rt></ruby>りに<ruby>真摯<rt>しんし</rt></ruby>に<ruby>耳<rt>みみ</rt></ruby>を<ruby>傾<rt>かたむ</rt></ruby>け、<ruby>無念<rt>むねん</rt></ruby>さを<ruby>受<rt>う</rt></ruby>け<ruby>止<rt>と</rt></ruby>めながら、<ruby>家族<rt>かぞく</rt></ruby>などの<ruby>重要<rt>じゅうよう</rt></ruby><ruby>他者<rt>たしゃ</rt></ruby>とも<ruby>連携<rt>れんけい</rt></ruby>して<ruby>生涯<rt>しょうがい</rt></ruby>を<ruby>肯定<rt>こうてい</rt></ruby>できるよう<ruby>寄<rt>よ</rt></ruby>り<ruby>添<rt>そ</rt></ruby>うことが<ruby>大切<rt>たいせつ</rt></ruby>です。",
     "keyword": "スピリチュアルペインへのケア"
   },
@@ -275,12 +275,12 @@
     "topic_name": "<ruby>死<rt>し</rt></ruby>の<ruby>受容<rt>じゅよう</rt></ruby><ruby>過程<rt>かてい</rt></ruby>（キューブラー・ロスの5<ruby>段階<rt>だんかい</rt></ruby><ruby>説<rt>せつ</rt></ruby>）",
     "question": "キューブラー・ロスが<ruby>著書<rt>ちょしょ</rt></ruby>『<ruby>死<rt>し</rt></ruby>ぬ<ruby>瞬間<rt>しゅんかん</rt></ruby>』で<ruby>提唱<rt>ていしょう</rt></ruby>した「<ruby>死<rt>し</rt></ruby>の<ruby>受容<rt>じゅよう</rt></ruby><ruby>過程<rt>かてい</rt></ruby>」は<ruby>何<rt>なん</rt></ruby><ruby>段階<rt>だんかい</rt></ruby>あるか。",
     "choices": [
-      "5<ruby>段階<rt>だんかい</rt></ruby>",
-      "3<ruby>段階<rt>だんかい</rt></ruby>",
       "7<ruby>段階<rt>だんかい</rt></ruby>",
-      "10<ruby>段階<rt>だんかい</rt></ruby>"
+      "5<ruby>段階<rt>だんかい</rt></ruby>",
+      "10<ruby>段階<rt>だんかい</rt></ruby>",
+      "3<ruby>段階<rt>だんかい</rt></ruby>"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "explanation": "アメリカの<ruby>精神<rt>せいしん</rt></ruby><ruby>分析<rt>ぶんせき</rt></ruby><ruby>医<rt>い</rt></ruby>キューブラー・ロスは、<ruby>人間<rt>にんげん</rt></ruby>が<ruby>死<rt>し</rt></ruby>を<ruby>受容<rt>じゅよう</rt></ruby>するこころの<ruby>動<rt>うご</rt></ruby>きを「<ruby>否認<rt>ひにん</rt></ruby>」「<ruby>怒<rt>いか</rt></ruby>り」「<ruby>取引<rt>とりひき</rt></ruby>」「<ruby>抑<rt>よく</rt></ruby>うつ」「<ruby>受容<rt>じゅよう</rt></ruby>」の5<ruby>段階<rt>だんかい</rt></ruby>で<ruby>説明<rt>せつめい</rt></ruby>しました。",
     "keyword": "<ruby>死<rt>し</rt></ruby>の<ruby>受容<rt>じゅよう</rt></ruby>の5<ruby>段階<rt>だんかい</rt></ruby>"
   },
@@ -290,12 +290,12 @@
     "topic_name": "<ruby>死<rt>し</rt></ruby>の<ruby>受容<rt>じゅよう</rt></ruby><ruby>過程<rt>かてい</rt></ruby>（キューブラー・ロスの5<ruby>段階<rt>だんかい</rt></ruby><ruby>説<rt>せつ</rt></ruby>）",
     "question": "<ruby>死<rt>し</rt></ruby>の<ruby>受容<rt>じゅよう</rt></ruby><ruby>過程<rt>かてい</rt></ruby>における<ruby>第<rt>だい</rt></ruby>1<ruby>段階<rt>だんかい</rt></ruby>「<ruby>否認<rt>ひにん</rt></ruby>」についての<ruby>説明<rt>せつめい</rt></ruby>として<ruby>適切<rt>てきせつ</rt></ruby>なものはどれか。",
     "choices": [
+      "「もう<ruby>一度<rt>いちど</rt></ruby><ruby>家族<rt>かぞく</rt></ruby>に<ruby>会<rt>あ</rt></ruby>えたら<ruby>延命<rt>えんめい</rt></ruby>は<ruby>望<rt>のぞ</rt></ruby>まない」と<ruby>条件<rt>じょうけん</rt></ruby>を<ruby>出<rt>だ</rt></ruby>す<ruby>段階<rt>だんかい</rt></ruby>",
       "「そんなはずはない」「<ruby>他<rt>ほか</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>と<ruby>間違<rt>まちが</rt></ruby>えている」と<ruby>現実<rt>げんじつ</rt></ruby>を<ruby>認<rt>みと</rt></ruby>めず、ショックをやわらげる<ruby>防衛的<rt>ぼうえいてき</rt></ruby>な<ruby>対処<rt>たいしょ</rt></ruby>",
       "「どうして<ruby>私<rt>わたし</rt></ruby>だけがこんな<ruby>目<rt>め</rt></ruby>にあうのか」と<ruby>周囲<rt>しゅうい</rt></ruby>に<ruby>怒<rt>いか</rt></ruby>りをぶつける<ruby>段階<rt>だんかい</rt></ruby>",
-      "「もう<ruby>一度<rt>いちど</rt></ruby><ruby>家族<rt>かぞく</rt></ruby>に<ruby>会<rt>あ</rt></ruby>えたら<ruby>延命<rt>えんめい</rt></ruby>は<ruby>望<rt>のぞ</rt></ruby>まない」と<ruby>条件<rt>じょうけん</rt></ruby>を<ruby>出<rt>だ</rt></ruby>す<ruby>段階<rt>だんかい</rt></ruby>",
       "<ruby>死<rt>し</rt></ruby>を<ruby>静<rt>しず</rt></ruby>かに<ruby>受<rt>う</rt></ruby>け<ruby>入<rt>い</rt></ruby>れて<ruby>穏<rt>おだ</rt></ruby>やかに<ruby>過<rt>す</rt></ruby>ごす<ruby>段階<rt>だんかい</rt></ruby>"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "explanation": "<ruby>第<rt>だい</rt></ruby>1<ruby>段階<rt>だんかい</rt></ruby>の「<ruby>否認<rt>ひにん</rt></ruby>」は、<ruby>予期<rt>よき</rt></ruby>しないショックを<ruby>受<rt>う</rt></ruby>けたときにその<ruby>衝撃<rt>しょうげき</rt></ruby>をやわらげるための、こころの<ruby>健康<rt>けんこう</rt></ruby>な<ruby>防衛<rt>ぼうえい</rt></ruby><ruby>反応<rt>はんのう</rt></ruby>（<ruby>対処法<rt>たいしょほう</rt></ruby>）です。",
     "keyword": "<ruby>否認<rt>ひにん</rt></ruby>"
   },
@@ -305,12 +305,12 @@
     "topic_name": "<ruby>死<rt>し</rt></ruby>の<ruby>受容<rt>じゅよう</rt></ruby><ruby>過程<rt>かてい</rt></ruby>（キューブラー・ロスの5<ruby>段階<rt>だんかい</rt></ruby><ruby>説<rt>せつ</rt></ruby>）",
     "question": "<ruby>死<rt>し</rt></ruby>の<ruby>受容<rt>じゅよう</rt></ruby><ruby>過程<rt>かてい</rt></ruby>における<ruby>第<rt>だい</rt></ruby>2<ruby>段階<rt>だんかい</rt></ruby>「<ruby>怒<rt>いか</rt></ruby>り」の<ruby>特徴<rt>とくちょう</rt></ruby>として<ruby>適切<rt>てきせつ</rt></ruby>なものはどれか。",
     "choices": [
-      "「なぜ<ruby>私<rt>わたし</rt></ruby>なのか」という<ruby>怒<rt>いか</rt></ruby>りの<ruby>矛先<rt>ほこさき</rt></ruby>が、<ruby>家族<rt>かぞく</rt></ruby>や<ruby>医療職<rt>いりょうしょく</rt></ruby>・<ruby>介護福祉職<rt>かいごふくししょく</rt></ruby>など<ruby>周囲<rt>しゅうい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<ruby>向<rt>む</rt></ruby>けられることがある",
       "<ruby>誰<rt>だれ</rt></ruby>にも<ruby>会<rt>あ</rt></ruby>わずに<ruby>一日<rt>いちにち</rt></ruby><ruby>中<rt>じゅう</rt></ruby><ruby>部屋<rt>へや</rt></ruby>で<ruby>笑<rt>わら</rt></ruby>い<ruby>続<rt>つづ</rt></ruby>ける",
       "<ruby>自分<rt>じぶん</rt></ruby>の<ruby>病気<rt>びょうき</rt></ruby>はすでに<ruby>完全<rt>かんぜん</rt></ruby>に<ruby>治<rt>なお</rt></ruby>ったと<ruby>確信<rt>かくしん</rt></ruby>する",
+      "「なぜ<ruby>私<rt>わたし</rt></ruby>なのか」という<ruby>怒<rt>いか</rt></ruby>りの<ruby>矛先<rt>ほこさき</rt></ruby>が、<ruby>家族<rt>かぞく</rt></ruby>や<ruby>医療職<rt>いりょうしょく</rt></ruby>・<ruby>介護福祉職<rt>かいごふくししょく</rt></ruby>など<ruby>周囲<rt>しゅうい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<ruby>向<rt>む</rt></ruby>けられることがある",
       "<ruby>神<rt>かみ</rt></ruby>や<ruby>仏<rt>ほとけ</rt></ruby>に<ruby>感謝<rt>かんしゃ</rt></ruby>の<ruby>手紙<rt>てがみ</rt></ruby>を<ruby>書<rt>か</rt></ruby>き<ruby>続<rt>つづ</rt></ruby>ける"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "explanation": "<ruby>第<rt>だい</rt></ruby>2<ruby>段階<rt>だんかい</rt></ruby>の「<ruby>怒<rt>いか</rt></ruby>り」では、「どうして<ruby>私<rt>わたし</rt></ruby>なのか」「なぜ<ruby>私<rt>わたし</rt></ruby>が<ruby>死<rt>し</rt></ruby>ななければならないのか」というやり<ruby>場<rt>ば</rt></ruby>のない<ruby>感情<rt>かんじょう</rt></ruby>が、<ruby>家族<rt>かぞく</rt></ruby>や<ruby>介護職<rt>かいごしょく</rt></ruby>に<ruby>向<rt>む</rt></ruby>けられることがあります。<ruby>介護福祉職<rt>かいごふくししょく</rt></ruby>はその<ruby>背景<rt>はいけい</rt></ruby>を<ruby>理解<rt>りかい</rt></ruby>して<ruby>受<rt>う</rt></ruby>け<ruby>止<rt>と</rt></ruby>めることが<ruby>求<rt>もと</rt></ruby>められます。",
     "keyword": "<ruby>怒<rt>いか</rt></ruby>り"
   },
@@ -321,9 +321,9 @@
     "question": "<ruby>死<rt>し</rt></ruby>の<ruby>受容<rt>じゅよう</rt></ruby><ruby>過程<rt>かてい</rt></ruby>における<ruby>第<rt>だい</rt></ruby>3<ruby>段階<rt>だんかい</rt></ruby>「<ruby>取引<rt>とりひき</rt></ruby>」についての<ruby>具体例<rt>ぐたいれい</rt></ruby>として<ruby>適切<rt>てきせつ</rt></ruby>なものはどれか。",
     "choices": [
       "「よい<ruby>行<rt>おこな</rt></ruby>いをするから、もう<ruby>少<rt>すこ</rt></ruby>し<ruby>長<rt>なが</rt></ruby>く<ruby>生<rt>い</rt></ruby>かしてほしい」「<ruby>息子<rt>むすこ</rt></ruby>の<ruby>結婚式<rt>けっこんしき</rt></ruby>に<ruby>出席<rt>しゅっせき</rt></ruby>できるまで<ruby>生<rt>い</rt></ruby>きたい」と<ruby>願<rt>ねが</rt></ruby>う",
+      "<ruby>死<rt>し</rt></ruby>に<ruby>対<rt>たい</rt></ruby>する<ruby>恐怖<rt>きょうふ</rt></ruby>も<ruby>怒<rt>いか</rt></ruby>りも<ruby>消<rt>き</rt></ruby>え、<ruby>静<rt>しず</rt></ruby>かにその<ruby>時<rt>とき</rt></ruby>を<ruby>待<rt>ま</rt></ruby>つ",
       "「<ruby>私<rt>わたし</rt></ruby>のカルテが<ruby>改ざん<rt>かいざん</rt></ruby>された」と<ruby>病院<rt>びょういん</rt></ruby>を<ruby>相手<rt>あいて</rt></ruby>に<ruby>裁判<rt>さいばん</rt></ruby>を<ruby>起<rt>お</rt></ruby>こす",
-      "すべての<ruby>会話<rt>かいわ</rt></ruby>を<ruby>拒絶<rt>きょぜつ</rt></ruby>して<ruby>終日<rt>しゅうじつ</rt></ruby><ruby>沈黙<rt>ちんもく</rt></ruby>する",
-      "<ruby>死<rt>し</rt></ruby>に<ruby>対<rt>たい</rt></ruby>する<ruby>恐怖<rt>きょうふ</rt></ruby>も<ruby>怒<rt>いか</rt></ruby>りも<ruby>消<rt>き</rt></ruby>え、<ruby>静<rt>しず</rt></ruby>かにその<ruby>時<rt>とき</rt></ruby>を<ruby>待<rt>ま</rt></ruby>つ"
+      "すべての<ruby>会話<rt>かいわ</rt></ruby>を<ruby>拒絶<rt>きょぜつ</rt></ruby>して<ruby>終日<rt>しゅうじつ</rt></ruby><ruby>沈黙<rt>ちんもく</rt></ruby>する"
     ],
     "answer_index": 0,
     "explanation": "<ruby>第<rt>だい</rt></ruby>3<ruby>段階<rt>だんかい</rt></ruby>の「<ruby>取引<rt>とりひき</rt></ruby>」は、<ruby>神<rt>かみ</rt></ruby>や<ruby>仏<rt>ほとけ</rt></ruby>などに「よい<ruby>行<rt>おこな</rt></ruby>いをするから<ruby>延命<rt>えんめい</rt></ruby>してほしい」「<ruby>期限<rt>きげん</rt></ruby>まで<ruby>生<rt>い</rt></ruby>かしてほしい」と<ruby>何<rt>なに</rt></ruby>かと<ruby>引<rt>ひ</rt></ruby>き<ruby>換<rt>か</rt></ruby>えに<ruby>延命<rt>えんめい</rt></ruby>を<ruby>試<rt>こころ</rt></ruby>みる<ruby>段階<rt>だんかい</rt></ruby>です。",
@@ -335,12 +335,12 @@
     "topic_name": "<ruby>死<rt>し</rt></ruby>の<ruby>受容<rt>じゅよう</rt></ruby><ruby>過程<rt>かてい</rt></ruby>（キューブラー・ロスの5<ruby>段階<rt>だんかい</rt></ruby><ruby>説<rt>せつ</rt></ruby>）",
     "question": "<ruby>死<rt>し</rt></ruby>の<ruby>受容<rt>じゅよう</rt></ruby><ruby>過程<rt>かてい</rt></ruby>における<ruby>第<rt>だい</rt></ruby>4<ruby>段階<rt>だんかい</rt></ruby>「<ruby>抑<rt>よく</rt></ruby>うつ」にみられる2つのタイプはどれか。",
     "choices": [
-      "<ruby>失<rt>うしな</rt></ruby>ったものへの「<ruby>反応的<rt>はんのうてき</rt></ruby>な<ruby>抑<rt>よく</rt></ruby>うつ」と、これから<ruby>失<rt>うしな</rt></ruby>うものへの「<ruby>準備的<rt>じゅんびてき</rt></ruby>な<ruby>抑<rt>よく</rt></ruby>うつ」",
+      "<ruby>薬物<rt>やくぶつ</rt></ruby>による「<ruby>一時的<rt>いちじてき</rt></ruby>うつ」と、<ruby>加齢<rt>かれい</rt></ruby>による「<ruby>老年期<rt>ろうねんき</rt></ruby>うつ」",
       "<ruby>午前<rt>ごぜん</rt></ruby>に<ruby>起<rt>お</rt></ruby>こる「<ruby>身体的<rt>しんたいてき</rt></ruby>うつ」と、<ruby>夜間<rt>やかん</rt></ruby>に<ruby>起<rt>お</rt></ruby>こる「<ruby>環境的<rt>かんきょうてき</rt></ruby>うつ」",
       "<ruby>自覚的<rt>じかくてき</rt></ruby>な「<ruby>急性<rt>きゅうせい</rt></ruby>うつ」と、<ruby>他覚的<rt>たかくてき</rt></ruby>な「<ruby>慢性<rt>まんせい</rt></ruby>うつ」",
-      "<ruby>薬物<rt>やくぶつ</rt></ruby>による「<ruby>一時的<rt>いちじてき</rt></ruby>うつ」と、<ruby>加齢<rt>かれい</rt></ruby>による「<ruby>老年期<rt>ろうねんき</rt></ruby>うつ」"
+      "<ruby>失<rt>うしな</rt></ruby>ったものへの「<ruby>反応的<rt>はんのうてき</rt></ruby>な<ruby>抑<rt>よく</rt></ruby>うつ」と、これから<ruby>失<rt>うしな</rt></ruby>うものへの「<ruby>準備的<rt>じゅんびてき</rt></ruby>な<ruby>抑<rt>よく</rt></ruby>うつ」"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "explanation": "キューブラー・ロスは、<ruby>病気<rt>びょうき</rt></ruby>や<ruby>治療<rt>ちりょう</rt></ruby>で<ruby>失<rt>うしな</rt></ruby>ったものに<ruby>対<rt>たい</rt></ruby>する「<ruby>反応的<rt>はんのうてき</rt></ruby>な<ruby>抑<rt>よく</rt></ruby>うつ」と、もうすぐ<ruby>愛<rt>あい</rt></ruby>する<ruby>者<rt>もの</rt></ruby>たちと<ruby>別<rt>わか</rt></ruby>れなければならないことへの「<ruby>準備的<rt>じゅんびてき</rt></ruby>な<ruby>抑<rt>よく</rt></ruby>うつ」の2つに<ruby>分類<rt>ぶんるい</rt></ruby>しました。",
     "keyword": "<ruby>抑<rt>よく</rt></ruby>うつの2つのタイプ"
   },
@@ -350,12 +350,12 @@
     "topic_name": "<ruby>死<rt>し</rt></ruby>の<ruby>受容<rt>じゅよう</rt></ruby><ruby>過程<rt>かてい</rt></ruby>（キューブラー・ロスの5<ruby>段階<rt>だんかい</rt></ruby><ruby>説<rt>せつ</rt></ruby>）",
     "question": "<ruby>愛<rt>あい</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>たちとの<ruby>別<rt>わか</rt></ruby>れを<ruby>悲<rt>かな</rt></ruby>しむ「<ruby>準備的<rt>じゅんびてき</rt></ruby>な<ruby>抑<rt>よく</rt></ruby>うつ」の<ruby>段階<rt>だんかい</rt></ruby>にある<ruby>利用者<rt>りようしゃ</rt></ruby>への<ruby>介護<rt>かいご</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものはどれか。",
     "choices": [
-      "<ruby>無理<rt>むり</rt></ruby>に<ruby>励<rt>はげ</rt></ruby>ましたり<ruby>元気<rt>げんき</rt></ruby>づけたりせず、<ruby>黙<rt>だま</rt></ruby>ってそばにいて<ruby>深<rt>ふか</rt></ruby>い<ruby>悲<rt>かな</rt></ruby>しみに<ruby>寄<rt>よ</rt></ruby>り<ruby>添<rt>そ</rt></ruby>う",
-      "「<ruby>元気<rt>げんき</rt></ruby>を<ruby>出<rt>だ</rt></ruby>してください」と<ruby>大声<rt>おおごえ</rt></ruby>で<ruby>励<rt>はげ</rt></ruby>まし、にぎやかなレクリエーションに<ruby>無理矢理<rt>むりやり</rt></ruby><ruby>参加<rt>さんか</rt></ruby>させる",
+      "「くよくよ<ruby>悩<rt>なや</rt></ruby>むのはよくない」と<ruby>説教<rt>せっきょう</rt></ruby>する",
       "<ruby>部屋<rt>へや</rt></ruby>のカーテンをすべて<ruby>閉<rt>し</rt></ruby>め<ruby>切<rt>き</rt></ruby>り、<ruby>誰<rt>だれ</rt></ruby>も<ruby>部屋<rt>へや</rt></ruby>に<ruby>入<rt>はい</rt></ruby>らないようにする",
-      "「くよくよ<ruby>悩<rt>なや</rt></ruby>むのはよくない」と<ruby>説教<rt>せっきょう</rt></ruby>する"
+      "「<ruby>元気<rt>げんき</rt></ruby>を<ruby>出<rt>だ</rt></ruby>してください」と<ruby>大声<rt>おおごえ</rt></ruby>で<ruby>励<rt>はげ</rt></ruby>まし、にぎやかなレクリエーションに<ruby>無理矢理<rt>むりやり</rt></ruby><ruby>参加<rt>さんか</rt></ruby>させる",
+      "<ruby>無理<rt>むり</rt></ruby>に<ruby>励<rt>はげ</rt></ruby>ましたり<ruby>元気<rt>げんき</rt></ruby>づけたりせず、<ruby>黙<rt>だま</rt></ruby>ってそばにいて<ruby>深<rt>ふか</rt></ruby>い<ruby>悲<rt>かな</rt></ruby>しみに<ruby>寄<rt>よ</rt></ruby>り<ruby>添<rt>そ</rt></ruby>う"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "explanation": "「<ruby>準備的<rt>じゅんびてき</rt></ruby>な<ruby>抑<rt>よく</rt></ruby>うつ」の<ruby>場合<rt>ばあい</rt></ruby>、<ruby>励<rt>はげ</rt></ruby>ましたり<ruby>元気<rt>げんき</rt></ruby>づけたりすることはかえってこころを<ruby>乱<rt>みだ</rt></ruby>すため<ruby>逆効果<rt>ぎゃくこうか</rt></ruby>です。<ruby>黙<rt>だま</rt></ruby>っていっしょにいるだけで<ruby>十分<rt>じゅうぶん</rt></ruby>であり、<ruby>深<rt>ふか</rt></ruby>い<ruby>悲<rt>かな</rt></ruby>しみに<ruby>寄<rt>よ</rt></ruby>り<ruby>添<rt>そ</rt></ruby>う<ruby>姿勢<rt>しせい</rt></ruby>が<ruby>大切<rt>たいせつ</rt></ruby>です。",
     "keyword": "<ruby>準備的<rt>じゅんびてき</rt></ruby>な<ruby>抑<rt>よく</rt></ruby>うつへの<ruby>対応<rt>たいおう</rt></ruby>"
   },
@@ -380,12 +380,12 @@
     "topic_name": "<ruby>死<rt>し</rt></ruby>の<ruby>受容<rt>じゅよう</rt></ruby><ruby>過程<rt>かてい</rt></ruby>（キューブラー・ロスの5<ruby>段階<rt>だんかい</rt></ruby><ruby>説<rt>せつ</rt></ruby>）",
     "question": "キューブラー・ロスの「<ruby>死<rt>し</rt></ruby>の<ruby>受容<rt>じゅよう</rt></ruby><ruby>過程<rt>かてい</rt></ruby>」を<ruby>学<rt>まな</rt></ruby>ぶうえでの<ruby>留意点<rt>りゅういてん</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものはどれか。",
     "choices": [
-      "5つの<ruby>段階<rt>だんかい</rt></ruby>は<ruby>順序<rt>じゅんじょ</rt></ruby>よく<ruby>進<rt>すす</rt></ruby>むとは<ruby>限<rt>かぎ</rt></ruby>らず、<ruby>行<rt>い</rt></ruby>き<ruby>来<rt>き</rt></ruby>をくり<ruby>返<rt>かえ</rt></ruby>すことがあり、<ruby>受容<rt>じゅよう</rt></ruby>を<ruby>強制<rt>きょうせい</rt></ruby>してはならない",
       "すべての<ruby>人<rt>ひと</rt></ruby>が<ruby>例外<rt>れいがい</rt></ruby>なく<ruby>第<rt>だい</rt></ruby>1<ruby>段階<rt>だんかい</rt></ruby>から<ruby>第<rt>だい</rt></ruby>5<ruby>段階<rt>だんかい</rt></ruby>へと<ruby>順番<rt>じゅんばん</rt></ruby>どおりに<ruby>進<rt>すす</rt></ruby>む",
       "<ruby>第<rt>だい</rt></ruby>5<ruby>段階<rt>だんかい</rt></ruby>の「<ruby>受容<rt>じゅよう</rt></ruby>」に<ruby>至<rt>いた</rt></ruby>らない<ruby>利用者<rt>りようしゃ</rt></ruby>は、<ruby>介護<rt>かいご</rt></ruby>が<ruby>失敗<rt>しっぱい</rt></ruby>したとみなされる",
+      "5つの<ruby>段階<rt>だんかい</rt></ruby>は<ruby>順序<rt>じゅんじょ</rt></ruby>よく<ruby>進<rt>すす</rt></ruby>むとは<ruby>限<rt>かぎ</rt></ruby>らず、<ruby>行<rt>い</rt></ruby>き<ruby>来<rt>き</rt></ruby>をくり<ruby>返<rt>かえ</rt></ruby>すことがあり、<ruby>受容<rt>じゅよう</rt></ruby>を<ruby>強制<rt>きょうせい</rt></ruby>してはならない",
       "<ruby>高齢者<rt>こうれいしゃ</rt></ruby>には<ruby>当<rt>あ</rt></ruby>てはまらないため、<ruby>介護現場<rt>かいごげんば</rt></ruby>では<ruby>考<rt>かんが</rt></ruby>える<ruby>必要<rt>ひつよう</rt></ruby>がない"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "explanation": "この5<ruby>段階<rt>だんかい</rt></ruby>は<ruby>順序<rt>じゅんじょ</rt></ruby>よく<ruby>進<rt>すす</rt></ruby>むわけではなく、<ruby>行<rt>い</rt></ruby>ったり<ruby>来<rt>き</rt></ruby>たりをくり<ruby>返<rt>かえ</rt></ruby>します。また、だれもが<ruby>受容<rt>じゅよう</rt></ruby>に<ruby>至<rt>いた</rt></ruby>るわけではなく、<ruby>受容<rt>じゅよう</rt></ruby>しなければならないものでもありません。",
     "keyword": "<ruby>死<rt>し</rt></ruby>の<ruby>受容<rt>じゅよう</rt></ruby><ruby>過程<rt>かてい</rt></ruby>の<ruby>留意点<rt>りゅういてん</rt></ruby>"
   },
@@ -396,9 +396,9 @@
     "question": "<ruby>死<rt>し</rt></ruby>が<ruby>近<rt>ちか</rt></ruby>づいたときの<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>として、<ruby>教科書<rt>きょうかしょ</rt></ruby>（<ruby>表<rt>ひょう</rt></ruby>6-7）に<ruby>示<rt>しめ</rt></ruby>されている<ruby>特徴<rt>とくちょう</rt></ruby>はどれか。",
     "choices": [
       "<ruby>活気<rt>かっき</rt></ruby>がなくなり<ruby>傾眠<rt>けいみん</rt></ruby><ruby>傾向<rt>けいこう</rt></ruby>となる、<ruby>食欲<rt>しょくよく</rt></ruby>や<ruby>水分<rt>すいぶん</rt></ruby><ruby>摂取<rt>せっしゅ</rt></ruby><ruby>量<rt>りょう</rt></ruby>が<ruby>減<rt>へ</rt></ruby>る、トイレまでの<ruby>移動<rt>いどう</rt></ruby>が<ruby>困難<rt>こんなん</rt></ruby>になる",
-      "<ruby>急激<rt>きゅうげき</rt></ruby>に<ruby>活動量<rt>かつどうりょう</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>え、<ruby>夜間<rt>やかん</rt></ruby>もまったく<ruby>眠<rt>ねむ</rt></ruby>らなくなる",
+      "<ruby>排泄<rt>はいせつ</rt></ruby>の<ruby>機能<rt>きのう</rt></ruby>が<ruby>完全<rt>かんぜん</rt></ruby>に<ruby>自立<rt>じりつ</rt></ruby>し、<ruby>介助<rt>かいじょ</rt></ruby>がまったく<ruby>不要<rt>ふよう</rt></ruby>になる",
       "<ruby>食欲<rt>しょくよく</rt></ruby>が<ruby>旺盛<rt>おうせい</rt></ruby>になり、<ruby>固形物<rt>こけいぶつ</rt></ruby>の<ruby>大量<rt>たいりょう</rt></ruby><ruby>摂取<rt>せっしゅ</rt></ruby>を<ruby>求<rt>もと</rt></ruby>めるようになる",
-      "<ruby>排泄<rt>はいせつ</rt></ruby>の<ruby>機能<rt>きのう</rt></ruby>が<ruby>完全<rt>かんぜん</rt></ruby>に<ruby>自立<rt>じりつ</rt></ruby>し、<ruby>介助<rt>かいじょ</rt></ruby>がまったく<ruby>不要<rt>ふよう</rt></ruby>になる"
+      "<ruby>急激<rt>きゅうげき</rt></ruby>に<ruby>活動量<rt>かつどうりょう</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>え、<ruby>夜間<rt>やかん</rt></ruby>もまったく<ruby>眠<rt>ねむ</rt></ruby>らなくなる"
     ],
     "answer_index": 0,
     "explanation": "<ruby>死<rt>し</rt></ruby>が<ruby>近<rt>ちか</rt></ruby>づくと、<ruby>活動量<rt>かつどうりょう</rt></ruby>が<ruby>低下<rt>ていか</rt></ruby>して<ruby>日中<rt>にっちゅう</rt></ruby>も<ruby>傾眠<rt>けいみん</rt></ruby><ruby>傾向<rt>けいこう</rt></ruby>となり、<ruby>食欲<rt>しょくよく</rt></ruby>や<ruby>水分<rt>すいぶん</rt></ruby><ruby>摂取<rt>せっしゅ</rt></ruby><ruby>量<rt>りょう</rt></ruby>が<ruby>減少し<rt>げんしょうし</rt></ruby>、<ruby>咀嚼<rt>そしゃく</rt></ruby>・<ruby>嚥下<rt>えんげ</rt></ruby><ruby>機能<rt>きのう</rt></ruby>の<ruby>低下<rt>ていか</rt></ruby>やトイレ<ruby>移動<rt>いどう</rt></ruby>の<ruby>困難<rt>こんなん</rt></ruby>、<ruby>失禁<rt>しっきん</rt></ruby>がみられるようになります。",
@@ -410,12 +410,12 @@
     "topic_name": "<ruby>終末期<rt>しゅうまつき</rt></ruby>における<ruby>身体<rt>しんたい</rt></ruby><ruby>変化<rt>へんか</rt></ruby>と<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby>",
     "question": "<ruby>傾眠<rt>けいみん</rt></ruby><ruby>傾向<rt>けいこう</rt></ruby>がみられる<ruby>終末期<rt>しゅうまつき</rt></ruby>の<ruby>利用者<rt>りようしゃ</rt></ruby>へのケアとして、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものはどれか。",
     "choices": [
-      "ウトウトしていても、<ruby>無言<rt>むごん</rt></ruby>でケアをせず<ruby>必<rt>かなら</rt></ruby>ず<ruby>声<rt>こえ</rt></ruby>かけをしてからケアを<ruby>行<rt>おこな</rt></ruby>う",
+      "<ruby>褥瘡<rt>じょくそう</rt></ruby><ruby>予防<rt>よぼう</rt></ruby>の<ruby>体位<rt>たいい</rt></ruby><ruby>変換<rt>へんかん</rt></ruby>は<ruby>中止<rt>ちゅうし</rt></ruby>し、<ruby>同<rt>おな</rt></ruby>じ<ruby>姿勢<rt>しせい</rt></ruby>のままにしておく",
       "<ruby>眠<rt>ねむ</rt></ruby>っているように<ruby>見<rt>み</rt></ruby>えるときは、<ruby>起<rt>お</rt></ruby>こすのがかわいそうなので<ruby>声<rt>こえ</rt></ruby>かけを<ruby>一切<rt>いっさい</rt></ruby>やめる",
-      "<ruby>話<rt>はな</rt></ruby>しかけても<ruby>返事<rt>へんじ</rt></ruby>がないときは、<ruby>身体<rt>からだ</rt></ruby>を<ruby>激<rt>はげ</rt></ruby>しくゆすって<ruby>無理矢理<rt>むりやり</rt></ruby><ruby>覚醒<rt>かくせい</rt></ruby>させる",
-      "<ruby>褥瘡<rt>じょくそう</rt></ruby><ruby>予防<rt>よぼう</rt></ruby>の<ruby>体位<rt>たいい</rt></ruby><ruby>変換<rt>へんかん</rt></ruby>は<ruby>中止<rt>ちゅうし</rt></ruby>し、<ruby>同<rt>おな</rt></ruby>じ<ruby>姿勢<rt>しせい</rt></ruby>のままにしておく"
+      "ウトウトしていても、<ruby>無言<rt>むごん</rt></ruby>でケアをせず<ruby>必<rt>かなら</rt></ruby>ず<ruby>声<rt>こえ</rt></ruby>かけをしてからケアを<ruby>行<rt>おこな</rt></ruby>う",
+      "<ruby>話<rt>はな</rt></ruby>しかけても<ruby>返事<rt>へんじ</rt></ruby>がないときは、<ruby>身体<rt>からだ</rt></ruby>を<ruby>激<rt>はげ</rt></ruby>しくゆすって<ruby>無理矢理<rt>むりやり</rt></ruby><ruby>覚醒<rt>かくせい</rt></ruby>させる"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "explanation": "ウトウトしているからといって<ruby>声<rt>こえ</rt></ruby>かけをしないケアはせず、<ruby>必<rt>かなら</rt></ruby>ず<ruby>優<rt>やさ</rt></ruby>しく<ruby>声<rt>こえ</rt></ruby>かけをしてからケアを<ruby>行<rt>おこな</rt></ruby>います。<ruby>利用者<rt>りようしゃ</rt></ruby>がさびしさや<ruby>孤独感<rt>こどくかん</rt></ruby>を<ruby>感<rt>かん</rt></ruby>じないような<ruby>配慮<rt>はいりょ</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。",
     "keyword": "<ruby>傾眠<rt>けいみん</rt></ruby><ruby>時<rt>じ</rt></ruby>の<ruby>声<rt>こえ</rt></ruby>かけ"
   },
@@ -425,12 +425,12 @@
     "topic_name": "<ruby>終末期<rt>しゅうまつき</rt></ruby>における<ruby>身体<rt>しんたい</rt></ruby><ruby>変化<rt>へんか</rt></ruby>と<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby>",
     "question": "<ruby>終末期<rt>しゅうまつき</rt></ruby>の<ruby>食事<rt>しょくじ</rt></ruby><ruby>介助<rt>かいじょ</rt></ruby>において、<ruby>誤嚥<rt>ごえん</rt></ruby>を<ruby>防<rt>ふせ</rt></ruby>ぐためのベッドの<ruby>角度<rt>かくど</rt></ruby>と<ruby>姿勢<rt>しせい</rt></ruby>として<ruby>適切<rt>てきせつ</rt></ruby>なものはどれか。",
     "choices": [
-      "ベッドを30〜60<ruby>度<rt>ど</rt></ruby><ruby>起<rt>お</rt></ruby>こした<ruby>半座位<rt>はんざい</rt></ruby>とし、<ruby>頭部<rt>とうぶ</rt></ruby>は<ruby>枕<rt>まくら</rt></ruby>を<ruby>使用<rt>しよう</rt></ruby>して<ruby>顎<rt>あご</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>いた<ruby>状態<rt>じょうたい</rt></ruby>にする",
-      "ベッドを<ruby>完全<rt>かんぜん</rt></ruby>に<ruby>水平<rt>すいへい</rt></ruby>（0<ruby>度<rt>ど</rt></ruby>）にし、<ruby>仰向け<rt>あおむけ</rt></ruby>で<ruby>首<rt>くび</rt></ruby>を<ruby>後<rt>うし</rt></ruby>ろに<ruby>反<rt>そ</rt></ruby>らせる",
       "ベッドを90<ruby>度<rt>ど</rt></ruby>の<ruby>垂直<rt>すいちょく</rt></ruby>にし、<ruby>枕<rt>まくら</rt></ruby>は<ruby>一切<rt>いっさい</rt></ruby><ruby>使<rt>つか</rt></ruby>わないようにする",
-      "<ruby>完全<rt>かんぜん</rt></ruby>な<ruby>うつ伏<rt>ぶ</rt></ruby>せ（<ruby>腹臥位<rt>ふくがい</rt></ruby>）にして<ruby>背中<rt>せなか</rt></ruby>からスプーンを<ruby>入<rt>い</rt></ruby>れる"
+      "ベッドを30〜60<ruby>度<rt>ど</rt></ruby><ruby>起<rt>お</rt></ruby>こした<ruby>半座位<rt>はんざい</rt></ruby>とし、<ruby>頭部<rt>とうぶ</rt></ruby>は<ruby>枕<rt>まくら</rt></ruby>を<ruby>使用<rt>しよう</rt></ruby>して<ruby>顎<rt>あご</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>いた<ruby>状態<rt>じょうたい</rt></ruby>にする",
+      "<ruby>完全<rt>かんぜん</rt></ruby>な<ruby>うつ伏<rt>ぶ</rt></ruby>せ（<ruby>腹臥位<rt>ふくがい</rt></ruby>）にして<ruby>背中<rt>せなか</rt></ruby>からスプーンを<ruby>入<rt>い</rt></ruby>れる",
+      "ベッドを<ruby>完全<rt>かんぜん</rt></ruby>に<ruby>水平<rt>すいへい</rt></ruby>（0<ruby>度<rt>ど</rt></ruby>）にし、<ruby>仰向け<rt>あおむけ</rt></ruby>で<ruby>首<rt>くび</rt></ruby>を<ruby>後<rt>うし</rt></ruby>ろに<ruby>反<rt>そ</rt></ruby>らせる"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "explanation": "<ruby>教科書<rt>きょうかしょ</rt></ruby>の<ruby>図<rt>ず</rt></ruby>6-4・<ruby>図<rt>ず</rt></ruby>6-5に<ruby>示<rt>しめ</rt></ruby>されているとおり、<ruby>上半身<rt>じょうはんしん</rt></ruby>を30〜60<ruby>度<rt>ど</rt></ruby><ruby>起<rt>お</rt></ruby>こした<ruby>半座位<rt>はんざい</rt></ruby>とし、<ruby>頭部<rt>とうぶ</rt></ruby>は<ruby>枕<rt>まくら</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って<ruby>顎<rt>あご</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>いた<ruby>状態<rt>じょうたい</rt></ruby>に<ruby>整<rt>ととの</rt></ruby>えます。",
     "keyword": "<ruby>誤嚥<rt>ごえん</rt></ruby>を<ruby>防<rt>ふせ</rt></ruby>ぐ<ruby>姿勢<rt>しせい</rt></ruby>"
   },
@@ -440,12 +440,12 @@
     "topic_name": "<ruby>終末期<rt>しゅうまつき</rt></ruby>における<ruby>身体<rt>しんたい</rt></ruby><ruby>変化<rt>へんか</rt></ruby>と<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby>",
     "question": "<ruby>食事<rt>しょくじ</rt></ruby><ruby>時<rt>じ</rt></ruby>に「<ruby>顎<rt>あご</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>いた<ruby>状態<rt>じょうたい</rt></ruby>」にすることで<ruby>誤嚥<rt>ごえん</rt></ruby>が<ruby>防<rt>ふせ</rt></ruby>ぎやすくなる<ruby>理由<rt>りゆう</rt></ruby>はどれか。",
     "choices": [
-      "<ruby>咽頭<rt>いんとう</rt></ruby>と<ruby>気管<rt>きかん</rt></ruby>に<ruby>角度<rt>かくど</rt></ruby>がつき、<ruby>食道<rt>しょくどう</rt></ruby>へ<ruby>送<rt>おく</rt></ruby>り<ruby>込<rt>こ</rt></ruby>みやすくなるため",
       "<ruby>咽頭<rt>いんとう</rt></ruby>と<ruby>気管<rt>きかん</rt></ruby>が<ruby>直線<rt>ちょくせん</rt></ruby>になり、<ruby>肺<rt>はい</rt></ruby>へそのまま<ruby>流<rt>なが</rt></ruby>れ<ruby>落<rt>お</rt></ruby>ちるため",
       "<ruby>口<rt>くち</rt></ruby>を<ruby>大<rt>おお</rt></ruby>きく<ruby>開<rt>あ</rt></ruby>けたままにできるため",
-      "<ruby>唾液<rt>だえき</rt></ruby>の<ruby>分泌<rt>ぶんぴつ</rt></ruby>が<ruby>完全<rt>かんぜん</rt></ruby>に<ruby>停止<rt>ていし</rt></ruby>するため"
+      "<ruby>唾液<rt>だえき</rt></ruby>の<ruby>分泌<rt>ぶんぴつ</rt></ruby>が<ruby>完全<rt>かんぜん</rt></ruby>に<ruby>停止<rt>ていし</rt></ruby>するため",
+      "<ruby>咽頭<rt>いんとう</rt></ruby>と<ruby>気管<rt>きかん</rt></ruby>に<ruby>角度<rt>かくど</rt></ruby>がつき、<ruby>食道<rt>しょくどう</rt></ruby>へ<ruby>送<rt>おく</rt></ruby>り<ruby>込<rt>こ</rt></ruby>みやすくなるため"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "explanation": "<ruby>顎<rt>あご</rt></ruby>を<ruby>上<rt>あ</rt></ruby>げると<ruby>咽頭<rt>いんとう</rt></ruby>と<ruby>気管<rt>きかん</rt></ruby>が<ruby>直線<rt>ちょくせん</rt></ruby>に<ruby>近<rt>ちか</rt></ruby>くなり<ruby>誤嚥<rt>ごえん</rt></ruby>しやすくなりますが、<ruby>顎<rt>あご</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>くと<ruby>咽頭<rt>いんとう</rt></ruby>と<ruby>気管<rt>きかん</rt></ruby>に<ruby>角度<rt>かくど</rt></ruby>がつくため、<ruby>誤嚥<rt>ごえん</rt></ruby>しにくくなります。",
     "keyword": "<ruby>顎<rt>あご</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>く<ruby>理由<rt>りゆう</rt></ruby>"
   },
@@ -455,12 +455,12 @@
     "topic_name": "<ruby>終末期<rt>しゅうまつき</rt></ruby>における<ruby>身体<rt>しんたい</rt></ruby><ruby>変化<rt>へんか</rt></ruby>と<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby>",
     "question": "<ruby>死<rt>し</rt></ruby>が<ruby>近<rt>ちか</rt></ruby>づいた<ruby>終末期<rt>しゅうまつき</rt></ruby>において、<ruby>余分<rt>よぶん</rt></ruby>な<ruby>栄養<rt>えいよう</rt></ruby>や<ruby>過度<rt>かど</rt></ruby>な<ruby>水分<rt>すいぶん</rt></ruby><ruby>補給<rt>ほきゅう</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>うことの<ruby>身体的<rt>しんたいてき</rt></ruby>リスクはどれか。",
     "choices": [
-      "<ruby>心臓<rt>しんぞう</rt></ruby>に<ruby>負担<rt>ふたん</rt></ruby>をかけたり、<ruby>痰<rt>たん</rt></ruby>の<ruby>増加<rt>ぞうか</rt></ruby>や<ruby>浮腫<rt>ふしゅ</rt></ruby>につながる",
       "<ruby>筋力<rt>きんりょく</rt></ruby>が<ruby>過剰<rt>かじょう</rt></ruby>に<ruby>増強<rt>ぞうきょう</rt></ruby>して<ruby>歩行<rt>ほこう</rt></ruby>が<ruby>不安定<rt>ふあんてい</rt></ruby>になる",
+      "<ruby>心臓<rt>しんぞう</rt></ruby>に<ruby>負担<rt>ふたん</rt></ruby>をかけたり、<ruby>痰<rt>たん</rt></ruby>の<ruby>増加<rt>ぞうか</rt></ruby>や<ruby>浮腫<rt>ふしゅ</rt></ruby>につながる",
       "<ruby>体温<rt>たいおん</rt></ruby>が40<ruby>度<rt>ど</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>に<ruby>急上昇<rt>きゅうじょうしょう</rt></ruby>する",
       "<ruby>視力<rt>しりょく</rt></ruby>が<ruby>急速<rt>きゅうそく</rt></ruby>に<ruby>回復<rt>かいふく</rt></ruby>してまぶしくなる"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "explanation": "<ruby>死<rt>し</rt></ruby>が<ruby>近<rt>ちか</rt></ruby>づいている<ruby>時期<rt>じき</rt></ruby>の<ruby>余分<rt>よぶん</rt></ruby>な<ruby>栄養<rt>えいよう</rt></ruby>や<ruby>水分<rt>すいぶん</rt></ruby><ruby>補給<rt>ほきゅう</rt></ruby>は、<ruby>全身<rt>ぜんしん</rt></ruby>の<ruby>循環<rt>じゅんかん</rt></ruby><ruby>機能<rt>きのう</rt></ruby>が<ruby>落<rt>お</rt></ruby>ちているため<ruby>心臓<rt>しんぞう</rt></ruby>に<ruby>負担<rt>ふたん</rt></ruby>をかけたり、<ruby>気道<rt>きどう</rt></ruby>の<ruby>分泌物<rt>ぶんぴつぶつ</rt></ruby>（<ruby>痰<rt>たん</rt></ruby>）の<ruby>増加<rt>ぞうか</rt></ruby>や<ruby>浮腫<rt>ふしゅ</rt></ruby>（むくみ）を<ruby>悪化<rt>あっか</rt></ruby>させます。",
     "keyword": "<ruby>過剰<rt>かじょう</rt></ruby>な<ruby>水分<rt>すいぶん</rt><ruby>補給<rt>ほきゅう</rt></ruby>のリスク"
   },
@@ -470,12 +470,12 @@
     "topic_name": "<ruby>終末期<rt>しゅうまつき</rt></ruby>における<ruby>身体<rt>しんたい</rt></ruby><ruby>変化<rt>へんか</rt></ruby>と<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby>",
     "question": "<ruby>終末期<rt>しゅうまつき</rt></ruby>の<ruby>利用者<rt>りようしゃ</rt></ruby>の「<ruby>口渇<rt>こうかつ</rt></ruby>（<ruby>口<rt>くち</rt></ruby>の<ruby>渇<rt>かわ</rt></ruby>き）・<ruby>口唇<rt>こうしん</rt></ruby>の<ruby>乾燥<rt>かんそう</rt></ruby>」に<ruby>対<rt>たい</rt></ruby>するケアとして<ruby>適切<rt>てきせつ</rt></ruby>なものはどれか。",
     "choices": [
+      "<ruby>口<rt>くち</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けないようにテープで<ruby>固定<rt>こてい</rt></ruby>する",
       "<ruby>水<rt>みず</rt></ruby>で<ruby>濡<rt>ぬ</rt></ruby>らしたガーゼで<ruby>口腔内<rt>こうくうない</rt></ruby>を<ruby>湿<rt>しめ</rt></ruby>らせたり、<ruby>少量<rt>しょうりょう</rt></ruby>の<ruby>氷<rt>こおり</rt></ruby>を<ruby>口<rt>くち</rt></ruby>に<ruby>含<rt>ふく</rt></ruby>ませ、リップクリームを<ruby>塗布<rt>とふ</rt></ruby>する",
       "コップいっぱいの<ruby>冷水<rt>れいすい</rt></ruby>を<ruby>一気<rt>いっき</rt></ruby>に<ruby>飲<rt>の</rt></ruby>み<ruby>干<rt>ほ</rt></ruby>させる",
-      "<ruby>熱<rt>あつ</rt></ruby>いお<ruby>茶<rt>ちゃ</rt></ruby>をストローで<ruby>無理<rt>むり</rt></ruby>に<ruby>流<rt>なが</rt></ruby>し<ruby>込<rt>こ</rt></ruby>む",
-      "<ruby>口<rt>くち</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けないようにテープで<ruby>固定<rt>こてい</rt></ruby>する"
+      "<ruby>熱<rt>あつ</rt></ruby>いお<ruby>茶<rt>ちゃ</rt></ruby>をストローで<ruby>無理<rt>むり</rt></ruby>に<ruby>流<rt>なが</rt></ruby>し<ruby>込<rt>こ</rt></ruby>む"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "explanation": "<ruby>口渇<rt>こうかつ</rt></ruby>があるときには、<ruby>水<rt>みず</rt></ruby>を<ruby>含<rt>ふく</rt></ruby>ませたガーゼで<ruby>口腔内<rt>こうくうない</rt></ruby>を<ruby>湿<rt>しめ</rt></ruby>らせたり、<ruby>可能<rt>かのう</rt></ruby>であれば<ruby>水<rt>みず</rt></ruby>や<ruby>小<rt>ちい</rt></ruby>さな<ruby>氷<rt>こおり</rt></ruby>のかけらを<ruby>口<rt>くち</rt></ruby>に<ruby>含<rt>ふく</rt></ruby>ませます。<ruby>口唇<rt>こうしん</rt></ruby>の<ruby>乾燥<rt>かんそう</rt></ruby>にはリップクリームを<ruby>塗布<rt>とふ</rt></ruby>して<ruby>保護<rt>ほご</rt></ruby>します。",
     "keyword": "<ruby>口渇<rt>こうかつ</rt></ruby>・<ruby>口唇<rt>こうしん</rt></ruby><ruby>乾燥<rt>かんそう</rt></ruby>のケア"
   },
@@ -485,12 +485,12 @@
     "topic_name": "<ruby>終末期<rt>しゅうまつき</rt></ruby>における<ruby>身体<rt>しんたい</rt></ruby><ruby>変化<rt>へんか</rt></ruby>と<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby>",
     "question": "<ruby>終末期<rt>しゅうまつき</rt></ruby>における<ruby>排泄<rt>はいせつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby>の<ruby>基本<rt>きほん</rt></ruby><ruby>姿勢<rt>しせい</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものはどれか。",
     "choices": [
-      "「<ruby>最期<rt>さいご</rt></ruby>まで<ruby>排泄<rt>はいせつ</rt></ruby>だけは<ruby>自分<rt>じぶん</rt></ruby>で<ruby>行<rt>おこな</rt></ruby>いたい」という<ruby>本人<rt>ほんにん</rt></ruby>の<ruby>思<rt>おも</rt></ruby>いを<ruby>尊重<rt>そんちょう</rt></ruby>し、<ruby>自尊心<rt>じそんしん</rt></ruby>に<ruby>深<rt>ふか</rt></ruby>く<ruby>配慮<rt>はいりょ</rt></ruby>する",
       "<ruby>介護職<rt>かいごしょく</rt></ruby>の<ruby>手間<rt>てま</rt></ruby>を<ruby>省<rt>はぶ</rt></ruby>くため、<ruby>早<rt>はや</rt></ruby>い<ruby>段階<rt>だんかい</rt></ruby>からすべての<ruby>人<rt>ひと</rt></ruby>におむつを<ruby>強制<rt>きょうせい</rt></ruby>する",
+      "<ruby>排泄<rt>はいせつ</rt></ruby>の<ruby>回数<rt>かいすう</rt></ruby>を<ruby>減<rt>へ</rt></ruby>らすため、<ruby>水分<rt>すいぶん</rt></ruby>の<ruby>摂取<rt>せっしゅ</rt></ruby>を<ruby>完全<rt>かんぜん</rt></ruby>に<ruby>禁止<rt>きんし</rt></ruby>する",
       "<ruby>排泄<rt>はいせつ</rt></ruby>の<ruby>失敗<rt>しっぱい</rt></ruby>があったときは、<ruby>再発<rt>さいはつ</rt></ruby><ruby>防止<rt>ぼうし</rt></ruby>のために<ruby>厳<rt>きび</rt></ruby>しく<ruby>注意<rt>ちゅうい</rt></ruby>する",
-      "<ruby>排泄<rt>はいせつ</rt></ruby>の<ruby>回数<rt>かいすう</rt></ruby>を<ruby>減<rt>へ</rt></ruby>らすため、<ruby>水分<rt>すいぶん</rt></ruby>の<ruby>摂取<rt>せっしゅ</rt></ruby>を<ruby>完全<rt>かんぜん</rt></ruby>に<ruby>禁止<rt>きんし</rt></ruby>する"
+      "「<ruby>最期<rt>さいご</rt></ruby>まで<ruby>排泄<rt>はいせつ</rt></ruby>だけは<ruby>自分<rt>じぶん</rt></ruby>で<ruby>行<rt>おこな</rt></ruby>いたい」という<ruby>本人<rt>ほんにん</rt></ruby>の<ruby>思<rt>おも</rt></ruby>いを<ruby>尊重<rt>そんちょう</rt></ruby>し、<ruby>自尊心<rt>じそんしん</rt></ruby>に<ruby>深<rt>ふか</rt></ruby>く<ruby>配慮<rt>はいりょ</rt></ruby>する"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "explanation": "<ruby>排泄<rt>はいせつ</rt></ruby>はプライベートな<ruby>行為<rt>こうい</rt></ruby>であり、<ruby>他者<rt>たしゃ</rt></ruby>の<ruby>手<rt>て</rt></ruby>を<ruby>借<rt>か</rt></ruby>りることは<ruby>自尊心<rt>じそんしん</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きく<ruby>影響<rt>えいきょう</rt></ruby>します。「<ruby>最期<rt>さいご</rt></ruby>まで<ruby>自分<rt>じぶん</rt></ruby>で<ruby>行<rt>おこな</rt></ruby>いたい」という<ruby>願<rt>ねが</rt></ruby>いや<ruby>尊厳<rt>そんげん</rt></ruby>を<ruby>最大限<rt>さいだいげん</rt></ruby><ruby>尊重<rt>そんちょう</rt></ruby>した<ruby>支援<rt>しえん</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められます。",
     "keyword": "<ruby>排泄<rt>はいせつ</rt></ruby>と<ruby>尊厳<rt>そんげん</rt></ruby>"
   },
@@ -502,8 +502,8 @@
     "choices": [
       "<ruby>尊厳<rt>そんげん</rt></ruby>を<ruby>傷<rt>きず</rt></ruby>つけないよう<ruby>声<rt>こえ</rt></ruby>かけに<ruby>注意<rt>ちゅうい</rt></ruby>し、<ruby>排泄<rt>はいせつ</rt></ruby>のサインを<ruby>見逃<rt>みのが</rt></ruby>さずすみやかに<ruby>交換<rt>こうかん</rt></ruby>する",
       "<ruby>定時<rt>ていじ</rt></ruby><ruby>交換<rt>こうかん</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>まで、どんなに<ruby>汚<rt>よご</rt></ruby>れていても<ruby>交換<rt>こうかん</rt></ruby>せずそのままにする",
-      "<ruby>尿<rt>にょう</rt>や<ruby>便<rt>べん</rt></ruby>の<ruby>性状<rt>せいじょう</rt></ruby>や<ruby>量<rt>りょう</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>は<ruby>気<rt>き</rt></ruby>にする<ruby>必要<rt>ひつよう</rt></ruby>がないため、<ruby>看護師<rt>かんごし</rt></ruby>への<ruby>報告<rt>ほうこく</rt></ruby>は<ruby>不要<rt>ふよう</rt></ruby>である",
-      "<ruby>排泄<rt>はいせつ</rt></ruby>の<ruby>確認<rt>かくにん</rt></ruby>をするときは、カーテンを<ruby>開<rt>あ</rt></ruby>け<ruby>放<rt>はな</rt></ruby>したまま<ruby>大声<rt>おおごえ</rt></ruby>で<ruby>確認<rt>かくにん</rt></ruby>する"
+      "<ruby>排泄<rt>はいせつ</rt></ruby>の<ruby>確認<rt>かくにん</rt></ruby>をするときは、カーテンを<ruby>開<rt>あ</rt></ruby>け<ruby>放<rt>はな</rt></ruby>したまま<ruby>大声<rt>おおごえ</rt></ruby>で<ruby>確認<rt>かくにん</rt></ruby>する",
+      "<ruby>尿<rt>にょう</rt>や<ruby>便<rt>べん</rt></ruby>の<ruby>性状<rt>せいじょう</rt></ruby>や<ruby>量<rt>りょう</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>は<ruby>気<rt>き</rt></ruby>にする<ruby>必要<rt>ひつよう</rt></ruby>がないため、<ruby>看護師<rt>かんごし</rt></ruby>への<ruby>報告<rt>ほうこく</rt></ruby>は<ruby>不要<rt>ふよう</rt></ruby>である"
     ],
     "answer_index": 0,
     "explanation": "おむつを<ruby>着用<rt>ちゃくよう</rt></ruby>した<ruby>場合<rt>ばあい</rt></ruby>は、<ruby>尊厳<rt>そんげん</rt></ruby>を<ruby>傷<rt>きず</rt></ruby>つけない<ruby>声<rt>こえ</rt></ruby>かけをし、<ruby>排泄<rt>はいせつ</rt></ruby>のサインを<ruby>見逃<rt>みのが</rt></ruby>さずすぐ<ruby>交換<rt>こうかん</rt></ruby>して<ruby>清潔<rt>せいけつ</rt></ruby>を<ruby>保<rt>たも</rt></ruby>ちます。<ruby>尿<rt>にょう</rt>の<ruby>量<rt>りょう</rt></ruby>や<ruby>性状<rt>せいじょう</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>は<ruby>異変<rt>いへん</rt></ruby>のサインでもあるため<ruby>医師<rt>いし</rt></ruby>や<ruby>看護師<rt>かんごし</rt></ruby>に<ruby>報告<rt>ほうこく</rt></ruby>します。",
@@ -515,12 +515,12 @@
     "topic_name": "<ruby>終末期<rt>しゅうまつき</rt></ruby>における<ruby>身体<rt>しんたい</rt></ruby><ruby>変化<rt>へんか</rt></ruby>と<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby>",
     "question": "<ruby>終末期<rt>しゅうまつき</rt></ruby>における「<ruby>清潔<rt>せいけつ</rt></ruby><ruby>保持<rt>ほじ</rt></ruby>」の<ruby>意義<rt>いぎ</rt></ruby>として、<ruby>教科書<rt>きょうかしょ</rt></ruby>に<ruby>記載<rt>きさい</rt></ruby>されているものはどれか。",
     "choices": [
-      "<ruby>気分<rt>きぶん</rt></ruby>のリフレッシュ、<ruby>爽快感<rt>そうかいかん</rt></ruby>、<ruby>感染症<rt>かんせんしょう</rt></ruby><ruby>予防<rt>よぼう</rt></ruby>、<ruby>褥瘡<rt>じょくそう</rt></ruby><ruby>予防<rt>よぼう</rt></ruby>",
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>報酬<rt>ほうしゅう</rt></ruby>の<ruby>加算<rt>かさん</rt></ruby><ruby>請求<rt>せいきゅう</rt></ruby>のみを<ruby>目的<rt>もくてき</rt></ruby>とする",
       "<ruby>体重<rt>たいじゅう</rt></ruby>の<ruby>急激<rt>きゅうげき</rt></ruby>な<ruby>増加<rt>ぞうか</rt></ruby>と<ruby>骨密度<rt>こつみつど</rt></ruby>の<ruby>向上<rt>こうじょう</rt></ruby>",
-      "<ruby>血圧<rt>けつあつ</rt></ruby>の<ruby>急上昇<rt>きゅうじょうしょう</rt></ruby>による<ruby>覚醒<rt>かくせい</rt></ruby><ruby>維持<rt>いじ</rt></ruby>",
-      "<ruby>介護<rt>かいご</rt></ruby><ruby>報酬<rt>ほうしゅう</rt></ruby>の<ruby>加算<rt>かさん</rt></ruby><ruby>請求<rt>せいきゅう</rt></ruby>のみを<ruby>目的<rt>もくてき</rt></ruby>とする"
+      "<ruby>気分<rt>きぶん</rt></ruby>のリフレッシュ、<ruby>爽快感<rt>そうかいかん</rt></ruby>、<ruby>感染症<rt>かんせんしょう</rt></ruby><ruby>予防<rt>よぼう</rt></ruby>、<ruby>褥瘡<rt>じょくそう</rt></ruby><ruby>予防<rt>よぼう</rt></ruby>",
+      "<ruby>血圧<rt>けつあつ</rt></ruby>の<ruby>急上昇<rt>きゅうじょうしょう</rt></ruby>による<ruby>覚醒<rt>かくせい</rt></ruby><ruby>維持<rt>いじ</rt></ruby>"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "explanation": "<ruby>身体<rt>からだ</rt></ruby>の<ruby>清潔<rt>せいけつ</rt></ruby>を<ruby>保<rt>たも</rt></ruby>つことには、<ruby>気分<rt>きぶん</rt></ruby>のリフレッシュや<ruby>爽快感<rt>そうかいかん</rt></ruby>を<ruby>与<rt>あた</rt></ruby>えるとともに、<ruby>感染症<rt>かんせんしょう</rt></ruby><ruby>予防<rt>よぼう</rt></ruby>や<ruby>褥瘡<rt>じょくそう</rt></ruby><ruby>予防<rt>よぼう</rt></ruby>といった<ruby>重要<rt>じゅうよう</rt></ruby>な<ruby>意義<rt>いぎ</rt></ruby>があります。",
     "keyword": "<ruby>清潔<rt>せいけつ</rt></ruby><ruby>保持<rt>ほじ</rt></ruby>の<ruby>意義<rt>いぎ</rt></ruby>"
   },
@@ -532,8 +532,8 @@
     "choices": [
       "<ruby>状態<rt>じょうたい</rt></ruby>にあわせて<ruby>全身<rt>ぜんしん</rt></ruby><ruby>清拭<rt>せいしき</rt></ruby>や<ruby>部分<rt>ぶぶん</rt></ruby><ruby>清拭<rt>せいしき</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>い、<ruby>手浴<rt>しゅよく</rt></ruby>や<ruby>足浴<rt>そくよく</rt></ruby>を<ruby>日替<rt>ひが</rt></ruby>わりで<ruby>取<rt>と</rt></ruby>り<ruby>入<rt>い</rt></ruby>れる",
       "<ruby>負担<rt>ふたん</rt></ruby>になるため、<ruby>亡<rt>な</rt></ruby>くなるまで<ruby>一切<rt>いっさい</rt></ruby>の<ruby>清拭<rt>せいしき</rt></ruby>や<ruby>洗顔<rt>せんがん</rt></ruby>を<ruby>禁止<rt>きんし</rt></ruby>する",
-      "<ruby>熱<rt>あつ</rt></ruby>い<ruby>湯船<rt>ゆぶね</rt></ruby>に<ruby>無理矢理<rt>むりやり</rt><ruby>浸<rt>つ</rt></ruby>からせて<ruby>汗<rt>あせ</rt></ruby>をかかせる",
-      "<ruby>一度<rt>いちど</rt></ruby>にすべてのケア（<ruby>入浴<rt>にゅうよく</rt></ruby>、<ruby>洗髪<rt>せんぱつ</rt></ruby>、<ruby>爪切<rt>つめき</rt></ruby>りなど）を<ruby>長時間<rt>ちょうじかん</rt></ruby>かけて<ruby>行<rt>おこな</rt></ruby>い<ruby>切<rt>き</rt></ruby>る"
+      "<ruby>一度<rt>いちど</rt></ruby>にすべてのケア（<ruby>入浴<rt>にゅうよく</rt></ruby>、<ruby>洗髪<rt>せんぱつ</rt></ruby>、<ruby>爪切<rt>つめき</rt></ruby>りなど）を<ruby>長時間<rt>ちょうじかん</rt></ruby>かけて<ruby>行<rt>おこな</rt></ruby>い<ruby>切<rt>き</rt></ruby>る",
+      "<ruby>熱<rt>あつ</rt></ruby>い<ruby>湯船<rt>ゆぶね</rt></ruby>に<ruby>無理矢理<rt>むりやり</rt><ruby>浸<rt>つ</rt></ruby>からせて<ruby>汗<rt>あせ</rt></ruby>をかかせる"
     ],
     "answer_index": 0,
     "explanation": "<ruby>入浴<rt>にゅうよく</rt></ruby>が<ruby>困難<rt>こんなん</rt></ruby>な<ruby>場合<rt>ばあい</rt></ruby>は、<ruby>全身<rt>ぜんしん</rt></ruby><ruby>清拭<rt>せいしき</rt></ruby>や<ruby>部分<rt>ぶぶん</rt></ruby><ruby>清拭<rt>せいしき</rt></ruby>、ベッド<ruby>上<rt>じょう</rt></ruby>での<ruby>洗髪<rt>せんぱつ</rt></ruby>などを<ruby>状態<rt>じょうたい</rt></ruby>にあわせて<ruby>日替<rt>ひが</rt></ruby>わりで<ruby>行<rt>おこな</rt></ruby>います。<ruby>手足<rt>てあし</rt></ruby>が<ruby>冷<rt>ひ</rt></ruby>えているときは<ruby>手浴<rt>しゅよく</rt></ruby>や<ruby>足浴<rt>そくよく</rt></ruby>が<ruby>効果的<rt>こうかてき</rt></ruby>です。",
@@ -547,8 +547,8 @@
     "choices": [
       "<ruby>痛<rt>いた</rt></ruby>みは<ruby>主観的<rt>しゅかんてき</rt></ruby>な<ruby>訴<rt>うった</rt></ruby>えであり、<ruby>他者<rt>たしゃ</rt></ruby>が<ruby>客観的<rt>きゃっかんてき</rt></ruby>にその<ruby>程度<rt>ていど</rt></ruby>を<ruby>正確<rt>せいかく</rt></ruby>に<ruby>測定<rt>そくてい</rt></ruby>することはできない",
       "<ruby>血液<rt>けつえき</rt></ruby><ruby>検査<rt>けんさ</rt></ruby>の<ruby>数値<rt>すうち</rt></ruby>を<ruby>見<rt>み</rt></ruby>れば、<ruby>痛<rt>いた</rt></ruby>みの<ruby>強<rt>つよ</rt></ruby>さは100％<ruby>客観的<rt>きゃっかんてき</rt></ruby>に<ruby>証明<rt>しょうめい</rt></ruby>できる",
-      "<ruby>痛<rt>いた</rt></ruby>みの<ruby>感<rt>かん</rt></ruby>じ<ruby>方<rt>かた</rt></ruby>は<ruby>全<rt>すべ</rt></ruby>ての<ruby>人<rt>ひと</rt></ruby>で<ruby>同<rt>おな</rt></ruby>じであるため、<ruby>他者<rt>たしゃ</rt></ruby>と<ruby>比較<rt>ひかく</rt></ruby>して<ruby>評価<rt>ひょうか</rt></ruby>すべきである",
-      "<ruby>我慢<rt>がまん</rt></ruby>できる<ruby>痛<rt>いた</rt></ruby>みはできるだけ<ruby>我慢<rt>がまん</rt></ruby>させることが<ruby>最善<rt>さいぜん</rt></ruby>のケアである"
+      "<ruby>我慢<rt>がまん</rt></ruby>できる<ruby>痛<rt>いた</rt></ruby>みはできるだけ<ruby>我慢<rt>がまん</rt></ruby>させることが<ruby>最善<rt>さいぜん</rt></ruby>のケアである",
+      "<ruby>痛<rt>いた</rt></ruby>みの<ruby>感<rt>かん</rt></ruby>じ<ruby>方<rt>かた</rt></ruby>は<ruby>全<rt>すべ</rt></ruby>ての<ruby>人<rt>ひと</rt></ruby>で<ruby>同<rt>おな</rt></ruby>じであるため、<ruby>他者<rt>たしゃ</rt></ruby>と<ruby>比較<rt>ひかく</rt></ruby>して<ruby>評価<rt>ひょうか</rt></ruby>すべきである"
     ],
     "answer_index": 0,
     "explanation": "<ruby>痛<rt>いた</rt></ruby>みは<ruby>主観的<rt>しゅかんてき</rt></ruby>な<ruby>訴<rt>うった</rt></ruby>えであり、<ruby>痛<rt>いた</rt></ruby>みの<ruby>程度<rt>ていど</rt></ruby>を<ruby>正確<rt>せいかく</rt></ruby>に<ruby>客観的<rt>きゃっかんてき</rt></ruby><ruby>測定<rt>そくてい</rt></ruby>することはできません。そのため、<ruby>本人<rt>ほんにん</rt></ruby>の<ruby>主観<rt>しゅかん</rt></ruby>を<ruby>尊重<rt>そんちょう</rt></ruby>したアセスメントが<ruby>必要<rt>ひつよう</rt></ruby>です。",
@@ -560,12 +560,12 @@
     "topic_name": "<ruby>苦痛<rt>くつう</rt></ruby>の<ruby>緩和<rt>かんわ</rt></ruby>とペインスケール・<ruby>緩和<rt>かんわ</rt></ruby>ケア",
     "question": "<ruby>痛<rt>いた</rt></ruby>みのスケールのうち、6つの<ruby>顔<rt>かお</rt></ruby>のイラスト（<ruby>笑顔<rt>えがお</rt></ruby>から<ruby>泣<rt>な</rt></ruby>き<ruby>顔<rt>がお</rt></ruby>まで）を<ruby>用<rt>もち</rt></ruby>いて<ruby>痛<rt>いた</rt></ruby>みの<ruby>程度<rt>ていど</rt></ruby>を<ruby>表現<rt>ひょうげん</rt></ruby>するツールはどれか。",
     "choices": [
+      "<ruby>長谷川式<rt>はせがわしき</rt></ruby>スケール",
       "<ruby>表情<rt>ひょうじょう</rt></ruby><ruby>評価<rt>ひょうか</rt></ruby>スケール",
-      "<ruby>数値<rt>すうち</rt></ruby><ruby>評価<rt>ひょうか</rt></ruby>スケール",
       "<ruby>語句<rt>ごく</rt></ruby><ruby>評価<rt>ひょうか</rt></ruby>スケール",
-      "<ruby>長谷川式<rt>はせがわしき</rt></ruby>スケール"
+      "<ruby>数値<rt>すうち</rt></ruby><ruby>評価<rt>ひょうか</rt></ruby>スケール"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "explanation": "<ruby>表情<rt>ひょうじょう</rt></ruby><ruby>評価<rt>ひょうか</rt></ruby>スケールは、0から5までのイラストを<ruby>見<rt>み</rt></ruby>せて<ruby>自分<rt>じぶん</rt></ruby>の<ruby>痛<rt>いた</rt></ruby>みに<ruby>最<rt>もっと</rt></ruby>も<ruby>近<rt>ちか</rt></ruby>い<ruby>表情<rt>ひょうじょう</rt></ruby>を<ruby>選<rt>えら</rt></ruby>んでもらうスケールです。",
     "keyword": "<ruby>表情<rt>ひょうじょう</rt></ruby><ruby>評価<rt>ひょうか</rt></ruby>スケール"
   },
@@ -575,12 +575,12 @@
     "topic_name": "<ruby>苦痛<rt>くつう</rt></ruby>の<ruby>緩和<rt>かんわ</rt></ruby>とペインスケール・<ruby>緩和<rt>かんわ</rt></ruby>ケア",
     "question": "<ruby>痛<rt>いた</rt></ruby>みのスケールのうち、「<ruby>痛<rt>いた</rt></ruby>みなし」を0、「<ruby>最<rt>もっと</rt></ruby>も<ruby>強<rt>つよ</rt></ruby>い<ruby>痛<rt>いた</rt></ruby>み」を10として<ruby>数字<rt>すうじ</rt></ruby>で<ruby>答<rt>こた</rt></ruby>えてもらう<ruby>方法<rt>ほうほう</rt></ruby>はどれか。",
     "choices": [
-      "<ruby>数値<rt>すうち</rt></ruby><ruby>評価<rt>ひょうか</rt></ruby>スケール",
       "<ruby>表情<rt>ひょうじょう</rt></ruby><ruby>評価<rt>ひょうか</rt></ruby>スケール",
-      "<ruby>語句<rt>ごく</rt></ruby><ruby>評価<rt>ひょうか</rt></ruby>スケール",
-      "<ruby>視覚的<rt>しかくてき</rt></ruby>スケール"
+      "<ruby>数値<rt>すうち</rt></ruby><ruby>評価<rt>ひょうか</rt></ruby>スケール",
+      "<ruby>視覚的<rt>しかくてき</rt></ruby>スケール",
+      "<ruby>語句<rt>ごく</rt></ruby><ruby>評価<rt>ひょうか</rt></ruby>スケール"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "explanation": "<ruby>数値<rt>すうち</rt></ruby><ruby>評価<rt>ひょうか</rt></ruby>スケールは、0（<ruby>痛<rt>いた</rt></ruby>みなし）から10（<ruby>最<rt>もっと</rt></ruby>も<ruby>強<rt>つよ</rt></ruby>い<ruby>痛<rt>いた</rt></ruby>み）の11<ruby>段階<rt>だんかい</rt></ruby>の<ruby>数値<rt>すうち</rt></ruby>で<ruby>痛<rt>いた</rt></ruby>みを<ruby>表現<rt>ひょうげん</rt></ruby>してもらうツールです。",
     "keyword": "<ruby>数値<rt>すうち</rt></ruby><ruby>評価<rt>ひょうか</rt></ruby>スケール"
   },
@@ -590,12 +590,12 @@
     "topic_name": "<ruby>苦痛<rt>くつう</rt></ruby>の<ruby>緩和<rt>かんわ</rt></ruby>とペインスケール・<ruby>緩和<rt>かんわ</rt></ruby>ケア",
     "question": "<ruby>痛<rt>いた</rt></ruby>みのスケール（ペインスケール）を<ruby>使用<rt>しよう</rt></ruby>する<ruby>際<rt>さい</rt></ruby>の<ruby>注意点<rt>ちゅういてん</rt></ruby>として、<ruby>教科書<rt>きょうかしょ</rt></ruby>が<ruby>強調<rt>きょうちょう</rt></ruby>していることはどれか。",
     "choices": [
-      "<ruby>本人<rt>ほんにん</rt></ruby>が<ruby>感<rt>かん</rt></ruby>じている<ruby>本人<rt>ほんにん</rt></ruby>の<ruby>痛<rt>いた</rt></ruby>みの<ruby>比較<rt>ひかく</rt></ruby>であり、<ruby>他者<rt>たしゃ</rt></ruby>と<ruby>比較<rt>ひかく</rt></ruby>することはできない",
-      "<ruby>同<rt>おな</rt></ruby>じ<ruby>病名<rt>びょうめい</rt></ruby>の<ruby>他<rt>ほか</rt></ruby>の<ruby>患者<rt>かんじゃ</rt></ruby>と<ruby>数値<rt>すうち</rt></ruby>を<ruby>比<rt>くら</rt></ruby>べて、<ruby>大<rt>おお</rt></ruby>げさかどうかを<ruby>見極<rt>みきわ</rt></ruby>めるために<ruby>使<rt>つか</rt></ruby>う",
       "<ruby>数値<rt>すうち</rt></ruby>が5<ruby>以上<rt>いじょう</rt></ruby>になるまでは、いかなる<ruby>鎮痛薬<rt>ちんつうやく</rt></ruby>も<ruby>使<rt>つか</rt></ruby>ってはならない",
-      "<ruby>家族<rt>かぞく</rt></ruby>が<ruby>代<rt>か</rt></ruby>わりに<ruby>数字<rt>すうじ</rt></ruby>を<ruby>決<rt>き</rt></ruby>めるべきであり、<ruby>本人<rt>ほんにん</rt></ruby>に<ruby>聞<rt>き</rt></ruby>いてはならない"
+      "<ruby>家族<rt>かぞく</rt></ruby>が<ruby>代<rt>か</rt></ruby>わりに<ruby>数字<rt>すうじ</rt></ruby>を<ruby>決<rt>き</rt></ruby>めるべきであり、<ruby>本人<rt>ほんにん</rt></ruby>に<ruby>聞<rt>き</rt></ruby>いてはならない",
+      "<ruby>本人<rt>ほんにん</rt></ruby>が<ruby>感<rt>かん</rt></ruby>じている<ruby>本人<rt>ほんにん</rt></ruby>の<ruby>痛<rt>いた</rt></ruby>みの<ruby>比較<rt>ひかく</rt></ruby>であり、<ruby>他者<rt>たしゃ</rt></ruby>と<ruby>比較<rt>ひかく</rt></ruby>することはできない",
+      "<ruby>同<rt>おな</rt></ruby>じ<ruby>病名<rt>びょうめい</rt></ruby>の<ruby>他<rt>ほか</rt></ruby>の<ruby>患者<rt>かんじゃ</rt></ruby>と<ruby>数値<rt>すうち</rt></ruby>を<ruby>比<rt>くら</rt></ruby>べて、<ruby>大<rt>おお</rt></ruby>げさかどうかを<ruby>見極<rt>みきわ</rt></ruby>めるために<ruby>使<rt>つか</rt></ruby>う"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "explanation": "ペインスケールは「<ruby>昨日<rt>きのう</rt></ruby>は4だったけれど<ruby>今日<rt>きょう</rt></ruby>は2で<ruby>楽<rt>らく</rt></ruby>」というように、あくまで<ruby>本人<rt>ほんにん</rt></ruby>が<ruby>感<rt>かん</rt></ruby>じている<ruby>本人<rt>ほんにん</rt></ruby>の<ruby>痛<rt>いた</rt></ruby>みの<ruby>比較<rt>ひかく</rt></ruby>であり、<ruby>他者<rt>たしゃ</rt></ruby>と<ruby>比較<rt>ひかく</rt></ruby>することはできません。",
     "keyword": "ペインスケールの<ruby>活用<rt>かつよう</rt></ruby>"
   },
@@ -605,12 +605,12 @@
     "topic_name": "<ruby>苦痛<rt>くつう</rt></ruby>の<ruby>緩和<rt>かんわ</rt></ruby>とペインスケール・<ruby>緩和<rt>かんわ</rt></ruby>ケア",
     "question": "「<ruby>緩和<rt>かんわ</rt></ruby>ケア」についての<ruby>説明<rt>せつめい</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものはどれか。",
     "choices": [
-      "<ruby>身体<rt>からだ</rt></ruby>の<ruby>痛<rt>いた</rt></ruby>みだけでなく、こころの<ruby>痛<rt>いた</rt></ruby>み、<ruby>社会<rt>しゃかい</rt></ruby>で<ruby>生活<rt>せいかつ</rt></ruby>するうえでの<ruby>困難<rt>こんなん</rt></ruby>をやわらげ、その<ruby>人<rt>ひと</rt></ruby>らしく<ruby>生<rt>い</rt></ruby>きていくためのケア",
       "<ruby>死<rt>し</rt></ruby>の<ruby>直前<rt>ちょくぜん</rt></ruby>の<ruby>数時間<rt>すうじかん</rt></ruby>だけに<ruby>限定<rt>げんてい</rt></ruby>して<ruby>行<rt>おこな</rt></ruby>われる<ruby>特殊<rt>とくしゅ</rt></ruby>な<ruby>医療<rt>いりょう</rt></ruby><ruby>行為<rt>こうい</rt></ruby>",
       "<ruby>積極的<rt>せっきょくてき</rt></ruby>な<ruby>治療<rt>ちりょう</rt></ruby>をすべて<ruby>諦<rt>あきら</rt></ruby>めさせ、<ruby>何<rt>なに</rt></ruby>もせずに<ruby>放置<rt>ほうち</rt></ruby>すること",
-      "<ruby>病院<rt>びょういん</rt></ruby>の<ruby>特定<rt>とくてい</rt></ruby>の<ruby>病棟<rt>びょうとう</rt></ruby>でしか<ruby>受<rt>う</rt></ruby>けることができない<ruby>高額<rt>こうがく</rt></ruby>な<ruby>自由<rt>じゆう</rt></ruby><ruby>診療<rt>しんりょう</rt></ruby>"
+      "<ruby>病院<rt>びょういん</rt></ruby>の<ruby>特定<rt>とくてい</rt></ruby>の<ruby>病棟<rt>びょうとう</rt></ruby>でしか<ruby>受<rt>う</rt></ruby>けることができない<ruby>高額<rt>こうがく</rt></ruby>な<ruby>自由<rt>じゆう</rt></ruby><ruby>診療<rt>しんりょう</rt></ruby>",
+      "<ruby>身体<rt>からだ</rt></ruby>の<ruby>痛<rt>いた</rt></ruby>みだけでなく、こころの<ruby>痛<rt>いた</rt></ruby>み、<ruby>社会<rt>しゃかい</rt></ruby>で<ruby>生活<rt>せいかつ</rt></ruby>するうえでの<ruby>困難<rt>こんなん</rt></ruby>をやわらげ、その<ruby>人<rt>ひと</rt></ruby>らしく<ruby>生<rt>い</rt></ruby>きていくためのケア"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "explanation": "<ruby>緩和<rt>かんわ</rt></ruby>ケアは、<ruby>身体<rt>からだ</rt></ruby>の<ruby>痛<rt>いた</rt></ruby>みだけでなく、こころの<ruby>痛<rt>いた</rt></ruby>み、<ruby>社会<rt>しゃかい</rt></ruby>で<ruby>生活<rt>せいかつ</rt></ruby>するうえでのあらゆる<ruby>痛<rt>いた</rt></ruby>みをやわらげながら、<ruby>本人<rt>ほんにん</rt></ruby>と<ruby>家族<rt>かぞく</rt></ruby>が<ruby>自分<rt>じぶん</rt></ruby>らしく<ruby>生<rt>い</rt></ruby>きていくためのケアのすべてをさします。",
     "keyword": "<ruby>緩和<rt>かんわ</rt></ruby>ケア"
   },
@@ -621,9 +621,9 @@
     "question": "<ruby>世界<rt>せかい</rt></ruby><ruby>保健<rt>ほけん</rt></ruby><ruby>機関<rt>きかん</rt></ruby>が<ruby>示<rt>しめ</rt></ruby>すがん<ruby>患者<rt>かんじゃ</rt></ruby>に<ruby>対<rt>たい</rt></ruby>する<ruby>疼痛<rt>とうつう</rt></ruby><ruby>治療<rt>ちりょう</rt></ruby>の<ruby>目標<rt>もくひょう</rt></ruby>はどれか。",
     "choices": [
       "<ruby>患者<rt>かんじゃ</rt></ruby>にとって<ruby>許容<rt>きょよう</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>生活<rt>せいかつ</rt></ruby>の<ruby>質<rt>しつ</rt></ruby>を<ruby>維持<rt>いじ</rt></ruby>できるレベルまで<ruby>痛<rt>いた</rt></ruby>みを<ruby>軽減<rt>けいげん</rt></ruby>する",
-      "<ruby>完全<rt>かんぜん</rt></ruby>に<ruby>意識<rt>いしき</rt></ruby>を<ruby>消失<rt>しょうしつ</rt></ruby>させて<ruby>深<rt>ふか</rt></ruby>い<ruby>昏睡<rt>こんすい</rt></ruby><ruby>状態<rt>じょうたい</rt></ruby>に<ruby>置<rt>お</rt></ruby>く",
+      "<ruby>痛<rt>いた</rt></ruby>みの<ruby>原因<rt>げんいん</rt></ruby>となっているがん<ruby>細胞<rt>さいぼう</rt></ruby>を100％<ruby>死滅<rt>しめつ</rt></ruby>させる",
       "<ruby>薬<rt>くすり</rt></ruby>を<ruby>一切<rt>いっさい</rt></ruby><ruby>使<rt>つか</rt></ruby>わずに<ruby>精神力<rt>せいしんりょく</rt></ruby>だけで<ruby>痛<rt>いた</rt></ruby>みを<ruby>克服<rt>こくふく</rt></ruby>させる",
-      "<ruby>痛<rt>いた</rt></ruby>みの<ruby>原因<rt>げんいん</rt></ruby>となっているがん<ruby>細胞<rt>さいぼう</rt></ruby>を100％<ruby>死滅<rt>しめつ</rt></ruby>させる"
+      "<ruby>完全<rt>かんぜん</rt></ruby>に<ruby>意識<rt>いしき</rt></ruby>を<ruby>消失<rt>しょうしつ</rt></ruby>させて<ruby>深<rt>ふか</rt></ruby>い<ruby>昏睡<rt>こんすい</rt></ruby><ruby>状態<rt>じょうたい</rt></ruby>に<ruby>置<rt>お</rt></ruby>く"
     ],
     "answer_index": 0,
     "explanation": "<ruby>世界<rt>せかい</rt></ruby><ruby>保健<rt>ほけん</rt></ruby><ruby>機関<rt>きかん</rt></ruby>のがん<ruby>疼痛<rt>とうつう</rt></ruby><ruby>治療<rt>ちりょう</rt></ruby>の<ruby>目標<rt>もくひょう</rt></ruby>は、「<ruby>患者<rt>かんじゃ</rt></ruby>にとって<ruby>許容<rt>きょよう</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>生活<rt>せいかつ</rt></ruby>の<ruby>質<rt>しつ</rt></ruby>を<ruby>維持<rt>いじ</rt></ruby>できるレベルまで<ruby>痛<rt>いた</rt></ruby>みを<ruby>軽減<rt>けいげん</rt></ruby>する」とされています。",
@@ -635,12 +635,12 @@
     "topic_name": "<ruby>苦痛<rt>くつう</rt></ruby>の<ruby>緩和<rt>かんわ</rt></ruby>とペインスケール・<ruby>緩和<rt>かんわ</rt></ruby>ケア",
     "question": "モルヒネなどのオピオイド<ruby>系<rt>けい</rt></ruby><ruby>鎮痛薬<rt>ちんつうやく</rt></ruby>の<ruby>副作用<rt>ふくさよう</rt></ruby>のうち、「ほとんどの<ruby>患者<rt>かんじゃ</rt></ruby>に<ruby>現<rt>あらわ</rt></ruby>れ、<ruby>使用<rt>しよう</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>はずっと<ruby>続<rt>つづ</rt></ruby>くため<ruby>下剤<rt>げざい</rt></ruby>が<ruby>処方<rt>しょほう</rt></ruby>される」ものはどれか。",
     "choices": [
-      "<ruby>便秘<rt>べんぴ</rt></ruby>",
-      "<ruby>脱毛<rt>だつもう</rt></ruby>",
       "<ruby>発疹<rt>ほっしん</rt></ruby>",
-      "<ruby>難聴<rt>なんちょう</rt></ruby>"
+      "<ruby>難聴<rt>なんちょう</rt></ruby>",
+      "<ruby>便秘<rt>べんぴ</rt></ruby>",
+      "<ruby>脱毛<rt>だつもう</rt></ruby>"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "explanation": "<ruby>教科書<rt>きょうかしょ</rt></ruby>の<ruby>表<rt>ひょう</rt></ruby>6-6に<ruby>示<rt>しめ</rt></ruby>されているとおり、モルヒネ<ruby>使用<rt>しよう</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>はほとんどの<ruby>患者<rt>かんじゃ</rt></ruby>が<ruby>便秘<rt>べんぴ</rt></ruby>となり、<ruby>使用<rt>しよう</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>は<ruby>続<rt>つづ</rt></ruby>くため、<ruby>最初<rt>さいしょ</rt></ruby>から<ruby>下剤<rt>げざい</rt></ruby>が<ruby>処方<rt>しょほう</rt></ruby>されて<ruby>便通<rt>べんつう</rt></ruby>を<ruby>整<rt>ととの</rt></ruby>えます。",
     "keyword": "モルヒネの<ruby>副作用<rt>ふくさよう</rt></ruby>（<ruby>便秘<rt>べんぴ</rt></ruby>）"
   },
@@ -650,12 +650,12 @@
     "topic_name": "<ruby>苦痛<rt>くつう</rt></ruby>の<ruby>緩和<rt>かんわ</rt></ruby>とペインスケール・<ruby>緩和<rt>かんわ</rt></ruby>ケア",
     "question": "モルヒネの<ruby>副作用<rt>ふくさよう</rt></ruby>である「<ruby>吐<rt>は</rt></ruby>き<ruby>気<rt>け</rt></ruby>」についての<ruby>説明<rt>せつめい</rt></ruby>として<ruby>適切<rt>てきせつ</rt></ruby>なものはどれか。",
     "choices": [
-      "<ruby>投与<rt>とうよ</rt></ruby><ruby>初期<rt>しょき</rt></ruby>や<ruby>増量<rt>ぞうりょう</rt></ruby><ruby>時<rt>じ</rt></ruby>にみられるが、1〜2<ruby>週間<rt>しゅうかん</rt></ruby>で<ruby>消失<rt>しょうしつ</rt></ruby>することが<ruby>多<rt>おお</rt></ruby>く、<ruby>制吐剤<rt>せいとざい</rt></ruby>で<ruby>抑<rt>おさ</rt></ruby>える",
-      "<ruby>一度<rt>いちど</rt></ruby><ruby>現<rt>あらわ</rt></ruby>れたら<ruby>一生<rt>いっしょう</rt></ruby><ruby>治<rt>なお</rt></ruby>らないため、ただちにモルヒネを<ruby>永久<rt>えいきゅう</rt></ruby><ruby>禁止<rt>きんし</rt></ruby>にする",
+      "<ruby>介護福祉職<rt>かいごふくししょく</rt></ruby>が<ruby>市販<rt>しはん</rt></ruby>の<ruby>胃腸薬<rt>いちょうやく</rt></ruby>を<ruby>自分<rt>じぶん</rt></ruby>の<ruby>判断<rt>はんだん</rt></ruby>で<ruby>飲<rt>の</rt></ruby>ませる",
       "<ruby>水分<rt>すいぶん</rt></ruby>を<ruby>完全<rt>かんぜん</rt></ruby>に<ruby>絶<rt>た</rt></ruby>つことによってのみ<ruby>予防<rt>よぼう</rt></ruby>できる",
-      "<ruby>介護福祉職<rt>かいごふくししょく</rt></ruby>が<ruby>市販<rt>しはん</rt></ruby>の<ruby>胃腸薬<rt>いちょうやく</rt></ruby>を<ruby>自分<rt>じぶん</rt></ruby>の<ruby>判断<rt>はんだん</rt></ruby>で<ruby>飲<rt>の</rt></ruby>ませる"
+      "<ruby>一度<rt>いちど</rt></ruby><ruby>現<rt>あらわ</rt></ruby>れたら<ruby>一生<rt>いっしょう</rt></ruby><ruby>治<rt>なお</rt></ruby>らないため、ただちにモルヒネを<ruby>永久<rt>えいきゅう</rt></ruby><ruby>禁止<rt>きんし</rt></ruby>にする",
+      "<ruby>投与<rt>とうよ</rt></ruby><ruby>初期<rt>しょき</rt></ruby>や<ruby>増量<rt>ぞうりょう</rt></ruby><ruby>時<rt>じ</rt></ruby>にみられるが、1〜2<ruby>週間<rt>しゅうかん</rt></ruby>で<ruby>消失<rt>しょうしつ</rt></ruby>することが<ruby>多<rt>おお</rt></ruby>く、<ruby>制吐剤<rt>せいとざい</rt></ruby>で<ruby>抑<rt>おさ</rt></ruby>える"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "explanation": "モルヒネ<ruby>開始<rt>かいし</rt></ruby><ruby>初期<rt>しょき</rt></ruby>や<ruby>増量<rt>ぞうりょう</rt></ruby><ruby>時<rt>じ</rt></ruby>に<ruby>吐<rt>は</rt></ruby>き<ruby>気<rt>け</rt></ruby>（<ruby>悪心<rt>おしん</rt></ruby>・<ruby>嘔吐<rt>おうと</rt></ruby>）がみられることがありますが、1〜2<ruby>週間<rt>しゅうかん</rt></ruby>で<ruby>消失<rt>しょうしつ</rt></ruby>することが<ruby>多<rt>おお</rt></ruby>く、<ruby>吐<rt>は</rt></ruby>き<ruby>気<rt>け</rt></ruby>を<ruby>抑<rt>おさ</rt></ruby>える<ruby>薬剤<rt>やくざい</rt></ruby>（<ruby>制吐剤<rt>せいとざい</rt></ruby>）を<ruby>併用<rt>へいよう</rt></ruby>してコントロールします。",
     "keyword": "モルヒネの<ruby>副作用<rt>ふくさよう</rt></ruby>（<ruby>吐<rt>は</rt></ruby>き<ruby>気<rt>け</rt></ruby>）"
   },
@@ -665,12 +665,12 @@
     "topic_name": "<ruby>臨死期<rt>りんしき</rt></ruby>の<ruby>兆候<rt>ちょうこう</rt></ruby>とケア・<ruby>家族<rt>かぞく</rt></ruby><ruby>支援<rt>しえん</rt></ruby>",
     "question": "<ruby>死<rt>し</rt></ruby>が<ruby>近<rt>ちか</rt></ruby>づいたときの<ruby>呼吸<rt>こきゅう</rt></ruby><ruby>状態<rt>じょうたい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>についての<ruby>説明<rt>せつめい</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものはどれか。",
     "choices": [
-      "<ruby>呼吸<rt>こきゅう</rt></ruby>のリズムや<ruby>深<rt>ふか</rt></ruby>さが<ruby>乱<rt>みだ</rt></ruby>れ、<ruby>無呼吸<rt>むこきゅう</rt></ruby>と<ruby>深<rt>ふか</rt></ruby>い<ruby>呼吸<rt>こきゅう</rt></ruby>をくり<ruby>返<rt>かえ</rt></ruby>すチェーンストークス<ruby>呼吸<rt>こきゅう</rt></ruby>などがみられる",
       "<ruby>呼吸<rt>こきゅう</rt></ruby>が<ruby>完全<rt>かんぜん</rt></ruby>に<ruby>規則的<rt>きそくてき</rt></ruby>になり、1<ruby>分間<rt>ぷんかん</rt></ruby>に60<ruby>回<rt>かい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>呼吸<rt>こきゅう</rt></ruby>が<ruby>永続<rt>えいぞく</rt></ruby>する",
       "<ruby>鼻呼吸<rt>はなこきゅう</rt></ruby>のみが<ruby>極端<rt>きょくたん</rt></ruby>に<ruby>強<rt>つよ</rt></ruby>まり、<ruby>胸郭<rt>きょうかく</rt></ruby>の<ruby>動<rt>うご</rt></ruby>きが<ruby>完全<rt>かんぜん</rt></ruby>に<ruby>静止<rt>せいし</rt></ruby>する",
+      "<ruby>呼吸<rt>こきゅう</rt></ruby>のリズムや<ruby>深<rt>ふか</rt></ruby>さが<ruby>乱<rt>みだ</rt></ruby>れ、<ruby>無呼吸<rt>むこきゅう</rt></ruby>と<ruby>深<rt>ふか</rt></ruby>い<ruby>呼吸<rt>こきゅう</rt></ruby>をくり<ruby>返<rt>かえ</rt></ruby>すチェーンストークス<ruby>呼吸<rt>こきゅう</rt></ruby>などがみられる",
       "<ruby>呼吸<rt>こきゅう</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>は<ruby>一切<rt>いっさい</rt></ruby><ruby>起<rt>お</rt></ruby>こらず、<ruby>心肺<rt>しんぱい</rt></ruby><ruby>停止<rt>ていし</rt></ruby>の<ruby>瞬間<rt>しゅんかん</rt></ruby>まで<ruby>健常者<rt>けんじょうしゃ</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じである"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "explanation": "<ruby>教科書<rt>きょうかしょ</rt></ruby>の<ruby>表<rt>ひょう</rt></ruby>6-9に<ruby>示<rt>しめ</rt></ruby>されているとおり、<ruby>死<rt>し</rt></ruby>が<ruby>近<rt>ちか</rt></ruby>づくと<ruby>呼吸<rt>こきゅう</rt></ruby>のリズムや<ruby>深<rt>ふか</rt></ruby>さが<ruby>乱<rt>みだ</rt></ruby>れ、<ruby>浅<rt>あさ</rt></ruby>い<ruby>呼吸<rt>こきゅう</rt></ruby>から<ruby>深<rt>ふか</rt></ruby>い<ruby>呼吸<rt>こきゅう</rt></ruby>となって<ruby>無呼吸<rt>むこきゅう</rt></ruby>（10〜20<ruby>秒<rt>びょう</rt></ruby>）をくり<ruby>返<rt>かえ</rt></ruby>すチェーンストークス<ruby>呼吸<rt>こきゅう</rt></ruby>や、<ruby>肩<rt>かた</rt></ruby><ruby>呼吸<rt>こきゅう</rt></ruby>などがみられます。",
     "keyword": "<ruby>呼吸<rt>こきゅう</rt></ruby>の<ruby>乱<rt>みだ</rt></ruby>れとチェーンストークス<ruby>呼吸<rt>こきゅう</rt></ruby>"
   },
@@ -680,12 +680,12 @@
     "topic_name": "<ruby>臨死期<rt>りんしき</rt></ruby>の<ruby>兆候<rt>ちょうこう</rt></ruby>とケア・<ruby>家族<rt>かぞく</rt></ruby><ruby>支援<rt>しえん</rt></ruby>",
     "question": "「<ruby>下顎<rt>かがく</rt></ruby><ruby>呼吸<rt>こきゅう</rt></ruby>」についての<ruby>説明<rt>せつめい</rt></ruby>として<ruby>適切<rt>てきせつ</rt></ruby>なものはどれか。",
     "choices": [
-      "<ruby>下顎<rt>したあご</rt></ruby>を<ruby>動<rt>うご</rt></ruby>かして<ruby>口<rt>くち</rt></ruby>をパクパクさせるような<ruby>呼吸<rt>こきゅう</rt></ruby>で、<ruby>死<rt>し</rt></ruby>が<ruby>時間<rt>じかん</rt></ruby><ruby>単位<rt>たんい</rt></ruby>でせまっていることを<ruby>示<rt>しめ</rt></ruby>す",
       "<ruby>顎<rt>あご</rt></ruby>を<ruby>右<rt>みぎ</rt></ruby>と<ruby>左<rt>ひだり</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きくスライドさせる<ruby>咀嚼<rt>そしゃく</rt></ruby><ruby>運動<rt>うんどう</rt></ruby>のこと",
       "<ruby>会話<rt>かいわ</rt></ruby>への<ruby>意欲<rt>いよく</rt></ruby>が<ruby>高<rt>たか</rt></ruby>まり、<ruby>声<rt>こえ</rt></ruby>を<ruby>出<rt>だ</rt></ruby>そうとしている<ruby>回復<rt>かいふく</rt></ruby>のサイン",
-      "<ruby>人工<rt>じんこう</rt></ruby><ruby>呼吸器<rt>こきゅうき</rt></ruby>のチューブが<ruby>外<rt>はず</rt></ruby>れかかっていることによる<ruby>機械的<rt>きかいてき</rt></ruby>なエラー"
+      "<ruby>人工<rt>じんこう</rt></ruby><ruby>呼吸器<rt>こきゅうき</rt></ruby>のチューブが<ruby>外<rt>はず</rt></ruby>れかかっていることによる<ruby>機械的<rt>きかいてき</rt></ruby>なエラー",
+      "<ruby>下顎<rt>したあご</rt></ruby>を<ruby>動<rt>うご</rt></ruby>かして<ruby>口<rt>くち</rt></ruby>をパクパクさせるような<ruby>呼吸<rt>こきゅう</rt></ruby>で、<ruby>死<rt>し</rt></ruby>が<ruby>時間<rt>じかん</rt></ruby><ruby>単位<rt>たんい</rt></ruby>でせまっていることを<ruby>示<rt>しめ</rt></ruby>す"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "explanation": "<ruby>下顎<rt>かがく</rt></ruby><ruby>呼吸<rt>こきゅう</rt></ruby>とは、<ruby>下顎<rt>したあご</rt></ruby>を<ruby>上下<rt>じょうげ</rt></ruby>に<ruby>動<rt>うご</rt></ruby>かして<ruby>口<rt>くち</rt></ruby>をパクパクさせる<ruby>非効率<rt>ひこうりつ</rt></ruby>な<ruby>呼吸<rt>こきゅう</rt></ruby>であり、<ruby>死<rt>し</rt></ruby>が<ruby>時間<rt>じかん</rt></ruby><ruby>単位<rt>たんい</rt></ruby>で<ruby>差<rt>さ</rt></ruby>し<ruby>迫<rt>せま</rt></ruby>っている<ruby>臨死期<rt>りんしき</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby>なサインです。",
     "keyword": "<ruby>下顎<rt>かがく</rt></ruby><ruby>呼吸<rt>こきゅう</rt></ruby>"
   },
@@ -695,12 +695,12 @@
     "topic_name": "<ruby>臨死期<rt>りんしき</rt></ruby>の<ruby>兆候<rt>ちょうこう</rt></ruby>とケア・<ruby>家族<rt>かぞく</rt></ruby><ruby>支援<rt>しえん</rt></ruby>",
     "question": "<ruby>臨死期<rt>りんしき</rt></ruby>にみられる「<ruby>死前<rt>しぜん</rt></ruby><ruby>喘鳴<rt>ぜんめい</rt></ruby>（ゴロゴロという<ruby>呼吸音<rt>こきゅうおん</rt></ruby>）」の<ruby>成因<rt>せいいん</rt></ruby>はどれか。",
     "choices": [
-      "<ruby>下咽頭<rt>かいんとう</rt></ruby>や<ruby>気道<rt>きどう</rt></ruby>に<ruby>分泌物<rt>ぶんぴつぶつ</rt></ruby>や<ruby>唾液<rt>だえき</rt></ruby>がたまることによるもの",
-      "<ruby>肋骨<rt>ろっこつ</rt></ruby>が<ruby>骨折<rt>こっせつ</rt></ruby>して<ruby>肺<rt>はい</rt></ruby>を<ruby>圧迫<rt>あっぱく</rt></ruby>していることによるもの",
       "<ruby>胃<rt>い</rt></ruby>のなかの<ruby>消化液<rt>しょうかえき</rt></ruby>が<ruby>沸騰<rt>ふっとう</rt></ruby>していることによるもの",
-      "<ruby>睡眠時<rt>すいみんじ</rt></ruby>の<ruby>単<rt>たん</rt></ruby>なるいびきであり、<ruby>健康<rt>けんこう</rt></ruby>の<ruby>証<rt>あかし</rt></ruby>である"
+      "<ruby>睡眠時<rt>すいみんじ</rt></ruby>の<ruby>単<rt>たん</rt></ruby>なるいびきであり、<ruby>健康<rt>けんこう</rt></ruby>の<ruby>証<rt>あかし</rt></ruby>である",
+      "<ruby>下咽頭<rt>かいんとう</rt></ruby>や<ruby>気道<rt>きどう</rt></ruby>に<ruby>分泌物<rt>ぶんぴつぶつ</rt></ruby>や<ruby>唾液<rt>だえき</rt></ruby>がたまることによるもの",
+      "<ruby>肋骨<rt>ろっこつ</rt></ruby>が<ruby>骨折<rt>こっせつ</rt></ruby>して<ruby>肺<rt>はい</rt></ruby>を<ruby>圧迫<rt>あっぱく</rt></ruby>していることによるもの"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "explanation": "<ruby>嚥下<rt>えんげ</rt></ruby><ruby>機能<rt>きのう</rt></ruby>や<ruby>咳嗽<rt>がいそう</rt></ruby><ruby>反射<rt>はんしゃ</rt></ruby>が<ruby>低下<rt>ていか</rt></ruby>することで、<ruby>下咽頭<rt>かいんとう</rt></ruby>や<ruby>気道<rt>きどう</rt></ruby>に<ruby>分泌物<rt>ぶんぴつぶつ</rt></ruby>がたまり、<ruby>呼吸<rt>こきゅう</rt></ruby>のたびに「ゴロゴロ」と<ruby>喘鳴<rt>ぜんめい</rt></ruby>が<ruby>聞<rt>き</rt></ruby>こえるようになります。",
     "keyword": "<ruby>死前<rt>しぜん</rt></ruby><ruby>喘鳴<rt>ぜんめい</rt></ruby>"
   },
@@ -712,8 +712,8 @@
     "choices": [
       "<ruby>四肢<rt>しし</rt></ruby><ruby>末梢<rt>まっしょう</rt></ruby>が<ruby>冷<rt>つめ</rt></ruby>たくなり、<ruby>唇<rt>くちびる</rt></ruby>や<ruby>爪<rt>つめ</rt></ruby>にチアノーゼが<ruby>出現<rt>しゅつげん</rt></ruby>し、<ruby>背部<rt>はいぶ</rt></ruby>や<ruby>手足<rt>てあし</rt></ruby>に<ruby>浮腫<rt>ふしゅ</rt></ruby>が<ruby>生<rt>しょう</rt></ruby>じる",
       "<ruby>全身<rt>ぜんしん</rt></ruby>の<ruby>皮膚<rt>ひふ</rt></ruby>が<ruby>赤<rt>あか</rt></ruby>く<ruby>充血<rt>じゅうけつ</rt></ruby>し、<ruby>手足<rt>てあし</rt></ruby>の<ruby>先<rt>さき</rt></ruby>まで<ruby>熱<rt>あつ</rt></ruby>くなる",
-      "<ruby>脈拍<rt>みゃくはく</rt></ruby>が<ruby>強大<rt>きょうだい</rt></ruby>になり、<ruby>血圧<rt>けつあつ</rt></ruby>が200<ruby>以上<rt>いじょう</rt></ruby>に<ruby>跳<rt>は</rt></ruby>ね<ruby>上<rt>あ</rt></ruby>がる",
-      "<ruby>尿<rt>にょう</rt></ruby>や<ruby>便<rt>べん</rt></ruby>の<ruby>量<rt>りょう</rt></ruby>が1<ruby>日<rt>にち</rt></ruby>5リットル<ruby>以上<rt>いじょう</rt></ruby>に<ruby>急増<rt>きゅうぞう</rt></ruby>する"
+      "<ruby>尿<rt>にょう</rt></ruby>や<ruby>便<rt>べん</rt></ruby>の<ruby>量<rt>りょう</rt></ruby>が1<ruby>日<rt>にち</rt></ruby>5リットル<ruby>以上<rt>いじょう</rt></ruby>に<ruby>急増<rt>きゅうぞう</rt></ruby>する",
+      "<ruby>脈拍<rt>みゃくはく</rt></ruby>が<ruby>強大<rt>きょうだい</rt></ruby>になり、<ruby>血圧<rt>けつあつ</rt></ruby>が200<ruby>以上<rt>いじょう</rt></ruby>に<ruby>跳<rt>は</rt></ruby>ね<ruby>上<rt>あ</rt></ruby>がる"
     ],
     "answer_index": 0,
     "explanation": "<ruby>循環<rt>じゅんかん</rt></ruby><ruby>不全<rt>ふぜん</rt></ruby>の<ruby>進行<rt>しんこう</rt></ruby>により、<ruby>四肢<rt>しし</rt></ruby><ruby>末梢<rt>まっしょう</rt></ruby>が<ruby>冷<rt>つめ</rt></ruby>たくなり、<ruby>口唇<rt>こうしん</rt></ruby>や<ruby>爪<rt>つめ</rt></ruby>、<ruby>皮膚<rt>ひふ</rt></ruby>が<ruby>青紫色<rt>あおむらさきいろ</rt></ruby>になるチアノーゼが<ruby>現<rt>あらわ</rt></ruby>れます。また<ruby>浮腫<rt>ふしゅ</rt></ruby>や<ruby>失禁<rt>しっきん</rt></ruby>、<ruby>尿量<rt>にょうりょう</rt></ruby><ruby>減少<rt>げんしょう</rt></ruby>などがみられます。",
@@ -725,12 +725,12 @@
     "topic_name": "<ruby>臨死期<rt>りんしき</rt></ruby>の<ruby>兆候<rt>ちょうこう</rt></ruby>とケア・<ruby>家族<rt>かぞく</rt></ruby><ruby>支援<rt>しえん</rt></ruby>",
     "question": "<ruby>臨死期<rt>りんしき</rt></ruby>に<ruby>意識<rt>いしき</rt></ruby>レベルが<ruby>低下<rt>ていか</rt></ruby>している<ruby>状態<rt>じょうたい</rt></ruby>であっても、「<ruby>最期<rt>さいご</rt></ruby>まで<ruby>残<rt>のこ</rt></ruby>る」といわれている<ruby>感覚<rt>かんかく</rt></ruby>はどれか。",
     "choices": [
+      "<ruby>味覚<rt>みかく</rt></ruby>と<ruby>咀嚼力<rt>そしゃくりょく</rt></ruby>",
       "<ruby>聴覚<rt>ちょうかく</rt></ruby>と<ruby>触覚<rt>しょっかく</rt></ruby>",
       "<ruby>視力<rt>しりょく</rt></ruby>と<ruby>遠近感<rt>えんきんかん</rt></ruby>",
-      "<ruby>味覚<rt>みかく</rt></ruby>と<ruby>咀嚼力<rt>そしゃくりょく</rt></ruby>",
       "<ruby>平衡<rt>へいこう</rt></ruby><ruby>感覚<rt>かんかく</rt></ruby>と<ruby>温度<rt>おんど</rt></ruby><ruby>感覚<rt>かんかく</rt></ruby>"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "explanation": "<ruby>死<rt>し</rt></ruby>が<ruby>近<rt>ちか</rt></ruby>づいて<ruby>意識<rt>いしき</rt></ruby>がぼんやりしていても、<ruby>聴覚<rt>ちょうかく</rt></ruby>（<ruby>聞<rt>き</rt></ruby>く<ruby>力<rt>ちから</rt></ruby>）と<ruby>触覚<rt>しょっかく</rt></ruby>（<ruby>皮膚<rt>ひふ</rt></ruby>にふれる<ruby>感覚<rt>かんかく</rt></ruby>）は<ruby>最期<rt>さいご</rt></ruby>まで<ruby>残<rt>のこ</rt></ruby>るといわれています。",
     "keyword": "<ruby>聴覚<rt>ちょうかく</rt></ruby>と<ruby>触覚<rt>しょっかく</rt></ruby>"
   },
@@ -740,12 +740,12 @@
     "topic_name": "<ruby>臨死期<rt>りんしき</rt></ruby>の<ruby>兆候<rt>ちょうこう</rt></ruby>とケア・<ruby>家族<rt>かぞく</rt></ruby><ruby>支援<rt>しえん</rt></ruby>",
     "question": "<ruby>聴覚<rt>ちょうかく</rt></ruby>や<ruby>触覚<rt>しょっかく</rt></ruby>が<ruby>最期<rt>さいご</rt></ruby>まで<ruby>残<rt>のこ</rt></ruby>ることをふまえた、<ruby>家族<rt>かぞく</rt></ruby>への<ruby>介護福祉職<rt>かいごふくししょく</rt></ruby>の<ruby>声<rt>こえ</rt></ruby>かけとして<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものはどれか。",
     "choices": [
-      "「<ruby>声<rt>こえ</rt></ruby>かけや、<ruby>手<rt>て</rt></ruby>をにぎるなどのスキンシップは、<ruby>本人<rt>ほんにん</rt></ruby>にしっかり<ruby>届<rt>とど</rt></ruby>いていますよ」と<ruby>伝<rt>つた</rt></ruby>える",
-      "「もう<ruby>意識<rt>いしき</rt></ruby>がないので、<ruby>話<rt>はな</rt></ruby>しかけてもまったく<ruby>無駄<rt>むだ</rt></ruby>ですよ」と<ruby>話<rt>はな</rt></ruby>す",
       "「<ruby>手<rt>て</rt></ruby>をにぎるとばい<ruby>菌<rt>きん</rt></ruby>がつくので、<ruby>触<rt>さわ</rt></ruby>らないでください」と<ruby>注意<rt>ちゅうい</rt></ruby>する",
-      "「<ruby>返事<rt>へんじ</rt></ruby>ができるまで、もっと<ruby>耳元<rt>みみもと</rt></ruby>で<ruby>大声<rt>おおごえ</rt></ruby>を<ruby>出<rt>だ</rt></ruby>してください」と<ruby>求<rt>もと</rt></ruby>める"
+      "「もう<ruby>意識<rt>いしき</rt></ruby>がないので、<ruby>話<rt>はな</rt></ruby>しかけてもまったく<ruby>無駄<rt>むだ</rt></ruby>ですよ」と<ruby>話<rt>はな</rt></ruby>す",
+      "「<ruby>返事<rt>へんじ</rt></ruby>ができるまで、もっと<ruby>耳元<rt>みみもと</rt></ruby>で<ruby>大声<rt>おおごえ</rt></ruby>を<ruby>出<rt>だ</rt></ruby>してください」と<ruby>求<rt>もと</rt></ruby>める",
+      "「<ruby>声<rt>こえ</rt></ruby>かけや、<ruby>手<rt>て</rt></ruby>をにぎるなどのスキンシップは、<ruby>本人<rt>ほんにん</rt></ruby>にしっかり<ruby>届<rt>とど</rt></ruby>いていますよ」と<ruby>伝<rt>つた</rt></ruby>える"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "explanation": "<ruby>聴覚<rt>ちょうかく</rt></ruby>と<ruby>触覚<rt>しょっかく</rt></ruby>が<ruby>最期<rt>さいご</rt></ruby>まで<ruby>残<rt>のこ</rt></ruby>ることを<ruby>家族<rt>かぞく</rt></ruby>に<ruby>伝<rt>つた</rt></ruby>え、「<ruby>声<rt>こえ</rt></ruby>かけや<ruby>手<rt>て</rt></ruby>をにぎるなどの<ruby>刺激<rt>しげき</rt></ruby>は<ruby>本人<rt>ほんにん</rt></ruby>に<ruby>届<rt>とど</rt></ruby>いている」と<ruby>伝<rt>つた</rt></ruby>えることで、<ruby>家族<rt>かぞく</rt></ruby>が<ruby>後悔<rt>こうかい</rt></ruby>のないお<ruby>別<rt>わか</rt></ruby>れの<ruby>時間<rt>じかん</rt></ruby>を<ruby>過<rt>す</rt></ruby>ごせるようにします。",
     "keyword": "<ruby>家族<rt>かぞく</rt></ruby>への<ruby>助言<rt>じょげん</rt></ruby>"
   },
@@ -756,9 +756,9 @@
     "question": "<ruby>臨死期<rt>りんしき</rt></ruby>における「<ruby>体位<rt>たいい</rt></ruby>の<ruby>工夫<rt>くふう</rt></ruby>」についての<ruby>説明<rt>せつめい</rt></ruby>として<ruby>適切<rt>てきせつ</rt></ruby>なものはどれか。",
     "choices": [
       "<ruby>同一<rt>どういつ</rt></ruby><ruby>体位<rt>たいい</rt></ruby>による<ruby>局所<rt>きょくしょ</rt></ruby>の<ruby>圧迫<rt>あっぱく</rt></ruby>を<ruby>最小限<rt>さいしょうげん</rt></ruby>にするため、<ruby>振動<rt>しんどう</rt></ruby>を<ruby>与<rt>あた</rt></ruby>えないよう<ruby>静<rt>しず</rt></ruby>かに<ruby>体位<rt>たいい</rt></ruby><ruby>変換<rt>へんかん</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う",
+      "<ruby>除圧<rt>じょあつ</rt></ruby><ruby>機能<rt>きのう</rt></ruby>のあるマットレスやエアマットの<ruby>使用<rt>しよう</rt></ruby>は<ruby>禁止<rt>きんし</rt></ruby>する",
       "2<ruby>時間<rt>じかん</rt></ruby>ごとに<ruby>勢<rt>いきお</rt></ruby>いよく<ruby>身体<rt>からだ</rt></ruby>をひっくり<ruby>返<rt>かえ</rt></ruby>して<ruby>刺激<rt>しげき</rt></ruby>を<ruby>与<rt>あた</rt></ruby>える",
-      "<ruby>体位<rt>たいい</rt></ruby><ruby>変換<rt>へんかん</rt></ruby>は<ruby>危<rt>あぶ</rt></ruby>ないので、<ruby>亡<rt>な</rt></ruby>くなるまで<ruby>絶対<rt>ぜったい</rt></ruby>に<ruby>身体<rt>からだ</rt></ruby>を<ruby>動<rt>うご</rt></ruby>かさない",
-      "<ruby>除圧<rt>じょあつ</rt></ruby><ruby>機能<rt>きのう</rt></ruby>のあるマットレスやエアマットの<ruby>使用<rt>しよう</rt></ruby>は<ruby>禁止<rt>きんし</rt></ruby>する"
+      "<ruby>体位<rt>たいい</rt></ruby><ruby>変換<rt>へんかん</rt></ruby>は<ruby>危<rt>あぶ</rt></ruby>ないので、<ruby>亡<rt>な</rt></ruby>くなるまで<ruby>絶対<rt>ぜったい</rt></ruby>に<ruby>身体<rt>からだ</rt></ruby>を<ruby>動<rt>うご</rt></ruby>かさない"
     ],
     "answer_index": 0,
     "explanation": "<ruby>局所<rt>きょくしょ</rt></ruby>の<ruby>圧迫<rt>あっぱく</rt></ruby>による<ruby>痛<rt>いた</rt></ruby>みや<ruby>褥瘡<rt>じょくそう</rt></ruby>を<ruby>防<rt>ふせ</rt></ruby>ぐため、<ruby>適宜<rt>てきぎ</rt></ruby><ruby>体位<rt>たいい</rt></ruby><ruby>変換<rt>へんかん</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>いますが、このときは<ruby>振動<rt>しんどう</rt></ruby>を<ruby>与<rt>あた</rt></ruby>えないよう<ruby>静<rt>しず</rt></ruby>かに<ruby>行<rt>おこな</rt></ruby>い、エアマットなども<ruby>活用<rt>かつよう</rt></ruby>します。",
@@ -770,12 +770,12 @@
     "topic_name": "<ruby>臨死期<rt>りんしき</rt></ruby>の<ruby>兆候<rt>ちょうこう</rt></ruby>とケア・<ruby>家族<rt>かぞく</rt></ruby><ruby>支援<rt>しえん</rt></ruby>",
     "question": "<ruby>死<rt>し</rt></ruby>が<ruby>近<rt>ちか</rt></ruby>づいた<ruby>時期<rt>じき</rt></ruby>の「<ruby>環境<rt>かんきょう</rt></ruby><ruby>整備<rt>せいび</rt></ruby>」についての<ruby>説明<rt>せつめい</rt></ruby>として<ruby>適切<rt>てきせつ</rt></ruby>なものはどれか。",
     "choices": [
-      "<ruby>利用者<rt>りようしゃ</rt></ruby>が<ruby>好<rt>す</rt></ruby>きな<ruby>音楽<rt>おんがく</rt></ruby>を<ruby>流<rt>なが</rt></ruby>したり、<ruby>家族<rt>かぞく</rt></ruby>とともに<ruby>気兼<rt>きが</rt></ruby>ねなく<ruby>過<rt>す</rt></ruby>ごせるような<ruby>個室<rt>こしつ</rt></ruby><ruby>環境<rt>かんきょう</rt></ruby>を<ruby>整<rt>ととの</rt></ruby>える",
       "<ruby>部屋<rt>へや</rt></ruby>の<ruby>照明<rt>しょうめい</rt></ruby>を<ruby>最大<rt>さいだい</rt></ruby><ruby>光量<rt>こうりょう</rt></ruby>で<ruby>点灯<rt>てんとう</rt></ruby>させ、テレビを<ruby>大音量<rt>だいおんりょう</rt></ruby>で<ruby>流<rt>なが</rt></ruby>し<ruby>続<rt>つづ</rt></ruby>ける",
+      "<ruby>利用者<rt>りようしゃ</rt></ruby>が<ruby>好<rt>す</rt></ruby>きな<ruby>音楽<rt>おんがく</rt></ruby>を<ruby>流<rt>なが</rt></ruby>したり、<ruby>家族<rt>かぞく</rt></ruby>とともに<ruby>気兼<rt>きが</rt></ruby>ねなく<ruby>過<rt>す</rt></ruby>ごせるような<ruby>個室<rt>こしつ</rt></ruby><ruby>環境<rt>かんきょう</rt></ruby>を<ruby>整<rt>ととの</rt></ruby>える",
       "<ruby>面会<rt>めんかい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>を1<ruby>日<rt>にち</rt></ruby>1<ruby>分<rt>ぷん</rt></ruby>だけに<ruby>厳<rt>きび</rt></ruby>しく<ruby>制限<rt>せいげん</rt></ruby>する",
       "<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>私物<rt>しぶつ</rt></ruby>をすべて<ruby>部屋<rt>へや</rt></ruby>の<ruby>外<rt>そと</rt></ruby>に<ruby>撤去<rt>てっきょ</rt></ruby>して<ruby>何<rt>なに</rt></ruby>もない<ruby>部屋<rt>へや</rt></ruby>にする"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "explanation": "<ruby>居室内<rt>きょしつない</rt></ruby>で<ruby>過<rt>す</rt></ruby>ごすことが<ruby>多<rt>おお</rt></ruby>くなるため、<ruby>好<rt>す</rt></ruby>きな<ruby>音楽<rt>おんがく</rt></ruby>を<ruby>流<rt>なが</rt></ruby>したり、<ruby>残<rt>のこ</rt></ruby>された<ruby>時間<rt>じかん</rt></ruby>を<ruby>家族<rt>かぞく</rt></ruby>とともに<ruby>気兼<rt>きが</rt></ruby>ねなく<ruby>過<rt>す</rt></ruby>ごせるよう、<ruby>個室<rt>こしつ</rt></ruby>などの<ruby>快適<rt>かいてき</rt></ruby>な<ruby>環境<rt>かんきょう</rt></ruby>を<ruby>整<rt>ととの</rt></ruby>えます。",
     "keyword": "<ruby>環境<rt>かんきょう</rt></ruby><ruby>整備<rt>せいび</rt></ruby>"
   },
@@ -786,9 +786,9 @@
     "question": "<ruby>急<rt>きゅう</rt></ruby>な<ruby>状態<rt>じょうたい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>備<rt>そな</rt></ruby>えて、あらかじめ<ruby>家族<rt>かぞく</rt></ruby>について<ruby>確認<rt>かくにん</rt></ruby>しておくべきこととして<ruby>適切<rt>てきせつ</rt></ruby>なものはどれか。",
     "choices": [
       "<ruby>連絡<rt>れんらく</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>（2〜3<ruby>人<rt>にん</rt></ruby>）、<ruby>日中<rt>にっちゅう</rt></ruby>・<ruby>夜間<rt>やかん</rt></ruby>の<ruby>連絡先<rt>れんらくさき</rt></ruby>、<ruby>交通<rt>こうつう</rt></ruby><ruby>手段<rt>しゅだん</rt></ruby>、<ruby>到着<rt>とうちゃく</rt></ruby>までの<ruby>所要<rt>しょよう</rt></ruby><ruby>時間<rt>じかん</rt></ruby>",
-      "<ruby>家族<rt>かぞく</rt></ruby>の<ruby>年収<rt>ねんしゅう</rt></ruby>や<ruby>貯金<rt>ちょきん</rt></ruby><ruby>残高<rt>ざんだか</rt></ruby>の<ruby>詳細<rt>しょうさい</rt></ruby>な<ruby>内訳<rt>うちわけ</rt></ruby>",
+      "<ruby>家族<rt>かぞく</rt></ruby>が<ruby>過去<rt>かこ</rt></ruby>に<ruby>受<rt>う</rt></ruby>けたすべての<ruby>予防<rt>よぼう</rt></ruby><ruby>接種<rt>せっしゅ</rt></ruby>の<ruby>証明書<rt>しょうめいしょ</rt></ruby>",
       "<ruby>家族<rt>かぞく</rt></ruby>の<ruby>最終<rt>さいしゅう</rt></ruby><ruby>学歴<rt>がくれき</rt></ruby>と<ruby>卒業<rt>そつぎょう</rt></ruby><ruby>証書<rt>しょうしょ</rt></ruby>のコピー",
-      "<ruby>家族<rt>かぞく</rt></ruby>が<ruby>過去<rt>かこ</rt></ruby>に<ruby>受<rt>う</rt></ruby>けたすべての<ruby>予防<rt>よぼう</rt></ruby><ruby>接種<rt>せっしゅ</rt></ruby>の<ruby>証明書<rt>しょうめいしょ</rt></ruby>"
+      "<ruby>家族<rt>かぞく</rt></ruby>の<ruby>年収<rt>ねんしゅう</rt></ruby>や<ruby>貯金<rt>ちょきん</rt></ruby><ruby>残高<rt>ざんだか</rt></ruby>の<ruby>詳細<rt>しょうさい</rt></ruby>な<ruby>内訳<rt>うちわけ</rt></ruby>"
     ],
     "answer_index": 0,
     "explanation": "<ruby>家族<rt>かぞく</rt></ruby>がいないときの<ruby>急<rt>きゅう</rt></ruby>な<ruby>変化<rt>へんか</rt></ruby>に<ruby>備<rt>そな</rt></ruby>え、<ruby>連絡<rt>れんらく</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>（2〜3<ruby>人<rt>にん</rt></ruby>）、<ruby>昼夜<rt>ちゅうや</rt></ruby>の<ruby>連絡先<rt>れんらくさき</rt></ruby>、<ruby>交通<rt>こうつう</rt></ruby><ruby>手段<rt>しゅだん</rt></ruby>や<ruby>到着<rt>とうちゃく</rt></ruby>までの<ruby>時間<rt>じかん</rt></ruby>をあらかじめ<ruby>把握<rt>はあく</rt></ruby>しておくことが<ruby>大切<rt>たいせつ</rt></ruby>です。",
@@ -800,12 +800,12 @@
     "topic_name": "<ruby>臨死期<rt>りんしき</rt></ruby>の<ruby>兆候<rt>ちょうこう</rt></ruby>とケア・<ruby>家族<rt>かぞく</rt></ruby><ruby>支援<rt>しえん</rt></ruby>",
     "question": "<ruby>死<rt>し</rt></ruby>が<ruby>差<rt>さ</rt></ruby>し<ruby>迫<rt>せま</rt></ruby>ったと<ruby>予測<rt>よそく</rt></ruby>されたときの<ruby>施設<rt>しせつ</rt></ruby>における「<ruby>面会<rt>めんかい</rt></ruby><ruby>対応<rt>たいおう</rt></ruby>」として<ruby>適切<rt>てきせつ</rt></ruby>なものはどれか。",
     "choices": [
+      "<ruby>感染<rt>かんせん</rt></ruby><ruby>予防<rt>よぼう</rt></ruby>を<ruby>理由<rt>りゆう</rt></ruby>に、<ruby>最期<rt>さいご</rt></ruby>の<ruby>看取<rt>みと</rt></ruby>りまで<ruby>家族<rt>かぞく</rt></ruby>の<ruby>入室<rt>にゅうしつ</rt></ruby>を<ruby>全面<rt>ぜんめん</rt></ruby><ruby>禁止<rt>きんし</rt></ruby>する",
       "<ruby>面会<rt>めんかい</rt></ruby><ruby>時間<rt>じかん</rt></ruby>などの<ruby>制限<rt>せいげん</rt></ruby>について<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>し、<ruby>会<rt>あ</rt></ruby>わせておきたい<ruby>家族<rt>かぞく</rt></ruby>や<ruby>知人<rt>ちじん</rt></ruby>が<ruby>付<rt>つ</rt></ruby>き<ruby>添<rt>そ</rt></ruby>えるようにする",
       "<ruby>面会<rt>めんかい</rt></ruby><ruby>規程<rt>きてい</rt></ruby>を<ruby>厳格<rt>げんかく</rt></ruby>に<ruby>適用<rt>てきよう</rt></ruby>し、<ruby>家族<rt>かぞく</rt></ruby>であっても17<ruby>時<rt>じ</rt></ruby><ruby>以降<rt>いこう</rt></ruby>は<ruby>退室<rt>たいしつ</rt></ruby>させる",
-      "<ruby>感染<rt>かんせん</rt></ruby><ruby>予防<rt>よぼう</rt></ruby>を<ruby>理由<rt>りゆう</rt></ruby>に、<ruby>最期<rt>さいご</rt></ruby>の<ruby>看取<rt>みと</rt></ruby>りまで<ruby>家族<rt>かぞく</rt></ruby>の<ruby>入室<rt>にゅうしつ</rt></ruby>を<ruby>全面<rt>ぜんめん</rt></ruby><ruby>禁止<rt>きんし</rt></ruby>する",
       "<ruby>最期<rt>さいご</rt></ruby>の<ruby>着物<rt>きもの</rt></ruby>や<ruby>衣服<rt>いふく</rt></ruby>の<ruby>希望<rt>きぼう</rt></ruby>は<ruby>聞<rt>き</rt></ruby>かず、すべて<ruby>施設<rt>しせつ</rt></ruby>の<ruby>寝巻<rt>ねま</rt></ruby>きにする"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "explanation": "<ruby>死<rt>し</rt></ruby>が<ruby>差<rt>さ</rt></ruby>し<ruby>迫<rt>せま</rt></ruby>ったときは<ruby>早<rt>はや</rt></ruby>めに<ruby>家族<rt>かぞく</rt></ruby>に<ruby>伝<rt>つた</rt></ruby>え、<ruby>会<rt>あ</rt></ruby>わせておきたい<ruby>人<rt>ひと</rt></ruby>に<ruby>連絡<rt>れんらく</rt></ruby>します。<ruby>施設<rt>しせつ</rt></ruby>の<ruby>面会<rt>めんかい</rt></ruby><ruby>時間<rt>じかん</rt></ruby>などの<ruby>制限<rt>せいげん</rt></ruby>については<ruby>柔軟<rt>じゅうなん</rt></ruby>な<ruby>対応<rt>たいおう</rt></ruby>が<ruby>望<rt>のぞ</rt></ruby>まれます。",
     "keyword": "<ruby>面会<rt>めんかい</rt></ruby>への<ruby>柔軟<rt>じゅうなん</rt></ruby>な<ruby>対応<rt>たいおう</rt></ruby>"
   },
@@ -815,12 +815,12 @@
     "topic_name": "<ruby>逝去<rt>せいきょ</rt></ruby><ruby>後<rt>ご</rt></ruby>のケア（エンゼルケア）と<ruby>手続<rt>てつづ</rt></ruby>き",
     "question": "<ruby>死亡<rt>しぼう</rt></ruby><ruby>診断<rt>しんだん</rt></ruby><ruby>書<rt>しょ</rt></ruby>が<ruby>交付<rt>こうふ</rt></ruby>される<ruby>条件<rt>じょうけん</rt></ruby>として、<ruby>教科書<rt>きょうかしょ</rt></ruby>に<ruby>記載<rt>きさい</rt></ruby>されている<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものはどれか。",
     "choices": [
+      "<ruby>病気<rt>びょうき</rt></ruby>やケガの<ruby>原因<rt>げんいん</rt></ruby>に<ruby>関<rt>かか</rt></ruby>わらず、<ruby>病院<rt>びょういん</rt></ruby>の<ruby>外<rt>そと</rt></ruby>で<ruby>亡<rt>な</rt></ruby>くなったすべての<ruby>場合<rt>ばあい</rt></ruby>",
       "<ruby>医師<rt>いし</rt></ruby>の<ruby>診療<rt>しんりょう</rt></ruby><ruby>管理<rt>かんり</rt></ruby><ruby>下<rt>か</rt></ruby>にある<ruby>患者<rt>かんじゃ</rt></ruby>が、<ruby>生前<rt>せいぜん</rt></ruby>に<ruby>診療<rt>しんりょう</rt></ruby>していた<ruby>傷病<rt>しょうびょう</rt></ruby>に<ruby>関連<rt>かんれん</rt></ruby>して<ruby>死亡<rt>しぼう</rt></ruby>したと<ruby>医師<rt>いし</rt></ruby>が<ruby>認<rt>みと</rt></ruby>める<ruby>場合<rt>ばあい</rt></ruby>",
       "<ruby>介護福祉職<rt>かいごふくししょく</rt></ruby>が<ruby>心肺<rt>しんぱい</rt></ruby><ruby>停止<rt>ていし</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>した<ruby>場合<rt>ばあい</rt></ruby>",
-      "<ruby>病気<rt>びょうき</rt></ruby>やケガの<ruby>原因<rt>げんいん</rt></ruby>に<ruby>関<rt>かか</rt></ruby>わらず、<ruby>病院<rt>びょういん</rt></ruby>の<ruby>外<rt>そと</rt></ruby>で<ruby>亡<rt>な</rt></ruby>くなったすべての<ruby>場合<rt>ばあい</rt></ruby>",
       "<ruby>家族<rt>かぞく</rt></ruby>が<ruby>市区町村<rt>しくちょうそん</rt></ruby><ruby>役場<rt>やくば</rt></ruby>に<ruby>死亡届<rt>しぼうとどけ</rt></ruby>を<ruby>提出<rt>ていしゅつ</rt></ruby>した<ruby>後<rt>のち</rt></ruby>"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "explanation": "<ruby>医師<rt>いし</rt></ruby>が「<ruby>自<rt>みずか</rt></ruby>らの<ruby>診療<rt>しんりょう</rt></ruby><ruby>管理<rt>かんり</rt></ruby><ruby>下<rt>か</rt></ruby>にある<ruby>患者<rt>かんじゃ</rt></ruby>が、<ruby>生前<rt>せいぜん</rt></ruby>に<ruby>診療<rt>しんりょう</rt></ruby>していた<ruby>傷病<rt>しょうびょう</rt></ruby>に<ruby>関連<rt>かんれん</rt></ruby>して<ruby>死亡<rt>しぼう</rt></ruby>したと<ruby>認<rt>みと</rt></ruby>める<ruby>場合<rt>ばあい</rt></ruby>」には<ruby>死亡<rt>しぼう</rt></ruby><ruby>診断<rt>しんだん</rt></ruby><ruby>書<rt>しょ</rt></ruby>を<ruby>交付<rt>こうふ</rt></ruby>し、それ<ruby>以外<rt>いがい</rt></ruby>の<ruby>場合<rt>ばあい</rt></ruby>は<ruby>死体<rt>したい</rt></ruby><ruby>検案<rt>けんあん</rt></ruby><ruby>書<rt>しょ</rt></ruby>を<ruby>交付<rt>こうふ</rt></ruby>します。",
     "keyword": "<ruby>死亡<rt>しぼう</rt></ruby><ruby>診断<rt>しんだん</rt></ruby><ruby>書<rt>しょ</rt></ruby>"
   },
@@ -831,9 +831,9 @@
     "question": "<ruby>死亡<rt>しぼう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>して<ruby>異状<rt>いじょう</rt></ruby>が<ruby>認<rt>みと</rt></ruby>められる<ruby>場合<rt>ばあい</rt></ruby>（<ruby>異状<rt>いじょう</rt></ruby><ruby>死体<rt>したい</rt></ruby>）、<ruby>医師<rt>いし</rt></ruby><ruby>法<rt>ほう</rt></ruby><ruby>第<rt>だい</rt></ruby>21<ruby>条<rt>じょう</rt></ruby>に<ruby>基<rt>もと</rt></ruby>づき、<ruby>何<rt>なん</rt></ruby><ruby>時間<rt>じかん</rt></ruby><ruby>以内<rt>いない</rt></ruby>にどこへ<ruby>届<rt>とど</rt></ruby>け<ruby>出<rt>で</rt></ruby>る<ruby>必要<rt>ひつよう</rt></ruby>があるか。",
     "choices": [
       "24<ruby>時間<rt>じかん</rt></ruby><ruby>以内<rt>いない</rt></ruby>に<ruby>所轄<rt>しょかつ</rt></ruby><ruby>警察署<rt>けいさつしょ</rt></ruby>へ<ruby>届<rt>とど</rt></ruby>け<ruby>出<rt>で</rt></ruby>る",
+      "7<ruby>日<rt>にち</rt></ruby><ruby>以内<rt>いない</rt></ruby>に<ruby>裁判所<rt>さいばんしょ</rt></ruby>へ<ruby>届<rt>とど</rt></ruby>け<ruby>出<rt>で</rt></ruby>る",
       "12<ruby>時間<rt>じかん</rt></ruby><ruby>以内<rt>いない</rt></ruby>に<ruby>消防署<rt>しょうぼうしょ</rt></ruby>へ<ruby>届<rt>とど</rt></ruby>け<ruby>出<rt>で</rt></ruby>る",
-      "48<ruby>時間<rt>じかん</rt></ruby><ruby>以内<rt>いない</rt></ruby>に<ruby>保健所<rt>ほけんじょ</rt></ruby>へ<ruby>届<rt>とど</rt></ruby>け<ruby>出<rt>で</rt></ruby>る",
-      "7<ruby>日<rt>にち</rt></ruby><ruby>以内<rt>いない</rt></ruby>に<ruby>裁判所<rt>さいばんしょ</rt></ruby>へ<ruby>届<rt>とど</rt></ruby>け<ruby>出<rt>で</rt></ruby>る"
+      "48<ruby>時間<rt>じかん</rt></ruby><ruby>以内<rt>いない</rt></ruby>に<ruby>保健所<rt>ほけんじょ</rt></ruby>へ<ruby>届<rt>とど</rt></ruby>け<ruby>出<rt>で</rt></ruby>る"
     ],
     "answer_index": 0,
     "explanation": "<ruby>医師<rt>いし</rt></ruby><ruby>法<rt>ほう</rt></ruby><ruby>第<rt>だい</rt></ruby>21<ruby>条<rt>じょう</rt></ruby>において、<ruby>死体<rt>したい</rt></ruby>を<ruby>検案<rt>けんあん</rt></ruby>して<ruby>異状<rt>いじょう</rt></ruby>があると<ruby>認<rt>みと</rt></ruby>めたときは、24<ruby>時間<rt>じかん</rt></ruby><ruby>以内<rt>いない</rt></ruby>に<ruby>所轄<rt>しょかつ</rt></ruby><ruby>警察署<rt>けいさつしょ</rt></ruby>に<ruby>届<rt>とど</rt></ruby>け<ruby>出<rt>で</rt></ruby>なければならないと<ruby>定<rt>さだ</rt></ruby>められています。",
@@ -845,12 +845,12 @@
     "topic_name": "<ruby>逝去<rt>せいきょ</rt></ruby><ruby>後<rt>ご</rt></ruby>のケア（エンゼルケア）と<ruby>手続<rt>てつづ</rt></ruby>き",
     "question": "<ruby>死後<rt>しご</rt></ruby>にからだを<ruby>整<rt>ととの</rt></ruby>えるケア（エンゼルケア）の<ruby>目的<rt>もくてき</rt></ruby>として、<ruby>教科書<rt>きょうかしょ</rt></ruby>に<ruby>挙<rt>あ</rt></ruby>げられている3つの<ruby>要素<rt>ようそ</rt></ruby>はどれか。",
     "choices": [
+      "<ruby>全身<rt>ぜんしん</rt></ruby>を<ruby>消毒<rt>しょうどく</rt></ruby><ruby>液<rt>えき</rt></ruby>に<ruby>浸<rt>つ</rt></ruby>ける、すべての<ruby>毛髪<rt>もうはつ</rt></ruby>をそり<ruby>落<rt>お</rt></ruby>とす、<ruby>衣服<rt>いふく</rt></ruby>を<ruby>焼却<rt>しょうきゃく</rt></ruby>する",
       "<ruby>清潔<rt>せいけつ</rt></ruby>にする、<ruby>外見<rt>がいけん</rt></ruby><ruby>上<rt>じょう</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>を<ruby>目立<rt>めだ</rt></ruby>たなくする、<ruby>生前<rt>せいぜん</rt></ruby>のよい<ruby>表情<rt>ひょうじょう</rt></ruby>になるよう<ruby>整<rt>ととの</rt></ruby>える",
-      "<ruby>体重<rt>たいじゅう</rt></ruby>を<ruby>計量<rt>けいりょう</rt></ruby>する、<ruby>指紋<rt>しもん</rt></ruby>を<ruby>採取<rt>さいしゅ</rt></ruby>する、<ruby>遺品<rt>いひん</rt></ruby>を<ruby>換金<rt>かんきん</rt></ruby>する",
       "<ruby>病気<rt>びょうき</rt></ruby>の<ruby>原因<rt>げんいん</rt></ruby>を<ruby>解明<rt>かいめい</rt></ruby>する、<ruby>臓器<rt>ぞうき</rt></ruby>を<ruby>摘出<rt>てきしゅつ</rt></ruby>する、カルテを<ruby>廃棄<rt>はいき</rt></ruby>する",
-      "<ruby>全身<rt>ぜんしん</rt></ruby>を<ruby>消毒<rt>しょうどく</rt></ruby><ruby>液<rt>えき</rt></ruby>に<ruby>浸<rt>つ</rt></ruby>ける、すべての<ruby>毛髪<rt>もうはつ</rt></ruby>をそり<ruby>落<rt>お</rt></ruby>とす、<ruby>衣服<rt>いふく</rt></ruby>を<ruby>焼却<rt>しょうきゃく</rt></ruby>する"
+      "<ruby>体重<rt>たいじゅう</rt></ruby>を<ruby>計量<rt>けいりょう</rt></ruby>する、<ruby>指紋<rt>しもん</rt></ruby>を<ruby>採取<rt>さいしゅ</rt></ruby>する、<ruby>遺品<rt>いひん</rt></ruby>を<ruby>換金<rt>かんきん</rt></ruby>する"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "explanation": "エンゼルケア（<ruby>死後<rt>しご</rt></ruby>のケア）の<ruby>目的<rt>もくてき</rt></ruby>は、「<ruby>清潔<rt>せいけつ</rt></ruby>にする」「<ruby>外見<rt>がいけん</rt></ruby><ruby>上<rt>じょう</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>を<ruby>目立<rt>めだ</rt></ruby>たなくする」「<ruby>生前<rt>せいぜん</rt></ruby>のよい<ruby>表情<rt>ひょうじょう</rt></ruby>になるよう<ruby>整<rt>ととの</rt></ruby>える」ことであり、<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>尊厳<rt>そんげん</rt></ruby>を<ruby>守<rt>まも</rt></ruby>るための<ruby>最後<rt>さいご</rt></ruby>のケアです。",
     "keyword": "エンゼルケアの<ruby>目的<rt>もくてき</rt></ruby>"
   },
@@ -860,12 +860,12 @@
     "topic_name": "<ruby>逝去<rt>せいきょ</rt></ruby><ruby>後<rt>ご</rt></ruby>のケア（エンゼルケア）と<ruby>手続<rt>てつづ</rt></ruby>き",
     "question": "<ruby>死後<rt>しご</rt></ruby><ruby>硬直<rt>こうちょく</rt></ruby>についての<ruby>説明<rt>せつめい</rt></ruby>として<ruby>適切<rt>てきせつ</rt></ruby>なものはどれか。",
     "choices": [
-      "<ruby>通常<rt>つうじょう</rt></ruby><ruby>死後<rt>しご</rt></ruby>2〜4<ruby>時間<rt>じかん</rt></ruby>で<ruby>始<rt>はじ</rt></ruby>まるため、エンゼルケアは<ruby>硬直<rt>こうちょく</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まる<ruby>前<rt>まえ</rt></ruby>に<ruby>行<rt>おこな</rt></ruby>う",
-      "<ruby>死後<rt>しご</rt></ruby>24<ruby>時間<rt>じかん</rt></ruby><ruby>経過<rt>けいか</rt></ruby>するまでは<ruby>絶対<rt>ぜったい</rt></ruby>に<ruby>始<rt>はじ</rt></ruby>まらない",
       "<ruby>気温<rt>きおん</rt></ruby>の<ruby>影響<rt>えいきょう</rt></ruby>をまったく<ruby>受<rt>う</rt></ruby>けずに<ruby>一定<rt>いってい</rt></ruby>のスピードで<ruby>進行<rt>しんこう</rt></ruby>する",
-      "<ruby>関節<rt>かんせつ</rt></ruby>が<ruby>軟<rt>やわ</rt></ruby>らかく<ruby>動<rt>うご</rt></ruby>くようになる<ruby>現象<rt>げんしょう</rt></ruby>をさす"
+      "<ruby>関節<rt>かんせつ</rt></ruby>が<ruby>軟<rt>やわ</rt></ruby>らかく<ruby>動<rt>うご</rt></ruby>くようになる<ruby>現象<rt>げんしょう</rt></ruby>をさす",
+      "<ruby>死後<rt>しご</rt></ruby>24<ruby>時間<rt>じかん</rt></ruby><ruby>経過<rt>けいか</rt></ruby>するまでは<ruby>絶対<rt>ぜったい</rt></ruby>に<ruby>始<rt>はじ</rt></ruby>まらない",
+      "<ruby>通常<rt>つうじょう</rt></ruby><ruby>死後<rt>しご</rt></ruby>2〜4<ruby>時間<rt>じかん</rt></ruby>で<ruby>始<rt>はじ</rt></ruby>まるため、エンゼルケアは<ruby>硬直<rt>こうちょく</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まる<ruby>前<rt>まえ</rt></ruby>に<ruby>行<rt>おこな</rt></ruby>う"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "explanation": "<ruby>死後<rt>しご</rt></ruby><ruby>硬直<rt>こうちょく</rt></ruby>（<ruby>遺体<rt>いたい</rt></ruby>の<ruby>筋肉<rt>きんにく</rt></ruby>がかたくなる<ruby>現象<rt>げんしょう</rt></ruby>）は、<ruby>気温<rt>きおん</rt></ruby>の<ruby>影響<rt>えいきょう</rt></ruby>を<ruby>受<rt>う</rt></ruby>けますが<ruby>通常<rt>つうじょう</rt></ruby><ruby>死後<rt>しご</rt></ruby>2〜4<ruby>時間<rt>じかん</rt></ruby>で<ruby>始<rt>はじ</rt></ruby>まるため、エンゼルケアは<ruby>家族<rt>かぞく</rt></ruby>のお<ruby>別<rt>わか</rt></ruby>れのあと<ruby>硬直<rt>こうちょく</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まる<ruby>前<rt>まえ</rt></ruby>に<ruby>行<rt>おこな</rt></ruby>います。",
     "keyword": "<ruby>死後<rt>しご</rt></ruby><ruby>硬直<rt>こうちょく</rt></ruby>"
   },
@@ -875,12 +875,12 @@
     "topic_name": "<ruby>逝去<rt>せいきょ</rt></ruby><ruby>後<rt>ご</rt></ruby>のケア（エンゼルケア）と<ruby>手続<rt>てつづ</rt></ruby>き",
     "question": "エンゼルケアを<ruby>始<rt>はじ</rt></ruby>める<ruby>際<rt>さい</rt></ruby>に、<ruby>家族<rt>かぞく</rt></ruby>に<ruby>対<rt>たい</rt></ruby>してあらかじめ<ruby>確認<rt>かくにん</rt></ruby>すべきこととして<ruby>適切<rt>てきせつ</rt></ruby>なものはどれか。",
     "choices": [
-      "<ruby>宗教<rt>しゅうきょう</rt></ruby>や<ruby>習慣<rt>しゅうかん</rt></ruby>による<ruby>希望<rt>きぼう</rt></ruby>があるか、<ruby>清拭<rt>せいしき</rt></ruby>や<ruby>化粧<rt>けしょう</rt></ruby>などをいっしょに<ruby>行<rt>おこな</rt></ruby>うか、<ruby>衣服<rt>いふく</rt></ruby>をどれにするか",
       "<ruby>葬儀<rt>そうぎ</rt></ruby><ruby>社<rt>しゃ</rt></ruby>への<ruby>支払<rt>しはら</rt></ruby>い<ruby>用<rt>よう</rt></ruby>の<ruby>現金<rt>げんきん</rt></ruby>が<ruby>今<rt>いま</rt></ruby>あるかどうか",
+      "<ruby>家族<rt>かぞく</rt></ruby>の<ruby>全員<rt>ぜんいん</rt></ruby>が<ruby>喪服<rt>もふく</rt></ruby>に<ruby>着替<rt>きが</rt></ruby>え<ruby>終<rt>お</rt></ruby>わっているかどうか",
       "<ruby>遺産<rt>いさん</rt></ruby><ruby>分割<rt>ぶんかつ</rt></ruby><ruby>協議<rt>きょうぎ</rt></ruby>が<ruby>終了<rt>しゅうりょう</rt></ruby>しているかどうか",
-      "<ruby>家族<rt>かぞく</rt></ruby>の<ruby>全員<rt>ぜんいん</rt></ruby>が<ruby>喪服<rt>もふく</rt></ruby>に<ruby>着替<rt>きが</rt></ruby>え<ruby>終<rt>お</rt></ruby>わっているかどうか"
+      "<ruby>宗教<rt>しゅうきょう</rt></ruby>や<ruby>習慣<rt>しゅうかん</rt></ruby>による<ruby>希望<rt>きぼう</rt></ruby>があるか、<ruby>清拭<rt>せいしき</rt></ruby>や<ruby>化粧<rt>けしょう</rt></ruby>などをいっしょに<ruby>行<rt>おこな</rt></ruby>うか、<ruby>衣服<rt>いふく</rt></ruby>をどれにするか"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "explanation": "エンゼルケアを<ruby>行<rt>おこな</rt></ruby>う<ruby>前<rt>まえ</rt></ruby>に、<ruby>宗教<rt>しゅうきょう</rt></ruby>や<ruby>習慣<rt>しゅうかん</rt></ruby>による<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>作法<rt>さほう</rt></ruby>があるか、<ruby>清拭<rt>せいしき</rt></ruby>や<ruby>化粧<rt>けしょう</rt></ruby>を<ruby>家族<rt>かぞく</rt></ruby>もいっしょに<ruby>行<rt>おこな</rt></ruby>いたいか、<ruby>着<rt>き</rt></ruby>せたい<ruby>衣服<rt>いふく</rt></ruby>があるかなどを<ruby>丁寧<rt>ていねい</rt></ruby>に<ruby>確認<rt>かくにん</rt></ruby>します。",
     "keyword": "<ruby>家族<rt>かぞく</rt></ruby>への<ruby>希望<rt>きぼう</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>"
   },
@@ -891,9 +891,9 @@
     "question": "エンゼルケアにおける「<ruby>綿花<rt>めんか</rt></ruby><ruby>詰<rt>づ</rt></ruby>め」や「<ruby>義歯<rt>ぎし</rt></ruby>」の<ruby>取扱<rt>とりあつか</rt></ruby>いについて、<ruby>教科書<rt>きょうかしょ</rt></ruby>に<ruby>記載<rt>きさい</rt></ruby>されている<ruby>基準<rt>きじゅん</rt></ruby>はどれか。",
     "choices": [
       "<ruby>耳<rt>みみ</rt></ruby>や<ruby>鼻<rt>はな</rt></ruby>は<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>理由<rt>りゆう</rt></ruby>がなければ<ruby>綿花<rt>めんか</rt></ruby>を<ruby>詰<rt>つ</rt></ruby>める<ruby>必要<rt>ひつよう</rt></ruby>はなく、<ruby>義歯<rt>ぎし</rt></ruby>を<ruby>使用<rt>しよう</rt></ruby>していた<ruby>場合<rt>ばあい</rt></ruby>は<ruby>装着<rt>そうちゃく</rt></ruby>する",
-      "すべての<ruby>穴<rt>あな</rt></ruby>（<ruby>目<rt>め</rt></ruby>、<ruby>耳<rt>みみ</rt></ruby>、<ruby>鼻<rt>はな</rt></ruby>、<ruby>口<rt>くち</rt></ruby>）に<ruby>大量<rt>たいりょう</rt></ruby>のガーゼを<ruby>無理矢理<rt>むりやり</rt><ruby>押<rt>お</rt></ruby>し<ruby>込<rt>こ</rt></ruby>む",
       "<ruby>義歯<rt>ぎし</rt></ruby>はすべて<ruby>外<rt>はず</rt></ruby>して<ruby>破棄<rt>はき</rt></ruby>しなければならない",
-      "<ruby>綿花<rt>めんか</rt></ruby>の<ruby>詰<rt>つ</rt></ruby>め<ruby>込<rt>こ</rt></ruby>みは<ruby>介護職<rt>かいごしょく</rt></ruby>が<ruby>単独<rt>たんどく</rt></ruby>で<ruby>行<rt>おこな</rt></ruby>わなければならない"
+      "<ruby>綿花<rt>めんか</rt></ruby>の<ruby>詰<rt>つ</rt></ruby>め<ruby>込<rt>こ</rt></ruby>みは<ruby>介護職<rt>かいごしょく</rt></ruby>が<ruby>単独<rt>たんどく</rt></ruby>で<ruby>行<rt>おこな</rt></ruby>わなければならない",
+      "すべての<ruby>穴<rt>あな</rt></ruby>（<ruby>目<rt>め</rt></ruby>、<ruby>耳<rt>みみ</rt></ruby>、<ruby>鼻<rt>はな</rt></ruby>、<ruby>口<rt>くち</rt></ruby>）に<ruby>大量<rt>たいりょう</rt></ruby>のガーゼを<ruby>無理矢理<rt>むりやり</rt><ruby>押<rt>お</rt></ruby>し<ruby>込<rt>こ</rt></ruby>む"
     ],
     "answer_index": 0,
     "explanation": "<ruby>体内<rt>たいない</rt></ruby><ruby>内容物<rt>ないようぶつ</rt></ruby>の<ruby>排出<rt>はいしゅつ</rt></ruby>や<ruby>綿花<rt>めんか</rt></ruby><ruby>詰<rt>づ</rt></ruby>めはおもに<ruby>看護師<rt>かんごし</rt></ruby>が<ruby>行<rt>おこな</rt></ruby>います。<ruby>耳<rt>みみ</rt></ruby>や<ruby>鼻<rt>はな</rt></ruby>は<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>理由<rt>りゆう</rt></ruby>がなければ<ruby>詰<rt>つ</rt></ruby>める<ruby>必要<rt>ひつよう</rt></ruby>はなく、<ruby>義歯<rt>ぎし</rt></ruby>は<ruby>生前<rt>せいぜん</rt></ruby>の<ruby>顔<rt>かお</rt></ruby>のかたちを<ruby>保<rt>たも</rt></ruby>つため<ruby>装着<rt>そうちゃく</rt></ruby>します。",
@@ -905,12 +905,12 @@
     "topic_name": "<ruby>逝去<rt>せいきょ</rt></ruby><ruby>後<rt>ご</rt></ruby>のケア（エンゼルケア）と<ruby>手続<rt>てつづ</rt></ruby>き",
     "question": "<ruby>遺体<rt>いたい</rt></ruby>を<ruby>清<rt>きよ</rt></ruby>めるためのぬるま<ruby>湯<rt>ゆ</rt></ruby>をつくるとき、<ruby>通常<rt>つうじょう</rt></ruby>とは<ruby>逆<rt>ぎゃく</rt></ruby>に「<ruby>水<rt>みず</rt></ruby>に<ruby>湯<rt>ゆ</rt></ruby>を<ruby>注<rt>そぞ</rt></ruby>いでつくる」<ruby>作法<rt>さほう</rt></ruby>を<ruby>何<rt>なに</rt></ruby>とよぶか。",
     "choices": [
-      "さかさ<ruby>水<rt>みず</rt></ruby>",
       "<ruby>注<rt>そそ</rt></ruby>ぎ<ruby>湯<rt>ゆ</rt></ruby>",
       "<ruby>清<rt>きよ</rt></ruby>め<ruby>湯<rt>ゆ</rt></ruby>",
+      "さかさ<ruby>水<rt>みず</rt></ruby>",
       "<ruby>逆<rt>ぎゃく</rt></ruby><ruby>温水<rt>おんすい</rt></ruby>"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "explanation": "<ruby>遺体<rt>いたい</rt></ruby>を<ruby>清<rt>きよ</rt></ruby>めるぬるま<ruby>湯<rt>ゆ</rt></ruby>をつくる<ruby>際<rt>さい</rt></ruby>、<ruby>水<rt>みず</rt></ruby>に<ruby>熱湯<rt>ねっとう</rt></ruby>を<ruby>注<rt>そそ</rt></ruby>いでつくる<ruby>伝統的<rt>でんとうてき</rt></ruby>な<ruby>作法<rt>さほう</rt></ruby>を「さかさ<ruby>水<rt>みず</rt></ruby>」といいます。<ruby>日常<rt>にちじょう</rt></ruby>と<ruby>逆<rt>ぎゃく</rt></ruby>の<ruby>作法<rt>さほう</rt></ruby>によって<ruby>死<rt>し</rt></ruby>を<ruby>別<rt>べつ</rt></ruby>のものとしてとらえる<ruby>習俗<rt>しゅうぞく</rt></ruby>に<ruby>由来<rt>ゆらい</rt></ruby>します。",
     "keyword": "さかさ<ruby>水<rt>みず</rt></ruby>"
   },
@@ -920,12 +920,12 @@
     "topic_name": "<ruby>逝去<rt>せいきょ</rt></ruby><ruby>後<rt>ご</rt></ruby>のケア（エンゼルケア）と<ruby>手続<rt>てつづ</rt></ruby>き",
     "question": "<ruby>死後<rt>しご</rt></ruby>の<ruby>着替<rt>きが</rt></ruby>えと<ruby>安置<rt>あんち</rt></ruby>における<ruby>作法<rt>さほう</rt></ruby>（<ruby>図<rt>ず</rt></ruby>6-6）として<ruby>適切<rt>てきせつ</rt></ruby>なものはどれか。",
     "choices": [
-      "<ruby>着物<rt>きもの</rt></ruby>は<ruby>左前<rt>ひだりまえ</rt></ruby>にあわせ、<ruby>帯<rt>おび</rt></ruby>ひもは<ruby>縦結<rt>たてむす</rt></ruby>びにし、<ruby>頭<rt>あたま</rt></ruby>を<ruby>北<rt>きた</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて<ruby>顔<rt>かお</rt></ruby>に<ruby>白<rt>しろ</rt></ruby>い<ruby>布<rt>ぬの</rt></ruby>をかける",
       "<ruby>着物<rt>きもの</rt></ruby>は<ruby>右前<rt>みぎまえ</rt></ruby>にあわせ、<ruby>帯<rt>おび</rt></ruby>ひもは<ruby>蝶結<rt>ちょうむす</rt></ruby>びにし、<ruby>頭<rt>あたま</rt></ruby>を<ruby>南<rt>みなみ</rt></ruby>に<ruby>向<rt>む</rt></ruby>ける",
-      "<ruby>着物<rt>きもの</rt></ruby>は<ruby>裏返<rt>うらがえ</rt></ruby>しに<ruby>着<rt>き</rt></ruby>せ、<ruby>頭<rt>あたま</rt></ruby>を<ruby>西<rt>にし</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて<ruby>顔<rt>かお</rt></ruby>に<ruby>黒<rt>くろ</rt></ruby>い<ruby>布<rt>ぬの</rt></ruby>をかける",
-      "<ruby>衣服<rt>いふく</rt></ruby>は<ruby>着<rt>き</rt></ruby>せずにシーツで<ruby>全身<rt>ぜんしん</rt></ruby>をぐるぐる<ruby>巻<rt>ま</rt></ruby>きにする"
+      "<ruby>衣服<rt>いふく</rt></ruby>は<ruby>着<rt>き</rt></ruby>せずにシーツで<ruby>全身<rt>ぜんしん</rt></ruby>をぐるぐる<ruby>巻<rt>ま</rt></ruby>きにする",
+      "<ruby>着物<rt>きもの</rt></ruby>は<ruby>左前<rt>ひだりまえ</rt></ruby>にあわせ、<ruby>帯<rt>おび</rt></ruby>ひもは<ruby>縦結<rt>たてむす</rt></ruby>びにし、<ruby>頭<rt>あたま</rt></ruby>を<ruby>北<rt>きた</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて<ruby>顔<rt>かお</rt></ruby>に<ruby>白<rt>しろ</rt></ruby>い<ruby>布<rt>ぬの</rt></ruby>をかける",
+      "<ruby>着物<rt>きもの</rt></ruby>は<ruby>裏返<rt>うらがえ</rt></ruby>しに<ruby>着<rt>き</rt></ruby>せ、<ruby>頭<rt>あたま</rt></ruby>を<ruby>西<rt>にし</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて<ruby>顔<rt>かお</rt></ruby>に<ruby>黒<rt>くろ</rt></ruby>い<ruby>布<rt>ぬの</rt></ruby>をかける"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "explanation": "<ruby>着物<rt>きもの</rt></ruby>の<ruby>場合<rt>ばあい</rt></ruby>は<ruby>左前<rt>ひだりまえ</rt></ruby>にあわせ、<ruby>帯<rt>おび</rt></ruby>ひもは<ruby>縦結<rt>たてむす</rt></ruby>びにし、<ruby>前胸部<rt>ぜんきょうぶ</rt></ruby>で<ruby>手<rt>て</rt></ruby>を<ruby>組<rt>く</rt></ruby>ませます。<ruby>頭<rt>あたま</rt></ruby>を<ruby>北<rt>きた</rt></ruby>にする<ruby>北枕<rt>きたまくら</rt></ruby>とし、<ruby>一礼<rt>いちれい</rt></ruby>したあと<ruby>顔<rt>かお</rt></ruby>に<ruby>白<rt>しろ</rt></ruby>い<ruby>布<rt>ぬの</rt></ruby>をかけます。",
     "keyword": "<ruby>死後<rt>しご</rt></ruby>の<ruby>寝<rt>ね</rt></ruby>かせ<ruby>方<rt>かた</rt></ruby>（<ruby>左前<rt>ひだりまえ</rt></ruby>・<ruby>北枕<rt>きたまくら</rt></ruby>）"
   },
@@ -935,12 +935,12 @@
     "topic_name": "<ruby>亡<rt>な</rt></ruby>くなった<ruby>後<rt>あと</rt></ruby>のケア（グリーフケア）と<ruby>多職種<rt>たしょくしゅ</rt></ruby><ruby>連携<rt>れんけい</rt></ruby>",
     "question": "「グリーフケア」の<ruby>定義<rt>ていぎ</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものはどれか。",
     "choices": [
-      "<ruby>家族<rt>かぞく</rt></ruby>など<ruby>近<rt>ちか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>を<ruby>亡<rt>な</rt></ruby>くした<ruby>人<rt>ひと</rt></ruby>が、<ruby>死別<rt>しべつ</rt></ruby>にともなう<ruby>深<rt>ふか</rt></ruby>い<ruby>悲<rt>かな</rt></ruby>しみや<ruby>喪失感<rt>そうしつかん</rt></ruby>を<ruby>受<rt>う</rt></ruby>け<ruby>入<rt>い</rt></ruby>れ、<ruby>乗<rt>の</rt></ruby>り<ruby>越<rt>こ</rt></ruby>えられるように<ruby>支援<rt>しえん</rt></ruby>すること",
-      "<ruby>施設<rt>しせつ</rt></ruby>の<ruby>未払<rt>みばら</rt></ruby>い<ruby>利用料<rt>りようりょう</rt></ruby>を<ruby>遺族<rt>いぞく</rt></ruby>から<ruby>回収<rt>かいしゅう</rt></ruby>する<ruby>業務<rt>ぎょうむ</rt></ruby>のこと",
       "<ruby>葬儀<rt>そうぎ</rt></ruby>の<ruby>受付<rt>うけつけ</rt></ruby>や<ruby>司会<rt>しかい</rt></ruby>を<ruby>介護職<rt>かいごしょく</rt></ruby>が<ruby>代行<rt>だいこう</rt></ruby>すること",
-      "<ruby>故人<rt>こじん</rt></ruby>の<ruby>遺品<rt>いひん</rt></ruby>を<ruby>施設<rt>しせつ</rt></ruby>のバザーで<ruby>販売<rt>はんばい</rt></ruby>すること"
+      "<ruby>家族<rt>かぞく</rt></ruby>など<ruby>近<rt>ちか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>を<ruby>亡<rt>な</rt></ruby>くした<ruby>人<rt>ひと</rt></ruby>が、<ruby>死別<rt>しべつ</rt></ruby>にともなう<ruby>深<rt>ふか</rt></ruby>い<ruby>悲<rt>かな</rt></ruby>しみや<ruby>喪失感<rt>そうしつかん</rt></ruby>を<ruby>受<rt>う</rt></ruby>け<ruby>入<rt>い</rt></ruby>れ、<ruby>乗<rt>の</rt></ruby>り<ruby>越<rt>こ</rt></ruby>えられるように<ruby>支援<rt>しえん</rt></ruby>すること",
+      "<ruby>故人<rt>こじん</rt></ruby>の<ruby>遺品<rt>いひん</rt></ruby>を<ruby>施設<rt>しせつ</rt></ruby>のバザーで<ruby>販売<rt>はんばい</rt></ruby>すること",
+      "<ruby>施設<rt>しせつ</rt></ruby>の<ruby>未払<rt>みばら</rt></ruby>い<ruby>利用料<rt>りようりょう</rt></ruby>を<ruby>遺族<rt>いぞく</rt></ruby>から<ruby>回収<rt>かいしゅう</rt></ruby>する<ruby>業務<rt>ぎょうむ</rt></ruby>のこと"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "explanation": "グリーフケアとは、<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>人<rt>ひと</rt></ruby>と<ruby>死別<rt>しべつ</rt></ruby>した<ruby>遺族<rt>いぞく</rt></ruby>が、その<ruby>悲嘆<rt>ひたん</rt></ruby>（グリーフ）や<ruby>喪失感<rt>そうしつかん</rt></ruby>、<ruby>環境<rt>かんきょう</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>などを<ruby>受<rt>う</rt></ruby>け<ruby>入<rt>い</rt></ruby>れ、<ruby>前<rt>まえ</rt></ruby>を<ruby>向<rt>む</rt></ruby>いて<ruby>生<rt>い</rt></ruby>きられるよう<ruby>寄<rt>よ</rt></ruby>り<ruby>添<rt>そ</rt></ruby>い<ruby>支援<rt>しえん</rt></ruby>することです。",
     "keyword": "グリーフケア"
   },
@@ -950,12 +950,12 @@
     "topic_name": "<ruby>亡<rt>な</rt></ruby>くなった<ruby>後<rt>あと</rt></ruby>のケア（グリーフケア）と<ruby>多職種<rt>たしょくしゅ</rt></ruby><ruby>連携<rt>れんけい</rt></ruby>",
     "question": "<ruby>死別<rt>しべつ</rt></ruby><ruby>後<rt>ご</rt></ruby>の<ruby>遺族<rt>いぞく</rt></ruby>に<ruby>対<rt>たい</rt></ruby>する<ruby>介護福祉職<rt>かいごふくししょく</rt></ruby>の<ruby>関<rt>かか</rt></ruby>わりとして、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものはどれか。",
     "choices": [
-      "「<ruby>元気<rt>げんき</rt></ruby>を<ruby>出<rt>だ</rt></ruby>して」と<ruby>安易<rt>あんい</rt></ruby>に<ruby>励<rt>はげ</rt></ruby>まさず、<ruby>遺族<rt>いぞく</rt></ruby>が<ruby>感情<rt>かんじょう</rt></ruby>を<ruby>表現<rt>ひょうげん</rt></ruby>できるように<ruby>接<rt>せっ</rt></ruby>し、<ruby>寄<rt>よ</rt></ruby>り<ruby>添<rt>そ</rt></ruby>い<ruby>傾聴<rt>けいちょう</rt></ruby>する",
       "「いつまでも<ruby>泣<rt>な</rt></ruby>いていては<ruby>故人<rt>こじん</rt></ruby>が<ruby>浮<rt>う</rt></ruby>かばれません」と<ruby>厳<rt>きび</rt></ruby>しく<ruby>注意<rt>ちゅうい</rt></ruby>する",
-      "<ruby>悲<rt>かな</rt></ruby>しみを<ruby>忘<rt>わす</rt></ruby>れさせるため、<ruby>無理<rt>むり</rt></ruby>に<ruby>旅行<rt>りょこう</rt></ruby>の<ruby>計画<rt>けいかく</rt></ruby>を<ruby>立<rt>た</rt></ruby>てさせる",
-      "<ruby>死亡<rt>しぼう</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>の<ruby>瞬間<rt>しゅんかん</rt></ruby>から、<ruby>遺族<rt>いぞく</rt></ruby>との<ruby>会話<rt>かいわ</rt></ruby>を<ruby>一切<rt>いっさい</rt></ruby><ruby>断<rt>た</rt></ruby>ち<ruby>切<rt>き</rt></ruby>る"
+      "「<ruby>元気<rt>げんき</rt></ruby>を<ruby>出<rt>だ</rt></ruby>して」と<ruby>安易<rt>あんい</rt></ruby>に<ruby>励<rt>はげ</rt></ruby>まさず、<ruby>遺族<rt>いぞく</rt></ruby>が<ruby>感情<rt>かんじょう</rt></ruby>を<ruby>表現<rt>ひょうげん</rt></ruby>できるように<ruby>接<rt>せっ</rt></ruby>し、<ruby>寄<rt>よ</rt></ruby>り<ruby>添<rt>そ</rt></ruby>い<ruby>傾聴<rt>けいちょう</rt></ruby>する",
+      "<ruby>死亡<rt>しぼう</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>の<ruby>瞬間<rt>しゅんかん</rt></ruby>から、<ruby>遺族<rt>いぞく</rt></ruby>との<ruby>会話<rt>かいわ</rt></ruby>を<ruby>一切<rt>いっさい</rt></ruby><ruby>断<rt>た</rt></ruby>ち<ruby>切<rt>き</rt></ruby>る",
+      "<ruby>悲<rt>かな</rt></ruby>しみを<ruby>忘<rt>わす</rt></ruby>れさせるため、<ruby>無理<rt>むり</rt></ruby>に<ruby>旅行<rt>りょこう</rt></ruby>の<ruby>計画<rt>けいかく</rt></ruby>を<ruby>立<rt>た</rt></ruby>てさせる"
     ],
-    "answer_index": 0,
+    "answer_index": 1,
     "explanation": "<ruby>死別<rt>しべつ</rt></ruby><ruby>直後<rt>ちょくご</rt></ruby>の<ruby>遺族<rt>いぞく</rt></ruby>に<ruby>対<rt>たい</rt></ruby>し、「<ruby>元気<rt>げんき</rt></ruby>を<ruby>出<rt>だ</rt></ruby>して」と<ruby>励<rt>はげ</rt></ruby>ますことはかえって<ruby>逆効果<rt>ぎゃくこうか</rt></ruby>となります。<ruby>遺族<rt>いぞく</rt></ruby>が<ruby>悲<rt>かな</rt></ruby>しみの<ruby>感情<rt>かんじょう</rt></ruby>を<ruby>素直<rt>すなお</rt></ruby>に<ruby>出<rt>だ</rt></ruby>せるよう、<ruby>寄<rt>よ</rt></ruby>り<ruby>添<rt>そ</rt></ruby>って<ruby>傾聴<rt>けいちょう</rt></ruby>することが<ruby>極<rt>きわ</rt></ruby>めて<ruby>重要<rt>じゅうよう</rt></ruby>です。",
     "keyword": "<ruby>遺族<rt>いぞく</rt></ruby>への<ruby>傾聴<rt>けいちょう</rt></ruby>"
   },
@@ -965,12 +965,12 @@
     "topic_name": "<ruby>亡<rt>な</rt></ruby>くなった<ruby>後<rt>あと</rt></ruby>のケア（グリーフケア）と<ruby>多職種<rt>たしょくしゅ</rt></ruby><ruby>連携<rt>れんけい</rt></ruby>",
     "question": "<ruby>注意<rt>ちゅうい</rt></ruby>を<ruby>要<rt>よう</rt></ruby>する<ruby>遺族<rt>いぞく</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>（<ruby>表<rt>ひょう</rt></ruby>6-11）として、<ruby>専門的<rt>せんもんてき</rt></ruby>な<ruby>精神科<rt>せいしんか</rt></ruby><ruby>受診<rt>じゅしん</rt></ruby>などをすすめるべきサインはどれか。",
     "choices": [
-      "「<ruby>死<rt>し</rt></ruby>にたい」という<ruby>気持<rt>きも</rt></ruby>ちが<ruby>強<rt>つよ</rt></ruby>い、<ruby>感情<rt>かんじょう</rt></ruby>が<ruby>麻痺<rt>まひ</rt></ruby>している、<ruby>強<rt>つよ</rt></ruby>い<ruby>罪悪感<rt>ざいあくかん</rt></ruby>、<ruby>悲嘆<rt>ひたん</rt></ruby>が1<ruby>年<rt>ねん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>長期化<rt>ちょうきか</rt></ruby>している",
+      "<ruby>法要<rt>ほうよう</rt></ruby>のために<ruby>親戚<rt>しんせき</rt></ruby>に<ruby>案内状<rt>あんないじょう</rt></ruby>を<ruby>郵送<rt>ゆうそう</rt></ruby>した",
       "<ruby>葬儀<rt>そうぎ</rt></ruby>の<ruby>翌日<rt>よくじつ</rt></ruby>に<ruby>故人<rt>こじん</rt></ruby>の<ruby>好物<rt>こうぶつ</rt></ruby>を<ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>だ</rt></ruby>して<ruby>涙<rt>なみだ</rt></ruby>を<ruby>流<rt>なが</rt></ruby>した",
-      "<ruby>死後<rt>しご</rt></ruby>1か<ruby>月<rt>げつ</rt></ruby>の<ruby>頃<rt>ころ</rt></ruby>に、<ruby>故人<rt>こじん</rt></ruby>のアルバムを<ruby>見<rt>み</rt></ruby>て<ruby>懐<rt>なつ</rt></ruby>かしんだ",
-      "<ruby>法要<rt>ほうよう</rt></ruby>のために<ruby>親戚<rt>しんせき</rt></ruby>に<ruby>案内状<rt>あんないじょう</rt></ruby>を<ruby>郵送<rt>ゆうそう</rt></ruby>した"
+      "「<ruby>死<rt>し</rt></ruby>にたい」という<ruby>気持<rt>きも</rt></ruby>ちが<ruby>強<rt>つよ</rt></ruby>い、<ruby>感情<rt>かんじょう</rt></ruby>が<ruby>麻痺<rt>まひ</rt></ruby>している、<ruby>強<rt>つよ</rt></ruby>い<ruby>罪悪感<rt>ざいあくかん</rt></ruby>、<ruby>悲嘆<rt>ひたん</rt></ruby>が1<ruby>年<rt>ねん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>長期化<rt>ちょうきか</rt></ruby>している",
+      "<ruby>死後<rt>しご</rt></ruby>1か<ruby>月<rt>げつ</rt></ruby>の<ruby>頃<rt>ころ</rt></ruby>に、<ruby>故人<rt>こじん</rt></ruby>のアルバムを<ruby>見<rt>み</rt></ruby>て<ruby>懐<rt>なつ</rt></ruby>かしんだ"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "explanation": "「<ruby>死<rt>し</rt></ruby>にたい」という<ruby>希死<rt>きし</rt></ruby><ruby>念慮<rt>ねんりょ</rt></ruby>、<ruby>感情<rt>かんじょう</rt></ruby>の<ruby>麻痺<rt>まひ</rt></ruby>、<ruby>強<rt>つよ</rt></ruby>い<ruby>罪悪感<rt>ざいあくかん</rt></ruby>、<ruby>不眠<rt>ふみん</rt></ruby>や<ruby>焦燥感<rt>しょうそうかん</rt></ruby>、<ruby>悲嘆<rt>ひたん</rt></ruby>の<ruby>長期化<rt>ちょうきか</rt></ruby>（<ruby>通常<rt>つうじょう</rt></ruby>は6か<ruby>月<rt>げつ</rt></ruby>〜1<ruby>年<rt>ねん</rt></ruby>）や<ruby>社会<rt>しゃかい</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>への<ruby>支障<rt>ししょう</rt></ruby>がある<ruby>場合<rt>ばあい</rt></ruby>は、<ruby>精神科<rt>せいしんか</rt></ruby><ruby>受診<rt>じゅしん</rt></ruby>などの<ruby>専門的<rt>せんもんてき</rt></ruby><ruby>支援<rt>しえん</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。",
     "keyword": "<ruby>注意<rt>ちゅうい</rt></ruby>を<ruby>要<rt>よう</rt></ruby>する<ruby>遺族<rt>いぞく</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>"
   },
@@ -981,8 +981,8 @@
     "question": "<ruby>死別<rt>しべつ</rt></ruby><ruby>後<rt>ご</rt></ruby>の<ruby>遺族<rt>いぞく</rt></ruby>が<ruby>孤立<rt>こりつ</rt></ruby>せず、<ruby>同<rt>おな</rt></ruby>じ<ruby>悲<rt>かな</rt></ruby>しみを<ruby>抱<rt>いだ</rt></ruby>く<ruby>仲間<rt>なかま</rt></ruby>と<ruby>思<rt>おも</rt></ruby>いを<ruby>分<rt>わ</rt></ruby>かち<ruby>合<rt>あ</rt></ruby>える<ruby>社会<rt>しゃかい</rt></ruby><ruby>資源<rt>しげん</rt></ruby>として<ruby>適切<rt>てきせつ</rt></ruby>なものはどれか。",
     "choices": [
       "<ruby>遺族<rt>いぞく</rt></ruby><ruby>会<rt>かい</rt></ruby>",
-      "<ruby>青年<rt>せいねん</rt></ruby><ruby>会議所<rt>かいぎしょ</rt></ruby>",
       "<ruby>商工<rt>しょうこう</rt></ruby><ruby>会議所<rt>かいぎしょ</rt></ruby>",
+      "<ruby>青年<rt>せいねん</rt></ruby><ruby>会議所<rt>かいぎしょ</rt></ruby>",
       "<ruby>町内<rt>ちょうない</rt></ruby><ruby>子供<rt>こども</rt></ruby><ruby>会<rt>かい</rt></ruby>"
     ],
     "answer_index": 0,
@@ -995,12 +995,12 @@
     "topic_name": "<ruby>亡<rt>な</rt></ruby>くなった<ruby>後<rt>あと</rt></ruby>のケア（グリーフケア）と<ruby>多職種<rt>たしょくしゅ</rt></ruby><ruby>連携<rt>れんけい</rt></ruby>",
     "question": "<ruby>看取<rt>みと</rt></ruby>りの<ruby>後<rt>のち</rt></ruby>に<ruby>行<rt>おこな</rt></ruby>われる「デスカンファレンス」の<ruby>目的<rt>もくてき</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものはどれか。",
     "choices": [
-      "かかわったケアを<ruby>振<rt>ふ</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>って<ruby>今後<rt>こんご</rt></ruby>のケアを<ruby>向上<rt>こうじょう</rt></ruby>させるとともに、<ruby>職員<rt>しょくいん</rt></ruby><ruby>自身<rt>じしん</rt></ruby>のグリーフケアを<ruby>行<rt>おこな</rt></ruby>う",
       "<ruby>誰<rt>だれ</rt></ruby>のミスで<ruby>病状<rt>びょうじょう</rt></ruby>が<ruby>悪化<rt>あっか</rt></ruby>したかを<ruby>特定<rt>とくてい</rt></ruby>し、<ruby>責任<rt>せきにん</rt></ruby>を<ruby>追及<rt>ついきゅう</rt></ruby>する",
       "<ruby>死亡<rt>しぼう</rt></ruby>した<ruby>利用者<rt>りようしゃ</rt></ruby>のカルテを<ruby>全<rt>すべ</rt></ruby>てシュレッダーにかけ、<ruby>記録<rt>きろく</rt></ruby>を<ruby>抹消<rt>まっしょう</rt></ruby>する",
-      "<ruby>施設<rt>しせつ</rt></ruby>の<ruby>売上<rt>うりあげ</rt></ruby><ruby>目標<rt>もくひょう</rt></ruby>を<ruby>達成<rt>たっせい</rt></ruby>するための<ruby>新規<rt>しんき</rt></ruby><ruby>入所<rt>にゅうしょ</rt></ruby><ruby>営業<rt>えいぎょう</rt></ruby><ruby>会議<rt>かいぎ</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う"
+      "<ruby>施設<rt>しせつ</rt></ruby>の<ruby>売上<rt>うりあげ</rt></ruby><ruby>目標<rt>もくひょう</rt></ruby>を<ruby>達成<rt>たっせい</rt></ruby>するための<ruby>新規<rt>しんき</rt></ruby><ruby>入所<rt>にゅうしょ</rt></ruby><ruby>営業<rt>えいぎょう</rt></ruby><ruby>会議<rt>かいぎ</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う",
+      "かかわったケアを<ruby>振<rt>ふ</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>って<ruby>今後<rt>こんご</rt></ruby>のケアを<ruby>向上<rt>こうじょう</rt></ruby>させるとともに、<ruby>職員<rt>しょくいん</rt></ruby><ruby>自身<rt>じしん</rt></ruby>のグリーフケアを<ruby>行<rt>おこな</rt></ruby>う"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "explanation": "デスカンファレンスは、ケースを<ruby>振<rt>ふ</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>り<ruby>今後<rt>こんご</rt></ruby>のケアの<ruby>向上<rt>こうじょう</rt></ruby>をはかるだけでなく、<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>死<rt>し</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>した<ruby>職員<rt>しょくいん</rt></ruby>の<ruby>悲嘆<rt>ひたん</rt></ruby>や<ruby>無力感<rt>むりょくかん</rt></ruby>をやわらげる「<ruby>職員<rt>しょくいん</rt></ruby>に<ruby>対<rt>たい</rt></ruby>するグリーフケア」の<ruby>意義<rt>いぎ</rt></ruby>を<ruby>持<rt>も</rt></ruby>ちます。",
     "keyword": "デスカンファレンスの<ruby>目的<rt>もくてき</rt></ruby>"
   },
@@ -1011,9 +1011,9 @@
     "question": "デスカンファレンスに<ruby>参加<rt>さんか</rt></ruby>する<ruby>職員<rt>しょくいん</rt></ruby>の「<ruby>心得<rt>こころえ</rt></ruby>」として、<ruby>教科書<rt>きょうかしょ</rt></ruby>が<ruby>示<rt>しめ</rt></ruby>しているものはどれか。",
     "choices": [
       "<ruby>反省<rt>はんせい</rt></ruby>の<ruby>場<rt>ば</rt></ruby>や<ruby>責任<rt>せきにん</rt></ruby>を<ruby>追及<rt>ついきゅう</rt></ruby>する<ruby>場<rt>ば</rt></ruby>ではないことを<ruby>共通<rt>きょうつう</rt></ruby><ruby>理解<rt>りかい</rt></ruby>し、<ruby>他者<rt>たしゃ</rt></ruby>の<ruby>意見<rt>いけん</rt></ruby>を<ruby>好意的<rt>こういてき</rt></ruby>に<ruby>聴<rt>き</rt></ruby>き<ruby>尊重<rt>そんちょう</rt></ruby>する",
-      "<ruby>先輩<rt>せんぱい</rt></ruby><ruby>職員<rt>しょくいん</rt></ruby>だけが<ruby>発言<rt>はつげん</rt></ruby>し、<ruby>新人<rt>しんじん</rt></ruby><ruby>職員<rt>しょくいん</rt></ruby>は<ruby>一切<rt>いっさい</rt></ruby><ruby>発言<rt>はつげん</rt></ruby>してはならない",
       "<ruby>意見<rt>いけん</rt></ruby>が<ruby>対立<rt>たいりつ</rt></ruby>したときは、どちらが<ruby>正<rt>ただ</rt></ruby>しいか<ruby>決着<rt>けっちゃく</rt></ruby>がつくまで<ruby>徹底的<rt>てっていてき</rt></ruby>に<ruby>議論<rt>ぎろん</rt></ruby>で<ruby>論破<rt>ろんぱ</rt></ruby>する",
-      "<ruby>悲<rt>かな</rt></ruby>しみや<ruby>辛<rt>つら</rt></ruby>さといった<ruby>個人的<rt>こじんてき</rt></ruby>な<ruby>感情<rt>かんじょう</rt></ruby>を<ruby>口<rt>くち</rt></ruby>にすることは<ruby>厳禁<rt>げんきん</rt></ruby>である"
+      "<ruby>悲<rt>かな</rt></ruby>しみや<ruby>辛<rt>つら</rt></ruby>さといった<ruby>個人的<rt>こじんてき</rt></ruby>な<ruby>感情<rt>かんじょう</rt></ruby>を<ruby>口<rt>くち</rt></ruby>にすることは<ruby>厳禁<rt>げんきん</rt></ruby>である",
+      "<ruby>先輩<rt>せんぱい</rt></ruby><ruby>職員<rt>しょくいん</rt></ruby>だけが<ruby>発言<rt>はつげん</rt></ruby>し、<ruby>新人<rt>しんじん</rt></ruby><ruby>職員<rt>しょくいん</rt></ruby>は<ruby>一切<rt>いっさい</rt></ruby><ruby>発言<rt>はつげん</rt></ruby>してはならない"
     ],
     "answer_index": 0,
     "explanation": "デスカンファレンスは「<ruby>反省<rt>はんせい</rt></ruby>の<ruby>場<rt>ば</rt></ruby>や<ruby>責任<rt>せきにん</rt></ruby>を<ruby>追及<rt>ついきゅう</rt></ruby>する<ruby>場<rt>ば</rt></ruby>ではない」ことを<ruby>共通<rt>きょうつう</rt></ruby><ruby>理解<rt>りかい</rt></ruby>とし、<ruby>自由<rt>じゆう</rt></ruby>に<ruby>意見<rt>いけん</rt></ruby>や<ruby>感情<rt>かんじょう</rt></ruby>を<ruby>出<rt>だ</rt></ruby>し<ruby>合<rt>あ</rt></ruby>える<ruby>雰囲気<rt>ふんいき</rt></ruby>を<ruby>大切<rt>たいせつ</rt></ruby>にして、<ruby>前向<rt>まえむ</rt></ruby>きに<ruby>次<rt>つぎ</rt></ruby>につなげます。",
@@ -1025,12 +1025,12 @@
     "topic_name": "<ruby>亡<rt>な</rt></ruby>くなった<ruby>後<rt>あと</rt></ruby>のケア（グリーフケア）と<ruby>多職種<rt>たしょくしゅ</rt></ruby><ruby>連携<rt>れんけい</rt></ruby>",
     "question": "<ruby>教科書<rt>きょうかしょ</rt></ruby>（<ruby>第<rt>だい</rt></ruby>3<ruby>節<rt>せつ</rt></ruby>）における「<ruby>協働<rt>きょうどう</rt></ruby>」という<ruby>言葉<rt>ことば</rt></ruby>の<ruby>意味<rt>いみ</rt></ruby>の<ruby>説明<rt>せつめい</rt></ruby>として<ruby>適切<rt>てきせつ</rt></ruby>なものはどれか。",
     "choices": [
-      "<ruby>協力<rt>きょうりょく</rt></ruby>して<ruby>働<rt>はたら</rt></ruby>くこと",
-      "2<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>者<rt>もの</rt></ruby>が<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせること（<ruby>同<rt>おな</rt></ruby>じ<ruby>条件<rt>じょうけん</rt></ruby>・<ruby>資格<rt>しかく</rt></ruby>で<ruby>結合<rt>けつごう</rt></ruby>した<ruby>関係<rt>かんけい</rt></ruby>）",
       "ともに<ruby>心<rt>こころ</rt></ruby>と<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせ、<ruby>助<rt>たす</rt></ruby>け<ruby>合<rt>あ</rt></ruby>って<ruby>仕事<rt>しごと</rt></ruby>をすること",
+      "2<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>者<rt>もの</rt></ruby>が<ruby>力<rt>ちから</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせること（<ruby>同<rt>おな</rt></ruby>じ<ruby>条件<rt>じょうけん</rt></ruby>・<ruby>資格<rt>しかく</rt></ruby>で<ruby>結合<rt>けつごう</rt></ruby>した<ruby>関係<rt>かんけい</rt></ruby>）",
+      "<ruby>協力<rt>きょうりょく</rt></ruby>して<ruby>働<rt>はたら</rt></ruby>くこと",
       "<ruby>同<rt>おな</rt></ruby>じ<ruby>目的<rt>もくてき</rt></ruby>をもつ<ruby>者<rt>もの</rt></ruby>が<ruby>互<rt>たが</rt></ruby>いに<ruby>連絡<rt>れんらく</rt></ruby>をとり、<ruby>協力<rt>きょうりょく</rt></ruby>し<ruby>合<rt>あ</rt></ruby>って<ruby>物事<rt>ものごと</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>うこと"
     ],
-    "answer_index": 0,
+    "answer_index": 2,
     "explanation": "<ruby>教科書<rt>きょうかしょ</rt></ruby>291ページの<ruby>解説<rt>かいせつ</rt></ruby>では、「<ruby>共同<rt>きょうどう</rt></ruby>：2<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>者<rt>もの</rt></ruby>が<ruby>力<rt>ちから</rt></ruby>をあわせること」「<ruby>協同<rt>きょうどう</rt></ruby>：ともに<ruby>心<rt>こころ</rt></ruby>と<ruby>力<rt>ちから</rt></ruby>をあわせ<ruby>助<rt>たす</rt></ruby>け<ruby>合<rt>あ</rt></ruby>って<ruby>仕事<rt>しごと</rt></ruby>をすること」「<ruby>協働<rt>きょうどう</rt></ruby>：<ruby>協力<rt>きょうりょく</rt></ruby>して<ruby>働<rt>はたら</rt></ruby>くこと」と<ruby>整理<rt>せいり</rt></ruby>されています。",
     "keyword": "「<ruby>協働<rt>きょうどう</rt></ruby>」の<ruby>意味<rt>いみ</rt></ruby>"
   },
@@ -1040,12 +1040,12 @@
     "topic_name": "<ruby>亡<rt>な</rt></ruby>くなった<ruby>後<rt>あと</rt></ruby>のケア（グリーフケア）と<ruby>多職種<rt>たしょくしゅ</rt></ruby><ruby>連携<rt>れんけい</rt></ruby>",
     "question": "<ruby>在宅<rt>ざいたく</rt></ruby>での<ruby>人生<rt>じんせい</rt></ruby>の<ruby>最終<rt>さいしゅう</rt></ruby><ruby>段階<rt>だんかい</rt></ruby>において、<ruby>利用者<rt>りようしゃ</rt></ruby>と<ruby>家族<rt>かぞく</rt></ruby>が<ruby>安心<rt>あんしん</rt></ruby>して<ruby>過<rt>す</rt></ruby>ごすために<ruby>医療<rt>いりょう</rt></ruby><ruby>体制<rt>たいせい</rt></ruby>としてあらかじめ<ruby>確認<rt>かくにん</rt></ruby>しておくべき<ruby>最<rt>もっと</rt></ruby>も<ruby>重要<rt>じゅうよう</rt></ruby>なことはどれか。",
     "choices": [
-      "<ruby>緊急<rt>きんきゅう</rt></ruby><ruby>時<rt>じ</rt></ruby><ruby>訪問<rt>ほうもん</rt></ruby><ruby>看護<rt>かんご</rt></ruby><ruby>加算<rt>かさん</rt></ruby>などの24<ruby>時間<rt>じかん</rt></ruby><ruby>対応<rt>たいおう</rt></ruby><ruby>体制<rt>たいせい</rt></ruby>や、<ruby>在宅<rt>ざいたく</rt></ruby><ruby>主治医<rt>しゅじい</rt></ruby>・<ruby>訪問看護師<rt>ほうもんかんごし</rt></ruby>との<ruby>緊急<rt>きんきゅう</rt></ruby>コール・<ruby>連絡<rt>れんらく</rt></ruby>ルートの<ruby>確保<rt>かくほ</rt></ruby>",
-      "<ruby>救急車<rt>きゅうきゅうしゃ</rt></ruby>を<ruby>呼<rt>よ</rt></ruby>ぶための119<ruby>番<rt>ばん</rt></ruby><ruby>通報<rt>つうほう</rt></ruby>の<ruby>練習<rt>れんしゅう</rt></ruby>を<ruby>毎日<rt>まいにち</rt></ruby>3<ruby>回<rt>かい</rt></ruby>くり<ruby>返<rt>かえ</rt></ruby>すこと",
       "<ruby>近隣<rt>きんりん</rt></ruby>のすべての<ruby>住民<rt>じゅうみん</rt></ruby>に<ruby>自宅<rt>じたく</rt></ruby>の<ruby>合鍵<rt>あいかぎ</rt></ruby>を<ruby>配<rt>くば</rt></ruby>っておくこと",
-      "<ruby>医師<rt>いし</rt></ruby>や<ruby>看護師<rt>かんごし</rt></ruby>には<ruby>頼<rt>たよ</rt></ruby>らず、<ruby>家族<rt>かぞく</rt></ruby>だけで<ruby>医療<rt>いりょう</rt></ruby><ruby>処置<rt>しょち</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う<ruby>誓約書<rt>せいやくしょ</rt></ruby>を<ruby>交<rt>か</rt></ruby>わすこと"
+      "<ruby>医師<rt>いし</rt></ruby>や<ruby>看護師<rt>かんごし</rt></ruby>には<ruby>頼<rt>たよ</rt></ruby>らず、<ruby>家族<rt>かぞく</rt></ruby>だけで<ruby>医療<rt>いりょう</rt></ruby><ruby>処置<rt>しょち</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う<ruby>誓約書<rt>せいやくしょ</rt></ruby>を<ruby>交<rt>か</rt></ruby>わすこと",
+      "<ruby>救急車<rt>きゅうきゅうしゃ</rt></ruby>を<ruby>呼<rt>よ</rt></ruby>ぶための119<ruby>番<rt>ばん</rt></ruby><ruby>通報<rt>つうほう</rt></ruby>の<ruby>練習<rt>れんしゅう</rt></ruby>を<ruby>毎日<rt>まいにち</rt></ruby>3<ruby>回<rt>かい</rt></ruby>くり<ruby>返<rt>かえ</rt></ruby>すこと",
+      "<ruby>緊急<rt>きんきゅう</rt></ruby><ruby>時<rt>じ</rt></ruby><ruby>訪問<rt>ほうもん</rt></ruby><ruby>看護<rt>かんご</rt></ruby><ruby>加算<rt>かさん</rt></ruby>などの24<ruby>時間<rt>じかん</rt></ruby><ruby>対応<rt>たいおう</rt></ruby><ruby>体制<rt>たいせい</rt></ruby>や、<ruby>在宅<rt>ざいたく</rt></ruby><ruby>主治医<rt>しゅじい</rt></ruby>・<ruby>訪問看護師<rt>ほうもんかんごし</rt></ruby>との<ruby>緊急<rt>きんきゅう</rt></ruby>コール・<ruby>連絡<rt>れんらく</rt></ruby>ルートの<ruby>確保<rt>かくほ</rt></ruby>"
     ],
-    "answer_index": 0,
+    "answer_index": 3,
     "explanation": "<ruby>在宅<rt>ざいたく</rt></ruby>での<ruby>看取<rt>みと</rt></ruby>りでは、「<ruby>何<rt>なに</rt></ruby>かあったときにどうしたらよいか」という<ruby>家族<rt>かぞく</rt></ruby>の<ruby>不安<rt>ふあん</rt></ruby>を<ruby>解消<rt>かいしょう</rt></ruby>するため、<ruby>緊急<rt>きんきゅう</rt></ruby>コールの<ruby>確保<rt>かくほ</rt></ruby>や、24<ruby>時間<rt>じかん</rt></ruby><ruby>対応<rt>たいおう</rt></ruby><ruby>体制<rt>たいせい</rt></ruby>（<ruby>在宅<rt>ざいたく</rt></ruby><ruby>主治医<rt>しゅじい</rt></ruby>・<ruby>訪問看護<rt>ほうもんかんご</rt></ruby>ステーション）の<ruby>連携<rt>れんけい</rt></ruby>ルートを<ruby>事前<rt>じぜん</rt></ruby>に<ruby>確認<rt>かくにん</rt></ruby>しておくことが<ruby>不可欠<rt>ふかけつ</rt></ruby>です。",
     "keyword": "<ruby>在宅<rt>ざいたく</rt></ruby>での<ruby>緊急<rt>きんきゅう</rt></ruby><ruby>体制<rt>たいせい</rt></ruby>と<ruby>多職種<rt>たしょくしゅ</rt></ruby><ruby>連携<rt>れんけい</rt></ruby>"
   }
